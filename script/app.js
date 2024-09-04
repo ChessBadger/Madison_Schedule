@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   // Check for saved login
-  const savedusername = localStorage.getItem('username');
+  const savedusername = localStorage.getItem('madisonUsername');
   const savedUserType = localStorage.getItem('userType');
   const savedUserDisplayName = localStorage.getItem('userDisplayName');
 
@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', function () {
   if (loginForm) {
     loginForm.addEventListener('submit', function (event) {
       event.preventDefault();
-      const username = document.getElementById('username').value.toLowerCase();
+      const username = document.getElementById('madisonUsername').value.toLowerCase();
       const password = document.getElementById('password').value;
 
       // Load user data from external file
@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', function () {
           } else if (user.password !== password) {
             document.getElementById('loginError').textContent = 'Invalid password';
           } else {
-            localStorage.setItem('username', username);
+            localStorage.setItem('madisonUsername', username);
             localStorage.setItem('userType', user.type);
             // localStorage.setItem('userDisplayName', user.displayName || username); CHANGE THIS
             localStorage.setItem('userDisplayName', user.firstName || username);
@@ -124,7 +124,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // Handle sign out
   if (signOutButton) {
     signOutButton.addEventListener('click', function () {
-      localStorage.removeItem('username');
+      localStorage.removeItem('madisonUsername');
       localStorage.removeItem('userType');
       localStorage.removeItem('userDisplayName');
       localStorage.removeItem('userOffice');
@@ -133,7 +133,7 @@ document.addEventListener('DOMContentLoaded', function () {
       document.getElementById('signOutButton').style.display = 'none';
       document.getElementById('jumpArrow').style.display = 'none';
       document.getElementById('openbtn').style.display = 'none';
-      document.getElementById('username').value = '';
+      document.getElementById('madisonUsername').value = '';
       document.getElementById('password').value = '';
       backgroundName.style.display = 'none';
       calendarContainer.style.display = 'none';
@@ -159,7 +159,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   function fetchAndSaveBulletinContent() {
     // Check if the user is logged in
-    const savedusername = localStorage.getItem('username');
+    const savedusername = localStorage.getItem('madisonUsername');
     if (!savedusername) {
       return; // Do not show the bulletin if the user is not logged in
     }
