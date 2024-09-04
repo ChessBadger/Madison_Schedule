@@ -35,11 +35,11 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
   // Check for saved login
-  const savedmadsionUsername = localStorage.getItem('madsionUsername');
+  const savedusername = localStorage.getItem('username');
   const savedUserType = localStorage.getItem('userType');
   const savedUserDisplayName = localStorage.getItem('userDisplayName');
 
-  if (savedmadsionUsername) {
+  if (savedusername) {
     document.getElementById('loginSection').style.display = 'none';
     document.getElementById('signOutButton').style.display = 'block';
     document.getElementById('jumpArrow').style.display = 'block';
@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', function () {
   if (loginForm) {
     loginForm.addEventListener('submit', function (event) {
       event.preventDefault();
-      const madsionUsername = document.getElementById('madsionUsername').value.toLowerCase();
+      const username = document.getElementById('username').value.toLowerCase();
       const password = document.getElementById('password').value;
 
       // Load user data from external file
@@ -82,17 +82,17 @@ document.addEventListener('DOMContentLoaded', function () {
         })
         .then((users) => {
           console.log(users); // Log users data for debugging
-          const user = users.find((user) => user.madsionUsername === madsionUsername);
+          const user = users.find((user) => user.username === username);
 
           if (!user) {
-            document.getElementById('loginError').textContent = 'Invalid madsionUsername';
+            document.getElementById('loginError').textContent = 'Invalid username';
           } else if (user.password !== password) {
             document.getElementById('loginError').textContent = 'Invalid password';
           } else {
-            localStorage.setItem('madsionUsername', madsionUsername);
+            localStorage.setItem('username', username);
             localStorage.setItem('userType', user.type);
-            // localStorage.setItem('userDisplayName', user.displayName || madsionUsername); CHANGE THIS
-            localStorage.setItem('userDisplayName', user.firstName || madsionUsername);
+            // localStorage.setItem('userDisplayName', user.displayName || username); CHANGE THIS
+            localStorage.setItem('userDisplayName', user.firstName || username);
             localStorage.setItem('userOffice', user.office);
             document.getElementById('loginSection').style.display = 'none';
             document.getElementById('signOutButton').style.display = 'block';
@@ -124,7 +124,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // Handle sign out
   if (signOutButton) {
     signOutButton.addEventListener('click', function () {
-      localStorage.removeItem('madsionUsername');
+      localStorage.removeItem('username');
       localStorage.removeItem('userType');
       localStorage.removeItem('userDisplayName');
       localStorage.removeItem('userOffice');
@@ -133,7 +133,7 @@ document.addEventListener('DOMContentLoaded', function () {
       document.getElementById('signOutButton').style.display = 'none';
       document.getElementById('jumpArrow').style.display = 'none';
       document.getElementById('openbtn').style.display = 'none';
-      document.getElementById('madsionUsername').value = '';
+      document.getElementById('username').value = '';
       document.getElementById('password').value = '';
       backgroundName.style.display = 'none';
       calendarContainer.style.display = 'none';
@@ -159,8 +159,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
   function fetchAndSaveBulletinContent() {
     // Check if the user is logged in
-    const savedmadsionUsername = localStorage.getItem('madsionUsername');
-    if (!savedmadsionUsername) {
+    const savedusername = localStorage.getItem('username');
+    if (!savedusername) {
       return; // Do not show the bulletin if the user is not logged in
     }
 
