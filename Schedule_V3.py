@@ -231,7 +231,7 @@ client = gspread.authorize(creds)
 drive_service = build('drive', 'v3', credentials=creds)
 
 # The name of the folder you want to search for
-folder_name = 'Fake Milwaukee'
+folder_name = 'Fake Madison'
 
 # Search for the folder by name to get its ID
 query = f"mimeType='application/vnd.google-apps.folder' and name='{folder_name}'"
@@ -351,62 +351,62 @@ if folders:
                                     break_outer_loop = True
                                     break
 
-                        # Assuming value is the string containing the meet times
-                        if value and current_state == 'searching' and 'courtesy meet' in value.lower():
-                            current_state == 'searching'
-                            courtesy_meet = True
-                        elif value and current_state == 'searching' and 'meet' in value.lower():
-                            store_run = StoreRun(
-                                date=None, start_time=None)
-                            # Split the value by lines
-                            lines = value.split('\n')
-                            # Initialize a dictionary to hold meet times
-                            meet_times_dict = {'M:': None,
-                                               'IL:': None, 'FV:': None, 'MD:': None}
-                            default_value = None
-                            # Iterate over each line to find meet times
-                            for line in lines:
-                                if line.startswith('M:'):
-                                    meet_times_dict['M:'] = line
-                                elif line.startswith('IL:'):
-                                    meet_times_dict['IL:'] = line
-                                elif line.startswith('FV:'):
-                                    meet_times_dict['FV:'] = line
-                                elif line.startswith('MD:'):
-                                    meet_times_dict['MD:'] = line
-                                else:
-                                    default_value = line.strip()
-                            # Add meet times to the list in the specified order
-                            store_run.meet_time = [
-                                meet_times_dict['M:'] or default_value,
-                                meet_times_dict['IL:'],
-                                meet_times_dict['FV:'],
-                                meet_times_dict['MD:']
-                            ]
+                        # # Assuming value is the string containing the meet times
+                        # if value and current_state == 'searching' and 'courtesy meet' in value.lower():
+                        #     current_state == 'searching'
+                        #     courtesy_meet = True
+                        # elif value and current_state == 'searching' and 'meet' in value.lower():
+                        #     store_run = StoreRun(
+                        #         date=None, start_time=None)
+                        #     # Split the value by lines
+                        #     lines = value.split('\n')
+                        #     # Initialize a dictionary to hold meet times
+                        #     meet_times_dict = {'M:': None,
+                        #                        'IL:': None, 'FV:': None, 'MD:': None}
+                        #     default_value = None
+                        #     # Iterate over each line to find meet times
+                        #     for line in lines:
+                        #         if line.startswith('M:'):
+                        #             meet_times_dict['M:'] = line
+                        #         elif line.startswith('IL:'):
+                        #             meet_times_dict['IL:'] = line
+                        #         elif line.startswith('FV:'):
+                        #             meet_times_dict['FV:'] = line
+                        #         elif line.startswith('MD:'):
+                        #             meet_times_dict['MD:'] = line
+                        #         else:
+                        #             default_value = line.strip()
+                        #     # Add meet times to the list in the specified order
+                        #     store_run.meet_time = [
+                        #         meet_times_dict['M:'] or default_value,
+                        #         meet_times_dict['IL:'],
+                        #         meet_times_dict['FV:'],
+                        #         meet_times_dict['MD:']
+                        #     ]
 
-                            if courtesy_meet:
-                                # Remove any None values from the list
-                                store_run.meet_time = [
-                                    time + '\n(COURTESY MEET)' for time in store_run.meet_time if time is not None]
-                            else:
-                                store_run.meet_time = [
-                                    time for time in store_run.meet_time if time is not None]
-                            current_state = 'found_meet'
-                        elif value and current_state == 'searching' and 'leave' in value.lower():
-                            if courtesy_meet:
-                                store_run = StoreRun(
-                                    date=None,  start_time=None)
-                                store_run.meet_time = value + \
-                                    '\n(COURTESY MEET)'
-                            else:
-                                store_run = StoreRun(
-                                    date=None,  start_time=None)
-                                store_run.meet_time = value
-                            current_state = 'found_meet'
-                        elif value and current_state == 'found_meet':
-                            store_run.start_time = value
-                            store_run.date = header_value
-                            current_state = 'found_start'
+                        #     if courtesy_meet:
+                        #         # Remove any None values from the list
+                        #         store_run.meet_time = [
+                        #             time + '\n(COURTESY MEET)' for time in store_run.meet_time if time is not None]
+                        #     else:
+                        #         store_run.meet_time = [
+                        #             time for time in store_run.meet_time if time is not None]
+                        #     current_state = 'found_meet'
+                        # elif value and current_state == 'searching' and 'leave' in value.lower():
+                        #     if courtesy_meet:
+                        #         store_run = StoreRun(
+                        #             date=None,  start_time=None)
+                        #         store_run.meet_time = value + \
+                        #             '\n(COURTESY MEET)'
+                        #     else:
+                        #         store_run = StoreRun(
+                        #             date=None,  start_time=None)
+                        #         store_run.meet_time = value
+                        #     current_state = 'found_meet'
+                        # elif value and current_state == 'found_meet':
+                        #     store_run.start_time = value
+                        #     store_run.date = header_value
+                        #     current_state = 'found_start'
                         # Check for anyone scheduled in the office
                         elif value and current_state == 'searching' and 'office' in value.lower() and 'leave' not in value.lower():
                             store_run = StoreRun(

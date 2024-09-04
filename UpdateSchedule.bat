@@ -1,6 +1,6 @@
 @echo off
 SETLOCAL
-SET REPO_DIR="C:\\Users\\clark\\OneDrive\\Desktop\\Master_Schedule"
+SET REPO_DIR="C:\\Users\\clark\\OneDrive\\Desktop\\Madison Schedule"
 
 :: Change to the repository directory
 cd /d %REPO_DIR%
@@ -12,7 +12,7 @@ IF %ERRORLEVEL% NEQ 0 (
 )
 
 :: Run the Python script
-python "C:\\Users\\clark\\OneDrive\\Desktop\\Master_Schedule\\Schedule_V3.py"
+python "C:\\Users\\clark\\OneDrive\\Desktop\\Madison Schedule\\Schedule_V3.py"
 IF %ERRORLEVEL% NEQ 0 (
     color 0A
     echo Error running Schedule_V3.py

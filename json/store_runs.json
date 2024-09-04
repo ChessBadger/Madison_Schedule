@@ -38,6 +38,110 @@
     {
         "date": "Tue, Sep 3",
         "meet_time": [],
+        "start_time": "9:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #080, EVANSVILLE"
+        ],
+        "address": [
+            "8 N COUNTY RD M"
+        ],
+        "link": [
+            "https://goo.gl/maps/c6NThwavanF2"
+        ],
+        "store_note": [
+            "*IL Meet is 7:45 am at IL Office <br><hr id=\"note_separator\">Enter through normal entry doors. Then go towards exit doors by self checkouts. Up the stairs and to the right is where we set up."
+        ],
+        "employee_list": {
+            "Ashley P": [
+                "1)",
+                "@ Store,\nCorolla, Equip",
+                "Rockford"
+            ],
+            "Angela": [
+                "2)",
+                "Driver 1/2\nCamry 3",
+                "none"
+            ],
+            "Anisha": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Brianna": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Eva": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Evelin": [
+                "6)",
+                "Driver 1/2\nGray Van",
+                "none"
+            ],
+            "Justin": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Michael N": [
+                "8)",
+                "Driver 1/2\nGray Van",
+                "Rockford"
+            ],
+            "Qiana": [
+                "9)",
+                "Driver 1/2\nCamry 3",
+                "none"
+            ],
+            "Taylor": [
+                "10)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Sep 3",
+        "meet_time": [],
+        "start_time": "8:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "GUNDERSEN RX TOMAH CLINIC"
+        ],
+        "address": [
+            "505 GOPHER AVENUE"
+        ],
+        "link": [
+            "https://goo.gl/maps/1TWQi7MTm3reQPw6A"
+        ],
+        "store_note": [
+            "*Sarah & Lori - meet at 7:15 am WI Dells Walmart"
+        ],
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "Driver, Equip",
+                "none"
+            ],
+            "Lori": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Sep 3",
+        "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -51,80 +155,18 @@
         "link": [
             "https://goo.gl/maps/rULfaGpqQPG2"
         ],
-        "store_note": [],
+        "store_note": [
+            "*IL leave time is 4:30 am"
+        ],
         "employee_list": {
             "Katherine": [
                 "1)",
-                "Optima available, Equip",
+                "@ Store, Equip",
                 "none"
             ],
             "Nate": [
                 "2)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Sep 3",
-        "meet_time": [
-            "6:15 AM MEET BAYSHORE"
-        ],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "AURORA OUTPATIENT RX #1222, CEDAR GROVE"
-        ],
-        "address": [
-            "313 SOUTH MAIN ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/Z3osjsSq666QtkPNA"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Ian": [
-                "1)",
-                "White Camry, Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Sep 3",
-        "meet_time": [
-            "6:15 AM MEET WATERTOWN PLANK"
-        ],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "EXCEL FINANCIAL"
-        ],
-        "store_name": [
-            "RAPID MART HARTFORD"
-        ],
-        "address": [
-            "2712 E SUMNER ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/5dpExsTUAgz"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Driver, Equip",
-                "none"
-            ],
-            "Lashaun": [
-                "2)",
-                "",
+                "@ Store,\nOptima",
                 "none"
             ]
         }
@@ -156,86 +198,106 @@
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "PICK #397 +RX, BROOKFIELD-GREENFIELD"
+            "METRO #102 +RX, SUN PRAIRIE-IRONWOOD"
         ],
         "address": [
-            "15170 W GREENFIELD AVENUE"
+            "2538 IRONWOOD DRIVE"
         ],
         "link": [
-            "https://goo.gl/maps/VfL7fqd5WAB2"
+            "https://goo.gl/maps/KBvQksBjdgC2"
         ],
         "store_note": [
-            "SET UP ON REG CLOSEST TO CUBICLES <br><hr id=\"note_separator\">5:15 am meet for Grafton crew"
+            "*IL Meet is 4:45 am at IL Office <br><hr id=\"note_separator\">SET UP ON REG #1 OR 2 <br><hr id=\"note_separator\">*Sarah & Aivy meet @ 5:20 am at Wayside Park, Portage <br><hr id=\"note_separator\">*Nate bringing Angela and Taylor"
         ],
         "employee_list": {
-            "DJ": [
+            "Nate": [
                 "1)",
-                "Equip",
+                "@ Store, Optima, Equip",
                 "none"
             ],
-            "Carlie": [
+            "Aivy": [
                 "2)",
-                "",
+                "@ Store,\n(w/ Sarah),\n1st Scan",
                 "none"
             ],
-            "Casey": [
+            "Angela": [
                 "3)",
-                "",
+                "@ Store,\nw/ Nate, 4:15",
                 "none"
             ],
-            "Curt": [
+            "Anisha": [
                 "4)",
                 "",
                 "none"
             ],
-            "Cynthia": [
+            "Ashley P": [
                 "5)",
-                "",
-                "none"
+                "Driver,\nSilver Van,\nSupv Rx",
+                "Rockford"
             ],
-            "Greg": [
+            "Brianna": [
                 "6)",
-                "",
+                "@ Store",
                 "none"
             ],
-            "Jerry D": [
+            "Eva": [
                 "7)",
-                "Rx (1st Rx)",
-                "Milwaukee"
-            ],
-            "Katherine": [
-                "8)",
-                "After Aurora",
+                "Rx",
                 "none"
             ],
-            "Kim": [
+            "Evelin": [
+                "8)",
+                "work w/ Lorena",
+                "none"
+            ],
+            "Joseph": [
                 "9)",
                 "",
                 "none"
             ],
-            "Lashaun": [
+            "Josh S": [
                 "10)",
-                "Supv Rx",
-                "none"
+                "",
+                "Rockford"
             ],
-            "Robyn": [
+            "Josie": [
                 "11)",
-                "",
+                "After KW count",
                 "none"
             ],
-            "Sonia": [
+            "Justin": [
                 "12)",
-                "",
+                "Driver 1/2\nCorolla",
                 "none"
             ],
-            "Stephanie": [
+            "Keilah": [
                 "13)",
                 "",
                 "none"
             ],
-            "Sue": [
+            "Lorena": [
                 "14)",
-                "After Aurora",
+                "1st Day",
+                "none"
+            ],
+            "Lori": [
+                "15)",
+                "After KW count",
+                "none"
+            ],
+            "Michael N": [
+                "16)",
+                "Driver 1/2\nCorolla,\nwork w/ Aivy",
+                "Rockford"
+            ],
+            "Sarah": [
+                "17)",
+                "@ Store,\nw/ Aivy",
+                "none"
+            ],
+            "Taylor": [
+                "18)",
+                "@ Store,\nw/ Nate, 4:15",
                 "none"
             ]
         }
@@ -243,68 +305,165 @@
     {
         "date": "Wed, Sep 4",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "6:30 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "AURORA OUTPATIENT RX #1105, BROOKFIELD"
+            "KELLEY #77, ABERG AVE MOBIL, MADISON"
         ],
         "address": [
-            "16985 W BLUEMOUND - SUITE 100"
+            "2601 SHOPKO DR"
         ],
         "link": [
-            "https://goo.gl/maps/jH8mU5GKz9qMkuhD8"
+            "https://goo.gl/maps/wunNn18A34r"
         ],
-        "store_note": [],
+        "store_note": [
+            "*IL leave time is 5:15 am"
+        ],
         "employee_list": {
-            "Katherine": [
+            "Qiana": [
                 "1)",
-                "Optima available, Equip",
+                "Driver, Camry 3, Equip",
                 "none"
             ],
-            "Sue": [
+            "Emily L": [
                 "2)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Sep 4",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "EXCEL FINANCIAL"
-        ],
-        "store_name": [
-            "DAYBREAK, DELAFIELD"
-        ],
-        "address": [
-            "622 GENESEE ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/dNtyDnuiw6J2"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Ian": [
-                "1)",
-                "Gold Camry available, Equip",
+                "w/ Qiana",
+                "Rockford"
+            ],
+            "Josie": [
+                "3)",
+                "@ Store",
                 "none"
             ],
-            "Paul": [
-                "2)",
-                "",
+            "Lori": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Palmer": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Savannah": [
+                "6)",
+                "@ Store",
                 "none"
             ]
         }
     },
     {
         "date": "Thu, Sep 5",
-        "meet_time": [
-            "4:15 AM S RACINE COURT MEET"
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
         ],
+        "store_name": [
+            "FESTIVAL #2769, HOLMEN - LIFO"
+        ],
+        "address": [
+            "123 HALE DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/Zq99qW6zntK2"
+        ],
+        "store_note": [
+            "*IL Meet is 3:30 am at IL Office <br><hr id=\"note_separator\">STORE RESET-REMAPPED <br><hr id=\"note_separator\">*Sarah, Aivy, Brianna, & Lori - meet at 4:40 am WI Dells Walmart"
+        ],
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "Driver,\nEquip",
+                "none"
+            ],
+            "Aivy": [
+                "2)",
+                "w/ Sarah,\n1st Financial",
+                "none"
+            ],
+            "Angela": [
+                "3)",
+                "Driver, 1/2\nSilver Van",
+                "none"
+            ],
+            "Anisha": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Ashley P": [
+                "5)",
+                "Driver, 1/2\nSilver Van",
+                "Rockford"
+            ],
+            "Brianna": [
+                "6)",
+                "w/ Sarah",
+                "none"
+            ],
+            "Emily L": [
+                "7)",
+                "",
+                "Rockford"
+            ],
+            "Eva": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Evelin": [
+                "9)",
+                "Driver, 1/2\nCorolla,\nwork w/ Lorena",
+                "none"
+            ],
+            "Joseph": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "11)",
+                "",
+                "Rockford"
+            ],
+            "Justin": [
+                "12)",
+                "Driver, 1/2\nCorolla",
+                "none"
+            ],
+            "Keilah": [
+                "13)",
+                "",
+                "none"
+            ],
+            "Lorena": [
+                "14)",
+                "1st Financial",
+                "none"
+            ],
+            "Lori": [
+                "15)",
+                "w/ Sarah",
+                "none"
+            ],
+            "Michael N": [
+                "16)",
+                "Driver, 1/2\nOptima,\nwork w/ Aivy",
+                "Rockford"
+            ],
+            "Nate": [
+                "17)",
+                "Driver, 1/2\nOptima",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Sep 5",
+        "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -319,80 +478,80 @@
             "https://goo.gl/maps/iAzdtqSGdcv"
         ],
         "store_note": [
-            "SET UP ON REG #1"
+            "*IL Meet is 4:45 am at IL Office"
         ],
         "employee_list": {
             "Kim": [
                 "1)",
-                "@ Store, Sante Fe Equip",
+                "@ Store, Equip",
                 "none"
             ],
-            "Casey": [
+            "Qiana": [
                 "2)",
-                "Driver,\nGold Camry",
+                "Driver, Camry 3",
                 "none"
             ],
-            "Curt": [
+            "Taylor": [
                 "3)",
                 "",
                 "none"
             ],
-            "Cynthia": [
+            "Casey": [
                 "4)",
-                "",
+                "@ Store",
+                "none"
+            ],
+            "Curt": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Cynthia": [
+                "6)",
+                "@ Store",
                 "none"
             ],
             "Ian": [
-                "5)",
-                "Driver,\nRed Van",
+                "7)",
+                "@ Store",
                 "none"
             ],
             "Jerry D": [
-                "6)",
-                "",
+                "8)",
+                "@ Store",
                 "Milwaukee"
             ],
             "Justin Learned": [
-                "7)",
-                "2nd Scan,\nwork w/ Lashaun",
+                "9)",
+                "@ Store,\n2nd Scan",
                 "none"
             ],
             "Katherine": [
-                "8)",
-                "",
+                "10)",
+                "@ Store",
                 "none"
             ],
             "Lashaun": [
-                "9)",
-                "Driver,\nOptima,\nTrainer",
+                "11)",
+                "@ Store,\nTrainer",
                 "none"
             ],
             "Paul": [
-                "10)",
-                "",
+                "12)",
+                "@ Store",
                 "none"
             ],
             "Robyn": [
-                "11)",
-                "",
+                "13)",
+                "@ Store",
                 "none"
             ],
             "Sonia": [
-                "12)",
-                "",
-                "none"
-            ],
-            "Sue": [
-                "13)",
-                "",
-                "none"
-            ],
-            "Qiana": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Taylor": [
+            "Sue": [
                 "15)",
                 "@ Store",
                 "none"
@@ -400,30 +559,41 @@
         }
     },
     {
-        "date": "Thu, Sep 5",
+        "date": "Fri, Sep 6",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "7:00 AM START",
         "inv_type": [
+            "DC5-ITEM LEVEL",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "AURORA OUTPATIENT RX #1017, WAUWATOSA"
+            "GUNDERSEN RX MOUNDVIEW OUTPATIENT PHARMACY, FRIENDSHIP",
+            "GUNDERSEN RX ADAMS INPATIENT, FRIENDSHIP"
         ],
         "address": [
-            "1220 DEWEY AVENUE"
+            "402 W LAKE ST",
+            "402 WEST LAKE STREET"
         ],
         "link": [
-            "https://goo.gl/maps/9FX8iZxiZbN2"
+            "https://goo.gl/maps/9f6ZvuRxzJ92",
+            "https://goo.gl/maps/DNgJfA4quxQ3MhAs5"
         ],
-        "store_note": [],
+        "store_note": [
+            "*Sarah, Josie & Lori - meet at 6:15 am WI Dells Walmart"
+        ],
         "employee_list": {
-            "DJ": [
+            "Sarah": [
                 "1)",
-                "Equip",
+                "Driver, Equip",
                 "none"
             ],
-            "Carlie": [
+            "Josie": [
                 "2)",
+                "",
+                "none"
+            ],
+            "Lori": [
+                "3)",
                 "",
                 "none"
             ]
@@ -431,9 +601,7 @@
     },
     {
         "date": "Fri, Sep 6",
-        "meet_time": [
-            "5:30 AM MEET COLLEGE (SOUTHWEST)"
-        ],
+        "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -448,7 +616,7 @@
             "https://goo.gl/maps/Xpi4RcchLn92"
         ],
         "store_note": [
-            "SET UP ON REG CLOSEST TOWARDS CLICKLIST"
+            "*IL Meet is 4:30 am at IL Office"
         ],
         "employee_list": {
             "Brianna": [
@@ -456,223 +624,104 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Carlie": [
+            "Angela": [
                 "2)",
-                "After Aurora",
+                "",
                 "none"
             ],
-            "Cynthia": [
+            "Anisha": [
                 "3)",
                 "",
                 "none"
             ],
-            "DJ": [
+            "Ashley P": [
                 "4)",
-                "After Aurora",
-                "none"
+                "Driver,\nSilver Van",
+                "Rockford"
             ],
-            "Ian": [
+            "Elijah": [
                 "5)",
-                "Driver,\nSante Fe",
-                "none"
-            ],
-            "Kim": [
-                "6)",
                 "",
                 "none"
             ],
-            "Sonia": [
+            "Emily L": [
+                "6)",
+                "",
+                "Rockford"
+            ],
+            "Eva": [
                 "7)",
                 "",
                 "none"
             ],
-            "Angela": [
-                "8)",
-                "@ Store",
-                "none"
-            ],
-            "Anisha": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "Ashley P": [
-                "10)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Elijah": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Emily L": [
-                "12)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Eva": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
             "Evelin": [
-                "14)",
-                "@ Store,\nTrainer",
+                "8)",
+                "Driver, 1/2\nCamry 3,\nwork w/ Lorena",
                 "none"
             ],
             "Joseph": [
-                "15)",
-                "@ Store",
+                "9)",
+                "",
                 "none"
             ],
             "Josh S": [
-                "16)",
-                "@ Store",
+                "10)",
+                "",
                 "Rockford"
             ],
             "Justin": [
-                "17)",
-                "@ Store,\nRx (1st Rx)",
+                "11)",
+                "Driver, 1/2\nOptima,\nRx (1st Rx)",
                 "none"
             ],
             "Lorena": [
-                "18)",
-                "@ Store,\n2nd Scan",
+                "12)",
+                "2nd Scan",
                 "none"
             ],
             "Nate": [
-                "19)",
-                "@ Store,\nSupv Rx",
+                "13)",
+                "Driver, 1/2\nOptima,\nSupv Rx",
                 "none"
             ],
             "Qiana": [
+                "14)",
+                "Driver, 1/2\nCamry 3",
+                "none"
+            ],
+            "Taylor": [
+                "15)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "16)",
+                "@ Store,\nAfter Aurora",
+                "none"
+            ],
+            "Cynthia": [
+                "17)",
+                "@ Store",
+                "none"
+            ],
+            "DJ": [
+                "18)",
+                "@ Store,\nAfter Aurora",
+                "none"
+            ],
+            "Ian": [
+                "19)",
+                "@ Store",
+                "none"
+            ],
+            "Kim": [
                 "20)",
                 "@ Store",
                 "none"
             ],
-            "Taylor": [
+            "Sonia": [
                 "21)",
                 "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Sep 6",
-        "meet_time": [
-            "5:30 AM MEET COLLEGE (SOUTHWEST)"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "AURORA OUTPATIENT RX #1070, RACINE"
-        ],
-        "address": [
-            "8400 WASHINGTON AVENUE"
-        ],
-        "link": [
-            "https://goo.gl/maps/WsqKM5J2Bo42"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Driver,\nAltima, Euqip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Sep 6",
-        "meet_time": [
-            "4:00 AM MEET WATERTOWN PLANK"
-        ],
-        "start_time": "6:30 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "FESTIVAL #2691, WESTON - LIFO"
-        ],
-        "address": [
-            "6205 BUSINESS HWY 51"
-        ],
-        "link": [
-            "https://goo.gl/maps/6QpvpLFDTrh8njoi9"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Jeremiah": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Casey": [
-                "2)",
-                "Driver,\nRed Van",
-                "none"
-            ],
-            "Greg": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Jerry D": [
-                "4)",
-                "",
-                "Milwaukee"
-            ],
-            "Paul": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Robyn": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Jacqui": [
-                "7)",
-                "@ Store  ",
-                "none"
-            ],
-            "Jerry S": [
-                "8)",
-                "@ Store  ",
-                "Fox Valley"
-            ],
-            "Kirsten": [
-                "9)",
-                "@ Store  ",
-                "none"
-            ],
-            "Marcia": [
-                "10)",
-                "@ Store  ",
-                "none"
-            ],
-            "Michelle": [
-                "11)",
-                "Driver, pick up Trevor",
-                "none"
-            ],
-            "Nagui": [
-                "12)",
-                "@ Store  ",
-                "none"
-            ],
-            "Trevor": [
-                "13)",
-                "meet Michelle 6am @ Point Target",
                 "none"
             ]
         }
@@ -713,45 +762,45 @@
             "https://goo.gl/maps/vQEGbDwowNJ7UTyo7"
         ],
         "store_note": [
-            "FEW RESETS-REMAPPED"
+            "*IL Meet is 4:15 am at IL Office"
         ],
         "employee_list": {
             "DJ": [
                 "1)",
-                "Equip",
+                "@ Store, Equip",
                 "none"
             ],
-            "Cynthia": [
+            "Anisha": [
                 "2)",
                 "",
                 "none"
             ],
-            "Jerry D": [
-                "3)",
-                "",
-                "Milwaukee"
-            ],
-            "Paul": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Anisha": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
             "Ashley P": [
-                "6)",
-                "@ Store",
+                "3)",
+                "Driver,\nSilver Van",
                 "Rockford"
             ],
             "Josh S": [
-                "7)",
-                "@ Store",
+                "4)",
+                "",
                 "Rockford"
             ],
             "Nate": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Cynthia": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry D": [
+                "7)",
+                "@ Store",
+                "Milwaukee"
+            ],
+            "Paul": [
                 "8)",
                 "@ Store",
                 "none"
@@ -778,33 +827,33 @@
         "employee_list": {
             "Kim": [
                 "1)",
-                "Sante Fe available, Equip",
-                "none"
-            ],
-            "Ian": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Katherine": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Lashaun": [
-                "4)",
-                "",
+                "@ Store, Equip",
                 "none"
             ],
             "Brianna": [
-                "5)",
+                "2)",
+                "@ Store",
+                "none"
+            ],
+            "Ian": [
+                "3)",
                 "@ Store",
                 "none"
             ],
             "Jerry S": [
-                "6)",
+                "4)",
                 "@ Store",
                 "Fox Valley"
+            ],
+            "Katherine": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Lashaun": [
+                "6)",
+                "@ Store",
+                "none"
             ],
             "Nagui": [
                 "7)",
@@ -813,174 +862,6 @@
             ],
             "Serena": [
                 "8)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Sep 9",
-        "meet_time": [
-            "5:30 AM MEET COLLEGE (SOUTHWEST)"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "PIGGLY WIGGLY #272, UNION GROVE"
-        ],
-        "address": [
-            "4400 67TH AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/KBLV72sfrbE2"
-        ],
-        "store_note": [
-            "SET UP ON REG #5"
-        ],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "Driver,\nRed Van, Equip",
-                "none"
-            ],
-            "Casey": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Lashaun": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Paul": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "5)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Sep 9",
-        "meet_time": [],
-        "start_time": "6:30 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "FESTIVAL #2697, WEST ALLIS - LIFO"
-        ],
-        "address": [
-            "11111 W GREENFIELD AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/dL7sLochv5e9x5zB7"
-        ],
-        "store_note": [
-            "FEW RESETS-REMAPPED"
-        ],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Cynthia": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Greg": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Ian": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Jerry D": [
-                "6)",
-                "",
-                "Milwaukee"
-            ],
-            "Justin Learned": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Stephanie": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Sue": [
-                "9)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Sep 9",
-        "meet_time": "4:45 AM OFFICE LEAVE TIME",
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "DHILLON'S STATION 51 LLC, JANESVILLE"
-        ],
-        "address": [
-            "1620 W US HWY 14"
-        ],
-        "link": [
-            "https://goo.gl/maps/AMes3hiS3DN1CYZx6"
-        ],
-        "store_note": [
-            "*Samantha from Dhillon's will be at this inven to assist with the Liq B/R count"
-        ],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Optima, Equip",
-                "none"
-            ],
-            "Anisha": [
-                "2)",
-                "@ Store",
-                "none"
-            ],
-            "Joseph": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
-            "Josh S": [
-                "4)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Michael N": [
-                "5)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Nick": [
-                "6)",
                 "@ Store",
                 "none"
             ]
@@ -1002,7 +883,9 @@
         "link": [
             "https://goo.gl/maps/qfCDC9wyh9GVdu7w7"
         ],
-        "store_note": [],
+        "store_note": [
+            "*IL Meet is 4:45 am at IL Office"
+        ],
         "employee_list": {
             "Brianna": [
                 "1)",
@@ -1011,27 +894,27 @@
             ],
             "Ashley P": [
                 "2)",
-                "@ Store",
+                "Driver,\nSilver Van",
                 "Rockford"
             ],
             "Elijah": [
                 "3)",
-                "@ Store",
+                "",
                 "none"
             ],
             "Evelin": [
                 "4)",
-                "@ Store",
+                "Trainer",
                 "none"
             ],
             "Keilah": [
                 "5)",
-                "@ Store",
+                "",
                 "none"
             ],
             "Lorena": [
                 "6)",
-                "@ Store,\n2nd Financial",
+                "2nd Financial",
                 "none"
             ],
             "Ron": [
@@ -1042,241 +925,336 @@
         }
     },
     {
-        "date": "Tue, Sep 10",
+        "date": "Mon, Sep 9",
+        "meet_time": [],
+        "start_time": "OVERNIGHT",
+        "inv_type": [
+            "7:00 AM START",
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "DC5-ITEM LEVEL",
+            "GUNDERSEN RX, LA CROSSE-VILLAGE"
+        ],
+        "address": [
+            "GUNDERSEN RX,  LA CROSSE-CASS ST",
+            "2511 GREEN BAY ST"
+        ],
+        "link": [
+            "528 CASS ST",
+            "https://goo.gl/maps/VVKbr1VWki657y2v7"
+        ],
+        "store_note": [
+            "https://goo.gl/maps/d2sgcBiR3sS2",
+            "*IL Meet is 4:00 am at IL Office <br><hr id=\"note_separator\">*Sarah & Lori - meet at 5:30 am WI Dells Walmart"
+        ],
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "Driver 1/2, Equip",
+                "none"
+            ],
+            "Lori": [
+                "2)",
+                "Driver 1/2",
+                "none"
+            ],
+            "Nate": [
+                "3)",
+                "Driver, Optima",
+                "none"
+            ],
+            "Qiana": [
+                "4)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Sep 9",
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "PICK #431, FRANKLIN -\nS LOVERS LANE RD"
+            "DHILLON'S STATION 51 LLC, JANESVILLE"
         ],
         "address": [
-            "7780 S LOVERS LANE ROAD"
+            "1620 W US HWY 14"
         ],
         "link": [
-            "https://goo.gl/maps/vq4QCMAV1rj"
+            "https://goo.gl/maps/AMes3hiS3DN1CYZx6"
         ],
         "store_note": [
-            "SET UP ON REG CLOSEST TOWARDS RESTROOMS"
-        ],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Curt": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Cynthia": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Greg": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Ian": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Justin Learned": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Lashaun": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Paul": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Robyn": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "11)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Sep 10",
-        "meet_time": [
-            "5:15 AM MEET OFFICE"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "DHILLON'S BP, ASHIPPUN"
-        ],
-        "address": [
-            "N649 STATE RD 67"
-        ],
-        "link": [
-            "https://goo.gl/maps/ma91pJMETDK2"
-        ],
-        "store_note": [
-            "*Check in with Franklin PNS after the store please"
+            "*Samantha from Dhillon's will be at this inven to assist with the Liq B/R count <br><hr id=\"note_separator\">*IL Meet is 5:15 am at IL Office"
         ],
         "employee_list": {
             "Katherine": [
                 "1)",
-                "Equip",
-                "none"
-            ],
-            "Casey": [
-                "2)",
-                "Driver,\nGold Camry",
-                "none"
-            ],
-            "Sue": [
-                "3)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Sep 10",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
-        ],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Sep 11",
-        "meet_time": [
-            "4:15 AM MEET COLLEGE (SOUTHWEST)"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "MARIANO'S #530 +RX, EVERGREEN PARK"
-        ],
-        "address": [
-            "2559 W 95TH ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/msSSp4YpWZR2"
-        ],
-        "store_note": [
-            "SET UP ON REG #1 <br><hr id=\"note_separator\">ANOOD THE ASSISTANT STORE DIRECTOR HAS BEEN THE ONE LOOKING AT THE REPORTS <br><hr id=\"note_separator\">FEW RESETS-REMAPPED"
-        ],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "@ Store,\nSante Fe, Equip",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
-                "",
-                "none"
-            ],
-            "DJ": [
-                "3)",
-                "Driver,\nAltima",
-                "none"
-            ],
-            "Greg": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Ian": [
-                "5)",
-                "Driver,\nRed Van",
-                "none"
-            ],
-            "Jerry D": [
-                "6)",
-                "",
-                "Milwaukee"
-            ],
-            "Justin Learned": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Katherine": [
-                "8)",
-                "Supv Rx",
-                "none"
-            ],
-            "Paul": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Robyn": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "11)",
-                "",
-                "none"
-            ],
-            "Stephanie": [
-                "12)",
-                "Trainer",
-                "none"
-            ],
-            "Sue": [
-                "13)",
-                "Driver,\nOptima",
-                "none"
-            ],
-            "Justin Lee": [
-                "14)",
-                "@ Store,\nRx",
-                "none"
-            ],
-            "Keilah": [
-                "15)",
                 "@ Store",
                 "none"
             ],
-            "Lorena": [
-                "16)",
-                "@ Store,\n3rd Scan",
+            "Anisha": [
+                "2)",
+                "",
                 "none"
+            ],
+            "Joseph": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "4)",
+                "",
+                "Rockford"
+            ],
+            "Michael N": [
+                "5)",
+                "Driver,\nCamry 3",
+                "Rockford"
+            ],
+            "Nick": [
+                "6)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Sep 9",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "MODAS"
+        ],
+        "store_name": [
+            "KELLEY #58, TYLER CREEK MOBIL, HAMPSHIRE"
+        ],
+        "address": [
+            "15N341 RTE 47"
+        ],
+        "link": [
+            "https://goo.gl/maps/SW6S8XqhdGcLz6W2A"
+        ],
+        "store_note": [
+            "*IL Meet is 5:45 am at IL Office"
+        ],
+        "employee_list": {
+            "Mike G": [
+                "1)",
+                "@ Store,\nEquip",
+                "Rockford"
+            ],
+            "Angela": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Emily L": [
+                "3)",
+                "",
+                "Rockford"
+            ],
+            "Eva": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Justin Lee": [
+                "5)",
+                "Driver,\nGray Van",
+                "none"
+            ],
+            "Taylor": [
+                "6)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Sep 10",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "MARIANO'S #504, CHICAGO-WESTERN & ROSCOE"
+        ],
+        "address": [
+            "3350 NORTH WESTERN AVENUE"
+        ],
+        "link": [
+            "https://goo.gl/maps/Xmc51Y6udXw"
+        ],
+        "store_note": [
+            "*IL Meet is 4:30 am at IL Office"
+        ],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Angela": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Anisha": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Ashley P": [
+                "4)",
+                "Driver,\nSilver Van",
+                "Rockford"
+            ],
+            "Eva": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Evelin": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Joseph": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "8)",
+                "",
+                "Rockford"
+            ],
+            "Justin Lee": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Keilah": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Lorena": [
+                "11)",
+                "2nd Scan",
+                "none"
+            ],
+            "Michael N": [
+                "12)",
+                "Driver,\nGray Van,\nTrainer",
+                "Rockford"
+            ],
+            "Taylor": [
+                "13)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Sep 10",
+        "meet_time": [],
+        "start_time": "OVERNIGHT",
+        "inv_type": [
+            "7:30 AM START",
+            "DC5-ITEM LEVEL",
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "DC5-ITEM LEVEL",
+            "GUNDERSEN RX, HOLMEN",
+            "GUNDERSEN RX, ONALASKA-SAND LAKE RD"
+        ],
+        "address": [
+            "GUNDERSEN RX MED PACK, LA CROSSE-KING ST",
+            "500 N HOLMEN DR",
+            "111 SAND LAKE RD"
+        ],
+        "link": [
+            "505 KING ST",
+            "https://goo.gl/maps/NNMt6crjFtCmn1oL8",
+            "https://goo.gl/maps/fjpxCvKXoUGWJLrH9"
+        ],
+        "store_note": [
+            "https://goo.gl/maps/9Ux8XBD17p92",
+            "*Sarah & Lori - meet at 6:00 am WI Dells Walmart"
+        ],
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "Driver 1/2, Equip",
+                "none"
+            ],
+            "Lori": [
+                "2)",
+                "Driver 1/2",
+                "none"
+            ],
+            "Nate": [
+                "3)",
+                "@ Store, (Optima)",
+                "none"
+            ],
+            "Qiana": [
+                "4)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Sep 10",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "MODAS"
+        ],
+        "store_name": [
+            "KELLEY #09, BROADWAY MOBIL, ROCKFORD"
+        ],
+        "address": [
+            "2605 BROADWAY"
+        ],
+        "link": [
+            "https://goo.gl/maps/o8A3d3WmDrS2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Mike G": [
+                "1)",
+                "Equip",
+                "Rockford"
+            ],
+            "Emily L": [
+                "2)",
+                "",
+                "Rockford"
+            ],
+            "Laci": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Spencer P": [
+                "4)",
+                "Until 8:15",
+                "Rockford"
+            ],
+            "Tina E": [
+                "5)",
+                "",
+                "Rockford"
             ]
         }
     },
@@ -1296,59 +1274,61 @@
         "link": [
             "https://goo.gl/maps/iCDNmqxp1Do"
         ],
-        "store_note": [],
+        "store_note": [
+            "*IL Meet is 4:30 am at IL Office <br><hr id=\"note_separator\">SET UP ON REG NEXT TO SELF CHECKOUT"
+        ],
         "employee_list": {
             "Brianna": [
                 "1)",
                 "@ Store, Equip",
                 "none"
             ],
-            "Carlie": [
-                "2)",
-                "@ Store,\nwork w/ Aivy",
-                "none"
-            ],
             "Aivy": [
-                "3)",
+                "2)",
                 "@ Store,\n2nd Scan",
                 "none"
             ],
             "Angela": [
+                "3)",
+                "Driver, 1/2\nGray Van",
+                "none"
+            ],
+            "Josie": [
                 "4)",
                 "@ Store",
                 "none"
             ],
-            "Jerry S": [
+            "Michael N": [
                 "5)",
-                "@ Store",
-                "Fox Valley"
+                "Driver, 1/2\nGray Van",
+                "Rockford"
             ],
-            "Josie": [
+            "Savannah": [
                 "6)",
                 "@ Store",
                 "none"
             ],
-            "Kirsten": [
+            "Taylor": [
                 "7)",
-                "@ Store",
+                "",
                 "none"
             ],
-            "Marcia": [
+            "Carlie": [
                 "8)",
-                "@ Store",
+                "@ Store,\nTrainer, work w/ Aivy",
                 "none"
             ],
-            "Michael N": [
+            "Jerry S": [
                 "9)",
                 "@ Store",
-                "Rockford"
+                "Fox Valley"
             ],
-            "Savannah": [
+            "Kirsten": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Taylor": [
+            "Marcia": [
                 "11)",
                 "@ Store",
                 "none"
@@ -1358,27 +1338,252 @@
     {
         "date": "Wed, Sep 11",
         "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
+        "start_time": "OVERNIGHT",
+        "inv_type": [
+            "7:30 AM START",
+            "DC5-ITEM LEVEL"
         ],
-        "address": [],
-        "link": [],
-        "store_note": [],
+        "store_name": [
+            "DC5-ITEM LEVEL",
+            "GUNDERSEN RX, LA CROSSE-DENTON ST"
+        ],
+        "address": [
+            "GUNDERSEN RX MAIN CLINIC, LA CROSSE-SOUTH AVE",
+            "724 DENTON ST"
+        ],
+        "link": [
+            "1836 SOUTH AVE",
+            "https://goo.gl/maps/4HdiWaPHc372"
+        ],
+        "store_note": [
+            "https://goo.gl/maps/ohSVe4EmWRL2",
+            "*Sarah & Lori - meet at 6:00 am WI Dells Walmart"
+        ],
         "employee_list": {
-            "Lashaun": [
-                "",
-                "",
+            "Sarah": [
+                "1)",
+                "Driver 1/2, Equip",
+                "none"
+            ],
+            "Lori": [
+                "2)",
+                "Driver 1/2",
+                "none"
+            ],
+            "Nate": [
+                "3)",
+                "@ Store, (Optima)",
+                "none"
+            ],
+            "Qiana": [
+                "4)",
+                "@ Store",
                 "none"
             ]
         }
     },
     {
-        "date": "Thu, Sep 12",
-        "meet_time": [
-            "4:45 AM MEET COLLEGE (SOUTHWEST)"
+        "date": "Wed, Sep 11",
+        "meet_time": [],
+        "start_time": "12:00 PM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
         ],
+        "store_name": [
+            "PIGGLY WIGGLY #225, BRODHEAD"
+        ],
+        "address": [
+            "1604  1ST CENTER AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/UnLuFXtjZaD2"
+        ],
+        "store_note": [
+            "*IL Meet is 10:30 am at IL Office"
+        ],
+        "employee_list": {
+            "Ashley P": [
+                "1)",
+                "@ Store,\nCorolla,\nEquip",
+                "Rockford"
+            ],
+            "Anisha": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Eva": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Evelin": [
+                "4)",
+                "Driver,\nSilver Van",
+                "none"
+            ],
+            "Joseph": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "6)",
+                "",
+                "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Sep 11",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "MARIANO'S #530 +RX, EVERGREEN PARK"
+        ],
+        "address": [
+            "2559 W 95TH ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/msSSp4YpWZR2"
+        ],
+        "store_note": [
+            "*IL Meet is 4:15 am at IL Office"
+        ],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Justin Lee": [
+                "2)",
+                "Driver,\nCamry 3,\nRx",
+                "none"
+            ],
+            "Keilah": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Lorena": [
+                "4)",
+                "3rd Scan",
+                "none"
+            ],
+            "Cynthia": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "DJ": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Greg": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Ian": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry D": [
+                "9)",
+                "@ Store",
+                "Milwaukee"
+            ],
+            "Justin Learned": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Katherine": [
+                "11)",
+                "@ Store,\nSupv Rx",
+                "none"
+            ],
+            "Paul": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Robyn": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Sonia": [
+                "14)",
+                "@ Store",
+                "none"
+            ],
+            "Stephanie": [
+                "15)",
+                "@ Store,\nTrainer",
+                "none"
+            ],
+            "Sue": [
+                "16)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Sep 11",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "MODAS"
+        ],
+        "store_name": [
+            "KELLEY #05, TOLLWAY MOBIL, LOVES PARK"
+        ],
+        "address": [
+            "7490 E RIVERSIDE"
+        ],
+        "link": [
+            "https://goo.gl/maps/HBfHzKVkpGk"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Mike G": [
+                "1)",
+                "Equip",
+                "Rockford"
+            ],
+            "Emily L": [
+                "2)",
+                "",
+                "Rockford"
+            ],
+            "Laci": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Spencer P": [
+                "4)",
+                "Until 8:15",
+                "Rockford"
+            ],
+            "Tina E": [
+                "5)",
+                "",
+                "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Sep 12",
+        "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -1393,7 +1598,7 @@
             "https://goo.gl/maps/Dybn9qjgpUN2"
         ],
         "store_note": [
-            "SET UP ON REG #1"
+            "*IL Meet is 4:30 am at IL Office <br><hr id=\"note_separator\">SET UP ON REG #1"
         ],
         "employee_list": {
             "DJ": [
@@ -1401,82 +1606,82 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Carlie": [
+            "Angela": [
                 "2)",
-                "Driver,\nWhite Camry",
+                "Driver, 1/2\nGray Van,\nTrainer",
                 "none"
             ],
-            "Cynthia": [
+            "Eva": [
                 "3)",
                 "",
                 "none"
             ],
-            "Ian": [
+            "Justin Lee": [
                 "4)",
+                "Driver, 1/2\nGray Van,\nRx",
+                "none"
+            ],
+            "Keilah": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Lorena": [
+                "6)",
+                "2nd week",
+                "none"
+            ],
+            "Taylor": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Cynthia": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Ian": [
+                "10)",
                 "@ Store,\nAfter Aurora",
                 "none"
             ],
             "Jerry D": [
-                "5)",
+                "11)",
                 "@ Store,\nAfter Aurora",
                 "Milwaukee"
             ],
             "Justin Learned": [
-                "6)",
-                "",
+                "12)",
+                "@ Store",
                 "none"
             ],
             "Katherine": [
-                "7)",
+                "13)",
                 "@ Store,\nAfter Aurora",
                 "none"
             ],
             "Lashaun": [
-                "8)",
-                "Driver,\nOptima,\nSupv Rx",
+                "14)",
+                "@ Store,\nSupv Rx",
                 "none"
             ],
             "Paul": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Robyn": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Sonia": [
-                "11)",
-                "",
-                "none"
-            ],
-            "Angela": [
-                "12)",
-                "@ Store,\nTrainer",
-                "none"
-            ],
-            "Eva": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Justin Lee": [
-                "14)",
-                "@ Store,\nRx",
-                "none"
-            ],
-            "Keilah": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Lorena": [
+            "Robyn": [
                 "16)",
-                "@ Store,\n2nd week",
+                "@ Store",
                 "none"
             ],
-            "Taylor": [
+            "Sonia": [
                 "17)",
                 "@ Store",
                 "none"
@@ -1485,191 +1690,164 @@
     },
     {
         "date": "Thu, Sep 12",
-        "meet_time": [
-            "5:00 AM OFFICE MEET"
-        ],
-        "start_time": "6:30 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "AURORA OUTPATIENT RX #1517, PARK RIDGE"
-        ],
-        "address": [
-            "1775 DEMPSTER ST, STAFF LOUNGE T01113"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/5Vv2oKSPEeHWpZVd6"
-        ],
-        "store_note": [
-            "*NEW LOCATION"
-        ],
-        "employee_list": {
-            "Katherine": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Ian": [
-                "2)",
-                "Driver,\nRed Van",
-                "none"
-            ],
-            "Jerry D": [
-                "3)",
-                "",
-                "Milwaukee"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Sep 12",
-        "meet_time": "4:15 AM OFFICE LEAVE TIME",
+        "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "PIERCE'S EXPRESS MARKET, BARABOO (GROC + C-STORE)"
+            "*SALE INVENTORY"
         ],
         "address": [
-            "935 8TH ST"
+            "PIERCE'S EXPRESS MARKET, BARABOO (GROC + C-STORE)"
         ],
         "link": [
-            "https://goo.gl/maps/GhH3B9P8DGn"
+            "935 8TH ST"
         ],
         "store_note": [
-            "*SALE INVENTORY"
+            "https://goo.gl/maps/GhH3B9P8DGn <br><hr id=\"note_separator\">*IL Meet is 4:15 am at IL Office"
         ],
         "employee_list": {
             "Kim": [
-                "1)",
-                "Sante Fe, Equip",
-                "none"
-            ],
-            "Nick": [
-                "2)",
-                "@ Store",
-                "none"
-            ],
-            "Aivy": [
-                "3)",
-                "@ Store,\n2nd Financial",
-                "none"
-            ],
-            "Anisha": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
-            "Ashley P": [
-                "5)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Brianna": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Evelin": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Joseph": [
-                "8)",
-                "@ Store",
-                "none"
-            ],
-            "Josh S": [
-                "9)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Michael N": [
-                "10)",
-                "@ Store,\nwork w/ Aivy",
-                "Rockford"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Sep 13",
-        "meet_time": [
-            "5:30 AM MEET SOUTH RACINE COURT (HWY 43 & Y)"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "PICK #410, WATERFORD"
-        ],
-        "address": [
-            "515 N MILWAUKEE STREET"
-        ],
-        "link": [
-            "https://goo.gl/maps/NZEymR8vwMs"
-        ],
-        "store_note": [
-            "SET UP ON REG #1"
-        ],
-        "employee_list": {
-            "DJ": [
                 "1)",
                 "@ Store, Equip",
                 "none"
             ],
-            "Carlie": [
+            "Aivy": [
                 "2)",
-                "Driver,\nWhite Camry",
+                "@ Store,\n2nd Financial",
                 "none"
             ],
-            "Curt": [
+            "Anisha": [
                 "3)",
                 "",
                 "none"
             ],
-            "Cynthia": [
+            "Ashley P": [
                 "4)",
-                "",
-                "none"
+                "Driver,\nCorolla",
+                "Rockford"
             ],
-            "Greg": [
+            "Brianna": [
                 "5)",
-                "",
+                "@ Store",
                 "none"
             ],
-            "Jerry D": [
+            "Evelin": [
                 "6)",
-                "",
-                "Milwaukee"
+                "Driver, 1/2\nCamry 3",
+                "none"
             ],
-            "Justin Learned": [
+            "Joseph": [
                 "7)",
                 "",
                 "none"
             ],
-            "Katherine": [
+            "Josh S": [
                 "8)",
                 "",
-                "none"
+                "Rockford"
             ],
-            "Kim": [
+            "Michael N": [
                 "9)",
-                "@ Store,\nUntil 9:30,\nSante Fe available",
-                "none"
+                "Driver, 1/2\nCamry 3,\nwork w/ Aivy",
+                "Rockford"
             ],
-            "Lashaun": [
+            "Nick": [
                 "10)",
-                "Driver,\nRed Van",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Sep 12",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL",
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "GUNDERSEN RX, ONALASKA-GUNDERSEN DR",
+            "GUNDERSEN RX CENTRAL FILL, WEST SALEM"
+        ],
+        "address": [
+            "3111 GUNDERSEN DR",
+            "1115 INDUSTRIAL DR  SUITE A"
+        ],
+        "link": [
+            "https://goo.gl/maps/38tp3sBnAps",
+            "https://goo.gl/maps/mti6q5rynbAJZnE67"
+        ],
+        "store_note": [
+            "*Sarah & Lori - meet at 5:30 am WI Dells Walmart"
+        ],
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "Driver 1/2, Equip",
                 "none"
             ],
-            "Sonia": [
-                "11)",
+            "Lori": [
+                "2)",
+                "Driver 1/2",
+                "none"
+            ],
+            "Nate": [
+                "3)",
+                "@ Store, (Optima)",
+                "none"
+            ],
+            "Qiana": [
+                "4)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Sep 12",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "MODAS"
+        ],
+        "store_name": [
+            "KELLEY #10, CHERRYVALE MOBIL, ROCKFORD"
+        ],
+        "address": [
+            "1736 PERRYVILLE RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/TGUB5JyPmsz"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Mike G": [
+                "1)",
+                "Equip",
+                "Rockford"
+            ],
+            "Emily L": [
+                "2)",
+                "",
+                "Rockford"
+            ],
+            "Laci": [
+                "3)",
                 "",
                 "none"
+            ],
+            "Spencer P": [
+                "4)",
+                "Until 8:15",
+                "Rockford"
+            ],
+            "Tina E": [
+                "5)",
+                "",
+                "Rockford"
             ]
         }
     },
@@ -1681,56 +1859,143 @@
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "AURORA OUTPATIENT RX #1068, WATERFORD"
+            "PICK #394, McFARLAND"
         ],
         "address": [
-            "818 FORREST LANE, SUITE 101"
+            "5709 HWY 51"
         ],
         "link": [
-            "https://goo.gl/maps/34AqDr4Gxcn8xkqSA"
+            "https://goo.gl/maps/TtWaYvRLFUy"
         ],
-        "store_note": [],
+        "store_note": [
+            "*IL Meet is 4:45 am at IL Office <br><hr id=\"note_separator\">SET UP ON REG #2 <br><hr id=\"note_separator\">FEW RESETS-REMAPPED"
+        ],
         "employee_list": {
-            "Katherine": [
+            "Brianna": [
                 "1)",
-                "Optima, Equip",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Angela": [
+                "2)",
+                "Driver, 1/2\nCamry 3",
+                "none"
+            ],
+            "Anisha": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Elijah": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Evelin": [
+                "5)",
+                "Driver,\nCorolla",
+                "none"
+            ],
+            "Joseph": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "7)",
+                "",
+                "Rockford"
+            ],
+            "Josie": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Lorena": [
+                "9)",
+                "2nd week",
+                "none"
+            ],
+            "Lori": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Qiana": [
+                "11)",
+                "Driver, 1/2\nCamry 3,\nTrainer",
                 "none"
             ]
         }
     },
     {
         "date": "Fri, Sep 13",
-        "meet_time": [
-            "5:00 AM MEET WATERTOWN PLANK"
-        ],
+        "meet_time": [],
         "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "SULLIVAN'S FOODS #241, LENA"
+        ],
+        "address": [
+            "201 DODDS DRIVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/82qhta5RyXsUSC2u9"
+        ],
+        "store_note": [
+            "*IL Meet is 4:45 am at IL Office"
+        ],
+        "employee_list": {
+            "Ashley P": [
+                "1)",
+                "Driver,\nSilver Van, Equip",
+                "Rockford"
+            ],
+            "Eva": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Justin Lee": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Nate": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Taylor": [
+                "5)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Sep 13",
+        "meet_time": [],
+        "start_time": "8:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "DHILLON'S BP, FOND DU LAC-JOHNSON"
+            "GUNDERSEN RX, PRAIRIE DU CHIEN"
         ],
         "address": [
-            "919 E JOHNSON ST"
+            "610 E TAYLOR ST"
         ],
         "link": [
-            "https://goo.gl/maps/K1uY65NKN1wdvR36A"
+            "https://goo.gl/maps/DGmiuzT1Ger"
         ],
         "store_note": [],
         "employee_list": {
-            "Ian": [
+            "Palmer": [
                 "1)",
-                "Driver,\nGold Camry, Equip",
-                "none"
-            ],
-            "Nick": [
-                "2)",
-                "@ Store",
-                "none"
-            ],
-            "Paul": [
-                "3)",
-                "",
+                "@ Store, Equip",
                 "none"
             ]
         }
@@ -1751,21 +2016,23 @@
         "link": [
             "https://goo.gl/maps/vmM1kpEXwDbg4ira7"
         ],
-        "store_note": [],
+        "store_note": [
+            "*Sarah & Aivy 4:30 am meet @ Portage Walmart"
+        ],
         "employee_list": {
             "Jeremiah": [
                 "1)",
-                "Driver",
+                "@ Store, Equip",
                 "none"
             ],
-            "Michelle": [
+            "Aivy": [
                 "2)",
-                "Driver, pick up Trevor",
+                "(w/ Sarah),\n3rd Financial",
                 "none"
             ],
-            "Trevor": [
+            "Sarah": [
                 "3)",
-                "meet Michelle 6am @ Point Target",
+                "(Driver)",
                 "none"
             ],
             "Annette": [
@@ -1793,18 +2060,23 @@
                 "@ Store",
                 "none"
             ],
-            "Nagui": [
+            "Michelle": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Sarah": [
+            "Nagui": [
                 "10)",
                 "@ Store",
                 "none"
             ],
             "Serena": [
                 "11)",
+                "@ Store",
+                "none"
+            ],
+            "Trevor": [
+                "12)",
                 "@ Store",
                 "none"
             ]
