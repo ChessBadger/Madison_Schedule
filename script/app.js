@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // Check for saved login
   const savedusername = localStorage.getItem('madisonUsername');
   const savedUserType = localStorage.getItem('userType');
-  const savedUserDisplayName = localStorage.getItem('userDisplayName');
+  const savedmadisonUserDisplayName = localStorage.getItem('madisonUserDisplayName');
 
   if (savedusername) {
     document.getElementById('loginSection').style.display = 'none';
@@ -50,14 +50,14 @@ document.addEventListener('DOMContentLoaded', function () {
     if (savedUserType === 'admin') {
       document.getElementById('searchSection').style.display = 'block';
     } else {
-      const formattedName = savedUserDisplayName.charAt(0).toUpperCase() + savedUserDisplayName.slice(1).toLowerCase();
+      const formattedName = savedmadisonUserDisplayName.charAt(0).toUpperCase() + savedmadisonUserDisplayName.slice(1).toLowerCase();
       document.getElementById('searchSection').style.display = 'block';
       document.getElementById('searchTitle').style.display = 'none';
       document.getElementById('searchButton').style.display = 'none';
       searchInputGroup.style.display = 'none';
       const employeeNameHeader = document.getElementById('employeeNameHeader');
       employeeNameHeader.textContent = `Welcome, ${formattedName}`;
-      performSearch(savedUserDisplayName); // Perform search for the logged-in user
+      performSearch(savedmadisonUserDisplayName); // Perform search for the logged-in user
     }
   } else {
     document.getElementById('signOutButton').style.display = 'none';
@@ -91,8 +91,8 @@ document.addEventListener('DOMContentLoaded', function () {
           } else {
             localStorage.setItem('madisonUsername', username);
             localStorage.setItem('userType', user.type);
-            // localStorage.setItem('userDisplayName', user.displayName || username); CHANGE THIS
-            localStorage.setItem('userDisplayName', user.firstName || username);
+            // localStorage.setItem('madisonUserDisplayName', user.displayName || username); CHANGE THIS
+            localStorage.setItem('madisonUserDisplayName', user.firstName || username);
             localStorage.setItem('userOffice', user.office);
             document.getElementById('loginSection').style.display = 'none';
             document.getElementById('signOutButton').style.display = 'block';
@@ -126,7 +126,7 @@ document.addEventListener('DOMContentLoaded', function () {
     signOutButton.addEventListener('click', function () {
       localStorage.removeItem('madisonUsername');
       localStorage.removeItem('userType');
-      localStorage.removeItem('userDisplayName');
+      localStorage.removeItem('madisonUserDisplayName');
       localStorage.removeItem('userOffice');
       document.getElementById('loginSection').style.display = 'block';
       document.getElementById('searchSection').style.display = 'none';
