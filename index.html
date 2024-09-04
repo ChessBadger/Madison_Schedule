@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Badger Login</title>
+    <link rel="stylesheet" href="styles/styles.css" />
+    <style>
+      input,
+      textarea,
+      select {
+        font-size: 16px;
+      }
+
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 0;
+      }
+
+      .container {
+        max-width: 600px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+
+      h1 {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+
+      .button {
+        display: block;
+        width: 100%;
+        padding: 10px;
+        margin: 10px 0;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        text-align: center;
+      }
+
+      .button:hover {
+        background-color: #0056b3;
+      }
+
+      input[type='file'] {
+        display: block;
+        margin: 0 auto 10px auto;
+      }
+
+      .form-group {
+        margin-bottom: 15px;
+      }
+
+      label {
+        display: block;
+        margin-bottom: 5px;
+      }
+
+      input[type='text'],
+      input[type='password'] {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+      }
+
+      .error {
+        color: red;
+        text-align: center;
+      }
+
+      .dark-mode {
+        background-color: #333;
+        color: #fff;
+      }
+
+      .dark-mode input[type='text'],
+      .dark-mode input[type='password'] {
+        background-color: #555;
+        color: #fff;
+        border: 1px solid #777;
+      }
+
+      .background-name {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 4em;
+        color: rgba(0, 0, 0, 0.1);
+        pointer-events: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="topRow">
+      <div id="sidepanel" class="sidepanel hidden">
+        <a href="javascript:void(0)" class="closebtn" id="closebtn">&times;</a>
+        <a href="https://sites.google.com/view/badgeremployeeterminal/meetscontact-list?authuser=0" target="blank">Meets/Contact List</a>
+        <a href="https://sites.google.com/view/badgeremployeeterminal/request-off?authuser=0">Request Off</a>
+        <a href="https://sites.google.com/view/badgeremployeeterminal/employee-handbook?authuser=0" target="_blank">Employee Handbook</a>
+        <a href="https://sites.google.com/view/badgeremployeeterminal/uniform-store?authuser=0" target="_blank">Uniform Store</a>
+        <a href="https://sites.google.com/view/badgeremployeeterminal/payroll401k?authuser=0" target="_blank">Payroll/401K</a>
+        <a href="https://sites.google.com/view/badgeremployeeterminal/tuition-reimbursement?authuser=0" target="_blank">Tuition Reimbursement</a>
+        <a href="https://sites.google.com/view/badgeremployeeterminal/comment-form?authuser=0" target="_blank">Comment Form</a>
+      </div>
+      <div id="main">
+        <button id="openbtn">
+          <img src="images/menu.png" alt="Open menu button" />
+        </button>
+      </div>
+      <button id="darkModeToggle" class="button">
+        <img src="images/dark_light_mode-removebg.png" alt="Toggle Dark Mode" id="darkModeIcon" />
+      </button>
+      <div id="topBar">
+        <button id="signOutButton" style="display: none">
+          <img src="images/sign_out.png" alt="sign out button" />
+        </button>
+      </div>
+    </div>
+    <div id="logo">
+      <img id="logoImage" src="images/Badger-logo.png" alt="Badger Logo" />
+    </div>
+    <div class="container" id="loginSection">
+      <h1>Login</h1>
+      <form id="loginForm">
+        <div class="form-group">
+          <label for="username">Username:</label>
+          <input type="text" id="username" required autocomplete="username" />
+        </div>
+        <div class="form-group">
+          <label for="password">Password:</label>
+          <input type="password" id="password" required autocomplete="current-password" />
+        </div>
+        <button type="submit" class="button">Login</button>
+      </form>
+      <p id="loginError" class="error"></p>
+    </div>
+
+    <div class="container" id="searchSection" style="display: none">
+      <h1 id="searchTitle">Search Employee</h1>
+      <!-- Wrap the welcome text and clipboard icon in a container -->
+      <div id="welcomeContainer">
+        <h3 id="employeeNameHeader"></h3>
+        <img src="images/clipboard.png" id="clipboardIcon" alt="Clipboard Icon" class="icon" style="cursor: pointer" />
+      </div>
+
+      <form id="searchForm">
+        <div class="form-group" id="searchInputGroup">
+          <label for="employeeName">Employee Name:</label>
+          <input type="text" id="employeeName" required autocomplete="off" />
+          <div id="suggestions" class="suggestions"></div>
+        </div>
+        <button type="submit" class="button" id="searchButton">Search</button>
+      </form>
+      <button id="calendarToggle" class="button">View Calendar</button>
+      <div id="calendarContainer" class="container" style="display: none">
+        <div id="calendar"></div>
+
+        <div class="container" id="calendarKey">
+          <div class="key-items">
+            <div class="key-item"><span class="key-color green"></span> - Off</div>
+            <div class="key-item"><span class="key-color red"></span> - Working</div>
+            <div class="key-item"><span class="key-color gray"></span> - N/A</div>
+            <div class="key-item"><span class="key-color blue"></span> - Weekend Stores</div>
+          </div>
+        </div>
+      </div>
+      <button id="togglePassedDays" class="button">Show Passed Days</button>
+      <div id="resultsContainer"></div>
+    </div>
+
+    <div id="backgroundName" class="background-name" style="display: none"></div>
+
+    <div id="popup" class="popup hidden">
+      <div class="popup-content">
+        <span class="close-btn" id="closePopup">&times;</span>
+        <h3 style="color: #9b0000">Bulletin Board</h3>
+        <div id="bulletinContent"></div>
+      </div>
+    </div>
+
+    <a href="#topRow">
+      <img id="jumpArrow" src="images/arrow.png" alt="Jump to top" />
+    </a>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mammoth/1.4.2/mammoth.browser.min.js"></script>
+
+    <script src="script/app.js"></script>
+  </body>
+</html>
