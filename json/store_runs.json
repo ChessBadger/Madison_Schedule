@@ -1642,16 +1642,16 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "*SALE INVENTORY"
-        ],
-        "address": [
             "PIERCE'S EXPRESS MARKET, BARABOO (GROC + C-STORE)"
         ],
-        "link": [
+        "address": [
             "935 8TH ST"
         ],
-        "store_note": [
+        "link": [
             "https://goo.gl/maps/GhH3B9P8DGn"
+        ],
+        "store_note": [
+            "*SALE INVENTORY"
         ],
         "employee_list": {
             "Kim": [
