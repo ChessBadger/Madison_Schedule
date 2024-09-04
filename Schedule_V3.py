@@ -388,7 +388,6 @@ if folders:
                                 current_state = 'to_follow'
                             elif value and 'meet' in value.lower():
                                 if 'aivy' in value.lower():
-                                    print(value)
                                     store_run.meet_time.append(value)
                                     current_state = 'found_store_note'
                             elif value:
@@ -408,7 +407,6 @@ if folders:
                                 current_state = 'to_follow'
                             elif value and 'meet' in value.lower():
                                 if 'aivy' in value.lower():
-                                    print(value)
                                     store_run.meet_time.append(value)
                                     current_state = 'found_store_note'
                             elif value:
