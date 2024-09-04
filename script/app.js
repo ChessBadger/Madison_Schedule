@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', function () {
   if (loginForm) {
     loginForm.addEventListener('submit', function (event) {
       event.preventDefault();
-      const username = document.getElementById('madisonUsername').value.toLowerCase();
+      const username = document.getElementById('username').value.toLowerCase();
       const password = document.getElementById('password').value;
 
       // Load user data from external file
@@ -133,7 +133,7 @@ document.addEventListener('DOMContentLoaded', function () {
       document.getElementById('signOutButton').style.display = 'none';
       document.getElementById('jumpArrow').style.display = 'none';
       document.getElementById('openbtn').style.display = 'none';
-      document.getElementById('madisonUsername').value = '';
+      document.getElementById('username').value = '';
       document.getElementById('password').value = '';
       backgroundName.style.display = 'none';
       calendarContainer.style.display = 'none';
