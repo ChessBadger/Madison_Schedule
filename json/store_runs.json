@@ -52,7 +52,7 @@
             "https://goo.gl/maps/c6NThwavanF2"
         ],
         "store_note": [
-            "*IL Meet is 7:45 am at IL Office <br><hr id=\"note_separator\">Enter through normal entry doors. Then go towards exit doors by self checkouts. Up the stairs and to the right is where we set up."
+            "Enter through normal entry doors. Then go towards exit doors by self checkouts. Up the stairs and to the right is where we set up."
         ],
         "employee_list": {
             "Ashley P": [
@@ -123,9 +123,7 @@
         "link": [
             "https://goo.gl/maps/1TWQi7MTm3reQPw6A"
         ],
-        "store_note": [
-            "*Sarah & Lori - meet at 7:15 am WI Dells Walmart"
-        ],
+        "store_note": [],
         "employee_list": {
             "Sarah": [
                 "1)",
@@ -192,7 +190,9 @@
     },
     {
         "date": "Wed, Sep 4",
-        "meet_time": [],
+        "meet_time": [
+            "*Sarah & Aivy meet @ 5:20 am at Wayside Park, Portage"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -207,7 +207,7 @@
             "https://goo.gl/maps/KBvQksBjdgC2"
         ],
         "store_note": [
-            "*IL Meet is 4:45 am at IL Office <br><hr id=\"note_separator\">SET UP ON REG #1 OR 2 <br><hr id=\"note_separator\">*Sarah & Aivy meet @ 5:20 am at Wayside Park, Portage <br><hr id=\"note_separator\">*Nate bringing Angela and Taylor"
+            "SET UP ON REG #1 OR 2 <br><hr id=\"note_separator\">*Nate bringing Angela and Taylor"
         ],
         "employee_list": {
             "Nate": [
@@ -267,7 +267,7 @@
             ],
             "Justin": [
                 "12)",
-                "Driver 1/2\nCorolla",
+                "Driver 1/2,\nCorolla",
                 "none"
             ],
             "Keilah": [
@@ -356,7 +356,9 @@
     },
     {
         "date": "Thu, Sep 5",
-        "meet_time": [],
+        "meet_time": [
+            "*Sarah, Aivy, Brianna, & Lori - meet at 4:40 am WI Dells Walmart"
+        ],
         "start_time": "6:30 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
@@ -371,7 +373,7 @@
             "https://goo.gl/maps/Zq99qW6zntK2"
         ],
         "store_note": [
-            "*IL Meet is 3:30 am at IL Office <br><hr id=\"note_separator\">STORE RESET-REMAPPED <br><hr id=\"note_separator\">*Sarah, Aivy, Brianna, & Lori - meet at 4:40 am WI Dells Walmart"
+            "STORE RESET-REMAPPED"
         ],
         "employee_list": {
             "Sarah": [
@@ -477,82 +479,85 @@
         "link": [
             "https://goo.gl/maps/iAzdtqSGdcv"
         ],
-        "store_note": [
-            "*IL Meet is 4:45 am at IL Office"
-        ],
+        "store_note": [],
         "employee_list": {
             "Kim": [
                 "1)",
                 "@ Store, Equip",
                 "none"
             ],
-            "Qiana": [
+            "Keshawn": [
                 "2)",
-                "Driver, Camry 3",
+                "1st Day",
+                "none"
+            ],
+            "Qiana": [
+                "3)",
+                "Driver, Camry 3,\nTrainer",
                 "none"
             ],
             "Taylor": [
-                "3)",
+                "4)",
                 "",
                 "none"
             ],
             "Casey": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
-            "Curt": [
                 "5)",
                 "@ Store",
                 "none"
             ],
-            "Cynthia": [
+            "Curt": [
                 "6)",
                 "@ Store",
                 "none"
             ],
-            "Ian": [
+            "Cynthia": [
                 "7)",
                 "@ Store",
                 "none"
             ],
-            "Jerry D": [
+            "Ian": [
                 "8)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry D": [
+                "9)",
                 "@ Store",
                 "Milwaukee"
             ],
             "Justin Learned": [
-                "9)",
+                "10)",
                 "@ Store,\n2nd Scan",
                 "none"
             ],
             "Katherine": [
-                "10)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Lashaun": [
-                "11)",
+                "12)",
                 "@ Store,\nTrainer",
                 "none"
             ],
             "Paul": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Robyn": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Sonia": [
+            "Robyn": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Sue": [
+            "Sonia": [
                 "15)",
+                "@ Store",
+                "none"
+            ],
+            "Sue": [
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -578,9 +583,7 @@
             "https://goo.gl/maps/9f6ZvuRxzJ92",
             "https://goo.gl/maps/DNgJfA4quxQ3MhAs5"
         ],
-        "store_note": [
-            "*Sarah, Josie & Lori - meet at 6:15 am WI Dells Walmart"
-        ],
+        "store_note": [],
         "employee_list": {
             "Sarah": [
                 "1)",
@@ -615,9 +618,7 @@
         "link": [
             "https://goo.gl/maps/Xpi4RcchLn92"
         ],
-        "store_note": [
-            "*IL Meet is 4:30 am at IL Office"
-        ],
+        "store_note": [],
         "employee_list": {
             "Brianna": [
                 "1)",
@@ -761,9 +762,7 @@
         "link": [
             "https://goo.gl/maps/vQEGbDwowNJ7UTyo7"
         ],
-        "store_note": [
-            "*IL Meet is 4:15 am at IL Office"
-        ],
+        "store_note": [],
         "employee_list": {
             "DJ": [
                 "1)",
@@ -883,9 +882,7 @@
         "link": [
             "https://goo.gl/maps/qfCDC9wyh9GVdu7w7"
         ],
-        "store_note": [
-            "*IL Meet is 4:45 am at IL Office"
-        ],
+        "store_note": [],
         "employee_list": {
             "Brianna": [
                 "1)",
@@ -927,27 +924,24 @@
     {
         "date": "Mon, Sep 9",
         "meet_time": [],
-        "start_time": "OVERNIGHT",
+        "start_time": "7:00 AM START",
         "inv_type": [
-            "7:00 AM START",
+            "DC5-ITEM LEVEL",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "DC5-ITEM LEVEL",
+            "GUNDERSEN RX,  LA CROSSE-CASS ST",
             "GUNDERSEN RX, LA CROSSE-VILLAGE"
         ],
         "address": [
-            "GUNDERSEN RX,  LA CROSSE-CASS ST",
+            "528 CASS ST",
             "2511 GREEN BAY ST"
         ],
         "link": [
-            "528 CASS ST",
+            "https://goo.gl/maps/d2sgcBiR3sS2",
             "https://goo.gl/maps/VVKbr1VWki657y2v7"
         ],
-        "store_note": [
-            "https://goo.gl/maps/d2sgcBiR3sS2",
-            "*IL Meet is 4:00 am at IL Office <br><hr id=\"note_separator\">*Sarah & Lori - meet at 5:30 am WI Dells Walmart"
-        ],
+        "store_note": [],
         "employee_list": {
             "Sarah": [
                 "1)",
@@ -988,7 +982,7 @@
             "https://goo.gl/maps/AMes3hiS3DN1CYZx6"
         ],
         "store_note": [
-            "*Samantha from Dhillon's will be at this inven to assist with the Liq B/R count <br><hr id=\"note_separator\">*IL Meet is 5:15 am at IL Office"
+            "*Samantha from Dhillon's will be at this inven to assist with the Liq B/R count"
         ],
         "employee_list": {
             "Katherine": [
@@ -1039,9 +1033,7 @@
         "link": [
             "https://goo.gl/maps/SW6S8XqhdGcLz6W2A"
         ],
-        "store_note": [
-            "*IL Meet is 5:45 am at IL Office"
-        ],
+        "store_note": [],
         "employee_list": {
             "Mike G": [
                 "1)",
@@ -1091,9 +1083,7 @@
         "link": [
             "https://goo.gl/maps/Xmc51Y6udXw"
         ],
-        "store_note": [
-            "*IL Meet is 4:30 am at IL Office"
-        ],
+        "store_note": [],
         "employee_list": {
             "Brianna": [
                 "1)",
@@ -1115,48 +1105,53 @@
                 "Driver,\nSilver Van",
                 "Rockford"
             ],
-            "Eva": [
+            "Emily L": [
                 "5)",
                 "",
-                "none"
+                "Rockford"
             ],
-            "Evelin": [
+            "Eva": [
                 "6)",
                 "",
                 "none"
             ],
-            "Joseph": [
+            "Evelin": [
                 "7)",
                 "",
                 "none"
             ],
-            "Josh S": [
+            "Joseph": [
                 "8)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "9)",
                 "",
                 "Rockford"
             ],
             "Justin Lee": [
-                "9)",
-                "",
+                "10)",
+                "Driver,\nCorolla",
                 "none"
             ],
             "Keilah": [
-                "10)",
+                "11)",
                 "",
                 "none"
             ],
             "Lorena": [
-                "11)",
+                "12)",
                 "2nd Scan",
                 "none"
             ],
             "Michael N": [
-                "12)",
+                "13)",
                 "Driver,\nGray Van,\nTrainer",
                 "Rockford"
             ],
             "Taylor": [
-                "13)",
+                "14)",
                 "",
                 "none"
             ]
@@ -1165,31 +1160,28 @@
     {
         "date": "Tue, Sep 10",
         "meet_time": [],
-        "start_time": "OVERNIGHT",
+        "start_time": "7:30 AM START",
         "inv_type": [
-            "7:30 AM START",
+            "DC5-ITEM LEVEL",
             "DC5-ITEM LEVEL",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "DC5-ITEM LEVEL",
+            "GUNDERSEN RX MED PACK, LA CROSSE-KING ST",
             "GUNDERSEN RX, HOLMEN",
             "GUNDERSEN RX, ONALASKA-SAND LAKE RD"
         ],
         "address": [
-            "GUNDERSEN RX MED PACK, LA CROSSE-KING ST",
+            "505 KING ST",
             "500 N HOLMEN DR",
             "111 SAND LAKE RD"
         ],
         "link": [
-            "505 KING ST",
+            "https://goo.gl/maps/9Ux8XBD17p92",
             "https://goo.gl/maps/NNMt6crjFtCmn1oL8",
             "https://goo.gl/maps/fjpxCvKXoUGWJLrH9"
         ],
-        "store_note": [
-            "https://goo.gl/maps/9Ux8XBD17p92",
-            "*Sarah & Lori - meet at 6:00 am WI Dells Walmart"
-        ],
+        "store_note": [],
         "employee_list": {
             "Sarah": [
                 "1)",
@@ -1214,51 +1206,6 @@
         }
     },
     {
-        "date": "Tue, Sep 10",
-        "meet_time": [],
-        "start_time": "6:30 AM START",
-        "inv_type": [
-            "MODAS"
-        ],
-        "store_name": [
-            "KELLEY #09, BROADWAY MOBIL, ROCKFORD"
-        ],
-        "address": [
-            "2605 BROADWAY"
-        ],
-        "link": [
-            "https://goo.gl/maps/o8A3d3WmDrS2"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Mike G": [
-                "1)",
-                "Equip",
-                "Rockford"
-            ],
-            "Emily L": [
-                "2)",
-                "",
-                "Rockford"
-            ],
-            "Laci": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Spencer P": [
-                "4)",
-                "Until 8:15",
-                "Rockford"
-            ],
-            "Tina E": [
-                "5)",
-                "",
-                "Rockford"
-            ]
-        }
-    },
-    {
         "date": "Wed, Sep 11",
         "meet_time": [],
         "start_time": "6:00 AM START",
@@ -1275,7 +1222,7 @@
             "https://goo.gl/maps/iCDNmqxp1Do"
         ],
         "store_note": [
-            "*IL Meet is 4:30 am at IL Office <br><hr id=\"note_separator\">SET UP ON REG NEXT TO SELF CHECKOUT"
+            "SET UP ON REG NEXT TO SELF CHECKOUT"
         ],
         "employee_list": {
             "Brianna": [
@@ -1338,27 +1285,24 @@
     {
         "date": "Wed, Sep 11",
         "meet_time": [],
-        "start_time": "OVERNIGHT",
+        "start_time": "7:30 AM START",
         "inv_type": [
-            "7:30 AM START",
+            "DC5-ITEM LEVEL",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "DC5-ITEM LEVEL",
+            "GUNDERSEN RX MAIN CLINIC, LA CROSSE-SOUTH AVE",
             "GUNDERSEN RX, LA CROSSE-DENTON ST"
         ],
         "address": [
-            "GUNDERSEN RX MAIN CLINIC, LA CROSSE-SOUTH AVE",
+            "1836 SOUTH AVE",
             "724 DENTON ST"
         ],
         "link": [
-            "1836 SOUTH AVE",
+            "https://goo.gl/maps/ohSVe4EmWRL2",
             "https://goo.gl/maps/4HdiWaPHc372"
         ],
-        "store_note": [
-            "https://goo.gl/maps/ohSVe4EmWRL2",
-            "*Sarah & Lori - meet at 6:00 am WI Dells Walmart"
-        ],
+        "store_note": [],
         "employee_list": {
             "Sarah": [
                 "1)",
@@ -1398,9 +1342,7 @@
         "link": [
             "https://goo.gl/maps/UnLuFXtjZaD2"
         ],
-        "store_note": [
-            "*IL Meet is 10:30 am at IL Office"
-        ],
+        "store_note": [],
         "employee_list": {
             "Ashley P": [
                 "1)",
@@ -1450,9 +1392,7 @@
         "link": [
             "https://goo.gl/maps/msSSp4YpWZR2"
         ],
-        "store_note": [
-            "*IL Meet is 4:15 am at IL Office"
-        ],
+        "store_note": [],
         "employee_list": {
             "Kim": [
                 "1)",
@@ -1598,7 +1538,7 @@
             "https://goo.gl/maps/Dybn9qjgpUN2"
         ],
         "store_note": [
-            "*IL Meet is 4:30 am at IL Office <br><hr id=\"note_separator\">SET UP ON REG #1"
+            "SET UP ON REG #1"
         ],
         "employee_list": {
             "DJ": [
@@ -1696,16 +1636,16 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "*SALE INVENTORY"
-        ],
-        "address": [
             "PIERCE'S EXPRESS MARKET, BARABOO (GROC + C-STORE)"
         ],
-        "link": [
+        "address": [
             "935 8TH ST"
         ],
+        "link": [
+            "https://goo.gl/maps/GhH3B9P8DGn"
+        ],
         "store_note": [
-            "https://goo.gl/maps/GhH3B9P8DGn <br><hr id=\"note_separator\">*IL Meet is 4:15 am at IL Office"
+            "*SALE INVENTORY"
         ],
         "employee_list": {
             "Kim": [
@@ -1780,9 +1720,7 @@
             "https://goo.gl/maps/38tp3sBnAps",
             "https://goo.gl/maps/mti6q5rynbAJZnE67"
         ],
-        "store_note": [
-            "*Sarah & Lori - meet at 5:30 am WI Dells Walmart"
-        ],
+        "store_note": [],
         "employee_list": {
             "Sarah": [
                 "1)",
@@ -1868,7 +1806,7 @@
             "https://goo.gl/maps/TtWaYvRLFUy"
         ],
         "store_note": [
-            "*IL Meet is 4:45 am at IL Office <br><hr id=\"note_separator\">SET UP ON REG #2 <br><hr id=\"note_separator\">FEW RESETS-REMAPPED"
+            "SET UP ON REG #2 <br><hr id=\"note_separator\">FEW RESETS-REMAPPED"
         ],
         "employee_list": {
             "Brianna": [
@@ -1944,9 +1882,7 @@
         "link": [
             "https://goo.gl/maps/82qhta5RyXsUSC2u9"
         ],
-        "store_note": [
-            "*IL Meet is 4:45 am at IL Office"
-        ],
+        "store_note": [],
         "employee_list": {
             "Ashley P": [
                 "1)",
@@ -2002,7 +1938,9 @@
     },
     {
         "date": "Fri, Sep 13",
-        "meet_time": [],
+        "meet_time": [
+            "*Sarah & Aivy 4:30 am meet @ Portage Walmart"
+        ],
         "start_time": "6:30 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
@@ -2016,9 +1954,7 @@
         "link": [
             "https://goo.gl/maps/vmM1kpEXwDbg4ira7"
         ],
-        "store_note": [
-            "*Sarah & Aivy 4:30 am meet @ Portage Walmart"
-        ],
+        "store_note": [],
         "employee_list": {
             "Jeremiah": [
                 "1)",
