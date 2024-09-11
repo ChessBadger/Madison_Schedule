@@ -112,24 +112,26 @@
     {
         "date": "Mon, Sep 9",
         "meet_time": [],
-        "start_time": "7:00 AM START",
+        "start_time": "OVERNIGHT",
         "inv_type": [
-            "DC5-ITEM LEVEL",
+            "7:00 AM START",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "GUNDERSEN RX,  LA CROSSE-CASS ST",
+            "DC5-ITEM LEVEL",
             "GUNDERSEN RX, LA CROSSE-VILLAGE"
         ],
         "address": [
-            "528 CASS ST",
+            "GUNDERSEN RX,  LA CROSSE-CASS ST",
             "2511 GREEN BAY ST"
         ],
         "link": [
-            "https://goo.gl/maps/d2sgcBiR3sS2",
+            "528 CASS ST",
             "https://goo.gl/maps/VVKbr1VWki657y2v7"
         ],
-        "store_note": [],
+        "store_note": [
+            "https://goo.gl/maps/d2sgcBiR3sS2"
+        ],
         "employee_list": {
             "Sarah": [
                 "1)",
@@ -252,6 +254,11 @@
                 "6)",
                 "",
                 "none"
+            ],
+            "Tina E": [
+                "7)",
+                "@ Store",
+                "Rockford"
             ]
         }
     },
@@ -343,28 +350,30 @@
     {
         "date": "Tue, Sep 10",
         "meet_time": [],
-        "start_time": "7:30 AM START",
+        "start_time": "OVERNIGHT",
         "inv_type": [
-            "DC5-ITEM LEVEL",
+            "7:30 AM START",
             "DC5-ITEM LEVEL",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "GUNDERSEN RX MED PACK, LA CROSSE-KING ST",
+            "DC5-ITEM LEVEL",
             "GUNDERSEN RX, HOLMEN",
             "GUNDERSEN RX, ONALASKA-SAND LAKE RD"
         ],
         "address": [
-            "505 KING ST",
+            "GUNDERSEN RX MED PACK, LA CROSSE-KING ST",
             "500 N HOLMEN DR",
             "111 SAND LAKE RD"
         ],
         "link": [
-            "https://goo.gl/maps/9Ux8XBD17p92",
+            "505 KING ST",
             "https://goo.gl/maps/NNMt6crjFtCmn1oL8",
             "https://goo.gl/maps/fjpxCvKXoUGWJLrH9"
         ],
-        "store_note": [],
+        "store_note": [
+            "https://goo.gl/maps/9Ux8XBD17p92"
+        ],
         "employee_list": {
             "Sarah": [
                 "1)",
@@ -446,28 +455,23 @@
                 "@ Store",
                 "none"
             ],
-            "Jerry D": [
-                "9)",
-                "@ Store",
-                "Milwaukee"
-            ],
             "Lashaun": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Paul": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Robyn": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Sonia": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ]
@@ -508,48 +512,38 @@
                 "Driver, 1/2\nGray Van",
                 "none"
             ],
-            "Josie": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
-            "Keshawn": [
-                "5)",
-                "3rd Scan",
-                "none"
-            ],
             "Michael N": [
-                "6)",
+                "4)",
                 "Driver, 1/2\nGray Van",
                 "Rockford"
             ],
             "Savannah": [
-                "7)",
+                "5)",
                 "@ Store",
                 "none"
             ],
             "Taylor": [
-                "8)",
+                "6)",
                 "",
                 "none"
             ],
             "Carlie": [
-                "9)",
+                "7)",
                 "@ Store,\nTrainer, work w/ Aivy",
                 "none"
             ],
             "Jerry S": [
-                "10)",
+                "8)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Kirsten": [
-                "11)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Marcia": [
-                "12)",
+                "10)",
                 "@ Store",
                 "none"
             ]
@@ -558,24 +552,26 @@
     {
         "date": "Wed, Sep 11",
         "meet_time": [],
-        "start_time": "7:30 AM START",
+        "start_time": "OVERNIGHT",
         "inv_type": [
-            "DC5-ITEM LEVEL",
+            "7:30 AM START",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "GUNDERSEN RX MAIN CLINIC, LA CROSSE-SOUTH AVE",
+            "DC5-ITEM LEVEL",
             "GUNDERSEN RX, LA CROSSE-DENTON ST"
         ],
         "address": [
-            "1836 SOUTH AVE",
+            "GUNDERSEN RX MAIN CLINIC, LA CROSSE-SOUTH AVE",
             "724 DENTON ST"
         ],
         "link": [
-            "https://goo.gl/maps/ohSVe4EmWRL2",
+            "1836 SOUTH AVE",
             "https://goo.gl/maps/4HdiWaPHc372"
         ],
-        "store_note": [],
+        "store_note": [
+            "https://goo.gl/maps/ohSVe4EmWRL2"
+        ],
         "employee_list": {
             "Sarah": [
                 "1)",
@@ -795,6 +791,25 @@
         }
     },
     {
+        "date": "Wed, Sep 11",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Lashaun": [
+                "",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
         "date": "Thu, Sep 12",
         "meet_time": [],
         "start_time": "6:00 AM START",
@@ -846,7 +861,7 @@
             ],
             "Lorena": [
                 "7)",
-                "2nd week",
+                "3rd Scan",
                 "none"
             ],
             "Taylor": [
@@ -874,33 +889,28 @@
                 "@ Store,\nAfter Aurora",
                 "Milwaukee"
             ],
-            "Justin Learned": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
             "Katherine": [
-                "14)",
+                "13)",
                 "@ Store,\nAfter Aurora",
                 "none"
             ],
             "Lashaun": [
-                "15)",
+                "14)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Paul": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Robyn": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ],
             "Sonia": [
-                "18)",
+                "17)",
                 "@ Store",
                 "none"
             ]
@@ -914,16 +924,16 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "PIERCE'S EXPRESS MARKET, BARABOO (GROC + C-STORE)"
+            "*SALE INVENTORY"
         ],
         "address": [
-            "935 8TH ST"
+            "PIERCE'S EXPRESS MARKET, BARABOO (GROC + C-STORE)"
         ],
         "link": [
-            "https://goo.gl/maps/GhH3B9P8DGn"
+            "935 8TH ST"
         ],
         "store_note": [
-            "*SALE INVENTORY"
+            "https://goo.gl/maps/GhH3B9P8DGn"
         ],
         "employee_list": {
             "Kim": [
@@ -1217,7 +1227,7 @@
     {
         "date": "Fri, Sep 13",
         "meet_time": [
-            "*Sarah & Aivy 4:30 am meet @ Portage Walmart"
+            "*Sarah & Aivy 5:00 am meet @ Portage Walmart"
         ],
         "start_time": "6:30 AM START",
         "inv_type": [
@@ -1279,18 +1289,13 @@
                 "@ Store",
                 "none"
             ],
-            "Nagui": [
+            "Serena": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Serena": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
             "Trevor": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ]
@@ -1381,13 +1386,8 @@
                 "",
                 "none"
             ],
-            "Lorena": [
-                "10)",
-                "",
-                "none"
-            ],
             "Qiana": [
-                "11)",
+                "10)",
                 "@ Store,\nAfter c-store",
                 "none"
             ]
@@ -1439,7 +1439,9 @@
         "link": [
             "https://goo.gl/maps/uiv69gCiLa9sHQt39"
         ],
-        "store_note": [],
+        "store_note": [
+            "Counting Liq at this location too this time (will be mapped)"
+        ],
         "employee_list": {
             "Brianna": [
                 "1)",
@@ -1839,7 +1841,7 @@
             "https://goo.gl/maps/n5qPPg3gEsC2"
         ],
         "store_note": [
-            "SET UP ON REG #1 <br><hr id=\"note_separator\">HABA & LIQUOR RESET-REMAPPED"
+            "SET UP ON REG #1 <br><hr id=\"note_separator\">HABA & LIQUOR RESET-REMAPPED <br><hr id=\"note_separator\">*OUTSIDE AUDITORS"
         ],
         "employee_list": {
             "DJ": [
@@ -2541,11 +2543,6 @@
             ],
             "Nagui": [
                 "11)",
-                "@ Store",
-                "none"
-            ],
-            "Trevor": [
-                "12)",
                 "@ Store",
                 "none"
             ]

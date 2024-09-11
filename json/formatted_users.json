@@ -1015,5 +1015,23 @@
     "office": "Madison",
     "firstName": "Aivy",
     "lastName": "Ta"
+  },
+  {
+    "username": "ktellis",
+    "password": "1359",
+    "type": "user",
+    "displayName": "Keshawn T",
+    "office": "Rockford",
+    "firstName": "Keshawn",
+    "lastName": "Tellis"
+  },
+  {
+    "username": "bhardy",
+    "password": "3000",
+    "type": "user",
+    "displayName": "Brett H",
+    "office": "Milwaukee",
+    "firstName": "Brett",
+    "lastName": "Hardy"
   }
 ]
