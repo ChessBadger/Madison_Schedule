@@ -112,26 +112,24 @@
     {
         "date": "Mon, Sep 9",
         "meet_time": [],
-        "start_time": "OVERNIGHT",
+        "start_time": "7:00 AM START",
         "inv_type": [
-            "7:00 AM START",
+            "DC5-ITEM LEVEL",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "DC5-ITEM LEVEL",
+            "GUNDERSEN RX,  LA CROSSE-CASS ST",
             "GUNDERSEN RX, LA CROSSE-VILLAGE"
         ],
         "address": [
-            "GUNDERSEN RX,  LA CROSSE-CASS ST",
+            "528 CASS ST",
             "2511 GREEN BAY ST"
         ],
         "link": [
-            "528 CASS ST",
+            "https://goo.gl/maps/d2sgcBiR3sS2",
             "https://goo.gl/maps/VVKbr1VWki657y2v7"
         ],
-        "store_note": [
-            "https://goo.gl/maps/d2sgcBiR3sS2"
-        ],
+        "store_note": [],
         "employee_list": {
             "Sarah": [
                 "1)",
@@ -350,30 +348,28 @@
     {
         "date": "Tue, Sep 10",
         "meet_time": [],
-        "start_time": "OVERNIGHT",
+        "start_time": "7:30 AM START",
         "inv_type": [
-            "7:30 AM START",
+            "DC5-ITEM LEVEL",
             "DC5-ITEM LEVEL",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "DC5-ITEM LEVEL",
+            "GUNDERSEN RX MED PACK, LA CROSSE-KING ST",
             "GUNDERSEN RX, HOLMEN",
             "GUNDERSEN RX, ONALASKA-SAND LAKE RD"
         ],
         "address": [
-            "GUNDERSEN RX MED PACK, LA CROSSE-KING ST",
+            "505 KING ST",
             "500 N HOLMEN DR",
             "111 SAND LAKE RD"
         ],
         "link": [
-            "505 KING ST",
+            "https://goo.gl/maps/9Ux8XBD17p92",
             "https://goo.gl/maps/NNMt6crjFtCmn1oL8",
             "https://goo.gl/maps/fjpxCvKXoUGWJLrH9"
         ],
-        "store_note": [
-            "https://goo.gl/maps/9Ux8XBD17p92"
-        ],
+        "store_note": [],
         "employee_list": {
             "Sarah": [
                 "1)",
@@ -552,26 +548,24 @@
     {
         "date": "Wed, Sep 11",
         "meet_time": [],
-        "start_time": "OVERNIGHT",
+        "start_time": "7:30 AM START",
         "inv_type": [
-            "7:30 AM START",
+            "DC5-ITEM LEVEL",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "DC5-ITEM LEVEL",
+            "GUNDERSEN RX MAIN CLINIC, LA CROSSE-SOUTH AVE",
             "GUNDERSEN RX, LA CROSSE-DENTON ST"
         ],
         "address": [
-            "GUNDERSEN RX MAIN CLINIC, LA CROSSE-SOUTH AVE",
+            "1836 SOUTH AVE",
             "724 DENTON ST"
         ],
         "link": [
-            "1836 SOUTH AVE",
+            "https://goo.gl/maps/ohSVe4EmWRL2",
             "https://goo.gl/maps/4HdiWaPHc372"
         ],
-        "store_note": [
-            "https://goo.gl/maps/ohSVe4EmWRL2"
-        ],
+        "store_note": [],
         "employee_list": {
             "Sarah": [
                 "1)",
@@ -924,16 +918,16 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "*SALE INVENTORY"
-        ],
-        "address": [
             "PIERCE'S EXPRESS MARKET, BARABOO (GROC + C-STORE)"
         ],
-        "link": [
+        "address": [
             "935 8TH ST"
         ],
-        "store_note": [
+        "link": [
             "https://goo.gl/maps/GhH3B9P8DGn"
+        ],
+        "store_note": [
+            "*SALE INVENTORY"
         ],
         "employee_list": {
             "Kim": [
