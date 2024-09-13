@@ -112,24 +112,26 @@
     {
         "date": "Mon, Sep 9",
         "meet_time": [],
-        "start_time": "7:00 AM START",
+        "start_time": "OVERNIGHT",
         "inv_type": [
-            "DC5-ITEM LEVEL",
+            "7:00 AM START",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "GUNDERSEN RX,  LA CROSSE-CASS ST",
+            "DC5-ITEM LEVEL",
             "GUNDERSEN RX, LA CROSSE-VILLAGE"
         ],
         "address": [
-            "528 CASS ST",
+            "GUNDERSEN RX,  LA CROSSE-CASS ST",
             "2511 GREEN BAY ST"
         ],
         "link": [
-            "https://goo.gl/maps/d2sgcBiR3sS2",
+            "528 CASS ST",
             "https://goo.gl/maps/VVKbr1VWki657y2v7"
         ],
-        "store_note": [],
+        "store_note": [
+            "https://goo.gl/maps/d2sgcBiR3sS2"
+        ],
         "employee_list": {
             "Sarah": [
                 "1)",
@@ -348,28 +350,30 @@
     {
         "date": "Tue, Sep 10",
         "meet_time": [],
-        "start_time": "7:30 AM START",
+        "start_time": "OVERNIGHT",
         "inv_type": [
-            "DC5-ITEM LEVEL",
+            "7:30 AM START",
             "DC5-ITEM LEVEL",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "GUNDERSEN RX MED PACK, LA CROSSE-KING ST",
+            "DC5-ITEM LEVEL",
             "GUNDERSEN RX, HOLMEN",
             "GUNDERSEN RX, ONALASKA-SAND LAKE RD"
         ],
         "address": [
-            "505 KING ST",
+            "GUNDERSEN RX MED PACK, LA CROSSE-KING ST",
             "500 N HOLMEN DR",
             "111 SAND LAKE RD"
         ],
         "link": [
-            "https://goo.gl/maps/9Ux8XBD17p92",
+            "505 KING ST",
             "https://goo.gl/maps/NNMt6crjFtCmn1oL8",
             "https://goo.gl/maps/fjpxCvKXoUGWJLrH9"
         ],
-        "store_note": [],
+        "store_note": [
+            "https://goo.gl/maps/9Ux8XBD17p92"
+        ],
         "employee_list": {
             "Sarah": [
                 "1)",
@@ -548,24 +552,26 @@
     {
         "date": "Wed, Sep 11",
         "meet_time": [],
-        "start_time": "7:30 AM START",
+        "start_time": "OVERNIGHT",
         "inv_type": [
-            "DC5-ITEM LEVEL",
+            "7:30 AM START",
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "GUNDERSEN RX MAIN CLINIC, LA CROSSE-SOUTH AVE",
+            "DC5-ITEM LEVEL",
             "GUNDERSEN RX, LA CROSSE-DENTON ST"
         ],
         "address": [
-            "1836 SOUTH AVE",
+            "GUNDERSEN RX MAIN CLINIC, LA CROSSE-SOUTH AVE",
             "724 DENTON ST"
         ],
         "link": [
-            "https://goo.gl/maps/ohSVe4EmWRL2",
+            "1836 SOUTH AVE",
             "https://goo.gl/maps/4HdiWaPHc372"
         ],
-        "store_note": [],
+        "store_note": [
+            "https://goo.gl/maps/ohSVe4EmWRL2"
+        ],
         "employee_list": {
             "Sarah": [
                 "1)",
@@ -918,16 +924,16 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "PIERCE'S EXPRESS MARKET, BARABOO (GROC + C-STORE)"
+            "*SALE INVENTORY"
         ],
         "address": [
-            "935 8TH ST"
+            "PIERCE'S EXPRESS MARKET, BARABOO (GROC + C-STORE)"
         ],
         "link": [
-            "https://goo.gl/maps/GhH3B9P8DGn"
+            "935 8TH ST"
         ],
         "store_note": [
-            "*SALE INVENTORY"
+            "https://goo.gl/maps/GhH3B9P8DGn"
         ],
         "employee_list": {
             "Kim": [
@@ -1128,7 +1134,7 @@
             ],
             "Josie": [
                 "8)",
-                "@ Store",
+                "@ Store, Until 12:15",
                 "none"
             ],
             "Lorena": [
@@ -1138,7 +1144,7 @@
             ],
             "Lori": [
                 "10)",
-                "@ Store",
+                "@ Store, Until 12:15",
                 "none"
             ],
             "Qiana": [
@@ -1171,23 +1177,28 @@
                 "Driver,\nSilver Van, Equip",
                 "Rockford"
             ],
-            "Eva": [
+            "Emily L": [
                 "2)",
                 "",
-                "none"
+                "Rockford"
             ],
-            "Justin Lee": [
+            "Eva": [
                 "3)",
                 "",
                 "none"
             ],
-            "Nate": [
+            "Justin Lee": [
                 "4)",
                 "",
                 "none"
             ],
-            "Taylor": [
+            "Nate": [
                 "5)",
+                "",
+                "none"
+            ],
+            "Taylor": [
+                "6)",
                 "",
                 "none"
             ]
@@ -1821,21 +1832,21 @@
     {
         "date": "Wed, Sep 18",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "*OUTSIDE AUDITORS",
         "inv_type": [
-            "DC5-ITEM LEVEL"
+            "6:00 AM START"
         ],
         "store_name": [
-            "MARIANO'S #517 +FUEL CTR-RX, OAK LAWN"
+            "DC5-ITEM LEVEL"
         ],
         "address": [
-            "11000 S CICERO AVE"
+            "MARIANO'S #517 +FUEL CTR-RX, OAK LAWN"
         ],
         "link": [
-            "https://goo.gl/maps/n5qPPg3gEsC2"
+            "11000 S CICERO AVE"
         ],
         "store_note": [
-            "SET UP ON REG #1 <br><hr id=\"note_separator\">HABA & LIQUOR RESET-REMAPPED <br><hr id=\"note_separator\">*OUTSIDE AUDITORS"
+            "https://goo.gl/maps/n5qPPg3gEsC2 <br><hr id=\"note_separator\">SET UP ON REG #1 <br><hr id=\"note_separator\">HABA & LIQUOR RESET-REMAPPED"
         ],
         "employee_list": {
             "DJ": [
@@ -2544,6 +2555,942 @@
     },
     {
         "date": "Sat, Sep 21",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
+    },
+    {
+        "date": "Sun, Sep 22",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
+    },
+    {
+        "date": "Mon, Sep 23",
+        "meet_time": [
+            "4:00 am meet for Sarah & Aivy at Wayside Park? (then meet Lori)"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "SULLIVAN'S FOODS #225, FREEPORT"
+        ],
+        "address": [
+            "2002 W GALENA AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/YcFP9FTjTEs94iQh7"
+        ],
+        "store_note": [
+            "SET UP IN THE BACKROOM BY END OF FROZEN AISLES"
+        ],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Aivy": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Lori": [
+                "3)",
+                "meet Sarah 4:30 @ Hwy N PnR, Driver 1/2",
+                "none"
+            ],
+            "Sarah": [
+                "4)",
+                "Driver 1/2",
+                "none"
+            ],
+            "Eva": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Michael N": [
+                "6)",
+                "",
+                "Rockford"
+            ],
+            "Keshawn": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Justin Lee": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Taylor": [
+                "9)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Sep 23",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "BUTERA MARKET #589, PALATINE"
+        ],
+        "address": [
+            "2070 N RAND RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/vpupTB9xixFKJbGe7"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Ashley P": [
+                "2)",
+                "",
+                "Rockford"
+            ],
+            "Evelin": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Anisha": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Joseph": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "6)",
+                "",
+                "Rockford"
+            ],
+            "Elijah": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Keilah": [
+                "8)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Sep 23",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "MODAS"
+        ],
+        "store_name": [
+            "KELLEY #72, FIRST AVE MOBIL, ROCK FALLS"
+        ],
+        "address": [
+            "1308 1ST AVENUE"
+        ],
+        "link": [
+            "https://goo.gl/maps/pvTvLw6CGmx"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Mike G": [
+                "1)",
+                "@ Store",
+                "Rockford"
+            ],
+            "Angela": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Emily L": [
+                "3)",
+                "",
+                "Rockford"
+            ],
+            "Qiana": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Tina E": [
+                "5)",
+                "@ Store",
+                "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Sep 24",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "BUTERA MARKET #590, DES PLAINES"
+        ],
+        "address": [
+            "1565 LEE ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/BEq2gah6qnMgGacf7"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Qiana": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Nate": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Brianna": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Ashley P": [
+                "4)",
+                "",
+                "Rockford"
+            ],
+            "Angela": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Anisha": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Eva": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Evelin": [
+                "8)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Sep 24",
+        "meet_time": [
+            "4:45 am meet for Sarah & Aivy at Wayside Park?"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "GOOD HARVEST MARKET, PEWAUKEE"
+        ],
+        "address": [
+            "2205 SILVERNAIL RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/dbog9UtxNWp"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Aivy": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Lori": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Sarah": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Michael N": [
+                "5)",
+                "",
+                "Rockford"
+            ],
+            "Justin Lee": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Cynthia": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Lashaun": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Sonia": [
+                "9)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Sep 25",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL",
+            "DC5-ITEM LEVEL",
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "GROUP HEALTH RX, CAPITOL",
+            "GROUP HEALTH RX, SAUK TRAILS",
+            "GROUP HEALTH RX, HATCHERY HILLS"
+        ],
+        "address": [
+            "675 W WASHINGTON AVE",
+            "8202 EXCELSIOR DR",
+            "3051 CAHILL MAIN"
+        ],
+        "link": [
+            "https://goo.gl/maps/uSFXx2q34bs",
+            "https://goo.gl/maps/SvuibWN5b3H2",
+            "https://goo.gl/maps/BVziRjp8bAS2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Eva": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Ashley P": [
+                "3)",
+                "",
+                "Rockford"
+            ],
+            "Michael N": [
+                "4)",
+                "",
+                "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Sep 25",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "BUTERA MARKET #588, ALGONQUIN"
+        ],
+        "address": [
+            "100 SOUTH RANDALL RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/agPr8wkY55me3Sq7A"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Anisha": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Joseph": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "4)",
+                "",
+                "Rockford"
+            ],
+            "Evelin": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Keilah": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Keshawn": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Sue": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Paul": [
+                "9)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Sep 25",
+        "meet_time": [
+            "5:45 am meet for Sarah & Aivy at Wayside Park?"
+        ],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "KELLEY #74, OLD SAUK MOBIL, MADISON"
+        ],
+        "address": [
+            "633 JUNCTION CT"
+        ],
+        "link": [
+            "https://goo.gl/maps/ZNAyiE7fr852"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Qiana": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Aivy": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Josie": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Lori": [
+                "4)",
+                "@ Store, Driver",
+                "none"
+            ],
+            "Sarah": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Taylor": [
+                "6)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Sep 25",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "MODAS"
+        ],
+        "store_name": [
+            "KELLEY #22, N MAIN MOBIL, ROCKFORD"
+        ],
+        "address": [
+            "3338 N MAIN ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/PPgMB73RP522"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Mike G": [
+                "1)",
+                "",
+                "Rockford"
+            ],
+            "Emily L": [
+                "2)",
+                "",
+                "Rockford"
+            ],
+            "Spencer P": [
+                "3)",
+                "Until 8:15",
+                "Rockford"
+            ],
+            "Laci": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Justin Lee": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Angela": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Tina E": [
+                "7)",
+                "",
+                "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Sep 26",
+        "meet_time": [
+            "5:15 am meet for Sarah & Aivy at Wayside Park?"
+        ],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "WILLY STREET COOP, MIDDLETON"
+        ],
+        "address": [
+            "6825 UNIVERSITY AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/in4JiZtePA62"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Aivy": [
+                "2)",
+                "w/ Sarah",
+                "none"
+            ],
+            "Angela": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Evelin": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Keilah": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Keshawn": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Lori": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Michael N": [
+                "8)",
+                "",
+                "Rockford"
+            ],
+            "Palmer": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Sarah": [
+                "10)",
+                "w/ Aivy",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Sep 26",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "SULLIVAN'S FOODS #242, MARENGO"
+        ],
+        "address": [
+            "202 LINDOW LANE"
+        ],
+        "link": [
+            "https://goo.gl/maps/GrPtfaDKMT2RotRb9"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Ashley P": [
+                "2)",
+                "",
+                "Rockford"
+            ],
+            "Anisha": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Joseph": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "5)",
+                "",
+                "Rockford"
+            ],
+            "Eva": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Justin Lee": [
+                "7)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Sep 26",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "MODAS"
+        ],
+        "store_name": [
+            "KELLEY #45, SOUTH MAIN MOBIL, ROCKFORD"
+        ],
+        "address": [
+            "550 SOUTH ROCK DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/t6CvF5RGpa22"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Mike G": [
+                "1)",
+                "",
+                "Rockford"
+            ],
+            "Emily L": [
+                "2)",
+                "",
+                "Rockford"
+            ],
+            "Spencer P": [
+                "3)",
+                "Until 8:15",
+                "Rockford"
+            ],
+            "Laci": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Qiana": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Taylor": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Tina E": [
+                "7)",
+                "",
+                "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Sep 26",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Sep 27",
+        "meet_time": [],
+        "start_time": "6:00 AM ST START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "SULLIVAN'S FOODS #295 +ACE, WINNEBAGO"
+        ],
+        "address": [
+            "703 N ELIDA STREET"
+        ],
+        "link": [
+            "https://goo.gl/maps/XJm8iLALryeWSpAZ6"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Nate": [
+                "2)",
+                "Optima\nSupv Ace",
+                "none"
+            ],
+            "Justin Lee": [
+                "3)",
+                "Gray Van\n(stools)",
+                "none"
+            ],
+            "Angela": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Anisha": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Ashley P": [
+                "6)",
+                "",
+                "Rockford"
+            ],
+            "Elijah": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Eva": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Evelin": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Joseph": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "11)",
+                "",
+                "Rockford"
+            ],
+            "Keilah": [
+                "12)",
+                "",
+                "none"
+            ],
+            "Qiana": [
+                "13)",
+                "",
+                "none"
+            ],
+            "Taylor": [
+                "14)",
+                "",
+                "none"
+            ],
+            "Emily L": [
+                "15)",
+                "",
+                "Rockford"
+            ],
+            "Lashaun": [
+                "16)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry D": [
+                "17)",
+                "@ Store",
+                "Milwaukee"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Sep 27",
+        "meet_time": [
+            "3:50 am meet for Sarah & Aivy at Wayside Park?"
+        ],
+        "start_time": "5:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ALBRECHT'S DELAFIELD MARKET"
+        ],
+        "address": [
+            "3255 GOLF RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/UZh6uE9Zs2H2"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Aivy": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Lori": [
+                "3)",
+                "@ Store, Driver",
+                "none"
+            ],
+            "Sarah": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Cynthia": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "DJ": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Greg": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Paul": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Robyn": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Sonia": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Stephanie": [
+                "12)",
+                "@ Store,\nUntil 10:00",
+                "none"
+            ],
+            "Curt": [
+                "13)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Sat, Sep 28",
         "meet_time": [],
         "start_time": null,
         "inv_type": [],
