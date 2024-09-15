@@ -524,21 +524,21 @@
     {
         "date": "Wed, Sep 18",
         "meet_time": [],
-        "start_time": "*OUTSIDE AUDITORS",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "6:00 AM START"
-        ],
-        "store_name": [
             "DC5-ITEM LEVEL"
         ],
-        "address": [
+        "store_name": [
             "MARIANO'S #517 +FUEL CTR-RX, OAK LAWN"
         ],
-        "link": [
+        "address": [
             "11000 S CICERO AVE"
         ],
+        "link": [
+            "https://goo.gl/maps/n5qPPg3gEsC2"
+        ],
         "store_note": [
-            "https://goo.gl/maps/n5qPPg3gEsC2 <br><hr id=\"note_separator\">SET UP ON REG #1 <br><hr id=\"note_separator\">HABA & LIQUOR RESET-REMAPPED"
+            "SET UP ON REG #1 <br><hr id=\"note_separator\">HABA & LIQUOR RESET-REMAPPED"
         ],
         "employee_list": {
             "DJ": [
