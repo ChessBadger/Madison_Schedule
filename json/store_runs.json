@@ -524,21 +524,21 @@
     {
         "date": "Wed, Sep 18",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "*OUTSIDE AUDITORS",
         "inv_type": [
-            "DC5-ITEM LEVEL"
+            "6:00 AM START"
         ],
         "store_name": [
-            "MARIANO'S #517 +FUEL CTR-RX, OAK LAWN"
+            "DC5-ITEM LEVEL"
         ],
         "address": [
-            "11000 S CICERO AVE"
+            "MARIANO'S #517 +FUEL CTR-RX, OAK LAWN"
         ],
         "link": [
-            "https://goo.gl/maps/n5qPPg3gEsC2"
+            "11000 S CICERO AVE"
         ],
         "store_note": [
-            "SET UP ON REG #1 <br><hr id=\"note_separator\">HABA & LIQUOR RESET-REMAPPED"
+            "https://goo.gl/maps/n5qPPg3gEsC2 <br><hr id=\"note_separator\">SET UP ON REG #1 <br><hr id=\"note_separator\">HABA & LIQUOR RESET-REMAPPED"
         ],
         "employee_list": {
             "DJ": [
@@ -556,19 +556,19 @@
                 "Driver,\nSilver Van",
                 "Rockford"
             ],
-            "Eva": [
+            "Elijah": [
                 "4)",
                 "",
                 "none"
             ],
-            "Evelin": [
+            "Eva": [
                 "5)",
-                "Driver, 1/2\nCamry 3",
+                "",
                 "none"
             ],
-            "Keshawn": [
+            "Evelin": [
                 "6)",
-                "",
+                "Driver, 1/2\nCamry 3",
                 "none"
             ],
             "Lorena": [
@@ -688,7 +688,7 @@
             ],
             "Keilah": [
                 "7)",
-                "",
+                "@ Store,\nUntil 10:00",
                 "none"
             ],
             "Makeda": [
@@ -850,53 +850,48 @@
                 "",
                 "none"
             ],
-            "Keshawn": [
+            "Lorena": [
                 "8)",
                 "",
                 "none"
             ],
-            "Lorena": [
+            "Makeda": [
                 "9)",
                 "",
                 "none"
             ],
-            "Makeda": [
-                "10)",
-                "",
-                "none"
-            ],
             "Michael N": [
-                "11)",
+                "10)",
                 "Driver, 1/2\nOptima",
                 "Rockford"
             ],
             "Nate": [
-                "12)",
+                "11)",
                 "Driver, 1/2\nOptima,\nRx",
                 "none"
             ],
             "Curt": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Ian": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Jerry D": [
-                "15)",
+                "14)",
                 "@ Store",
                 "Milwaukee"
             ],
             "Lashaun": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Robyn": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -1131,53 +1126,48 @@
                 "",
                 "none"
             ],
-            "Joseph": [
-                "3)",
-                "",
-                "none"
-            ],
             "Josh S": [
-                "4)",
+                "3)",
                 "",
                 "Rockford"
             ],
             "Makeda": [
-                "5)",
+                "4)",
                 "",
                 "none"
             ],
             "Nate": [
-                "6)",
+                "5)",
                 "Driver,\nGray Van",
                 "none"
             ],
             "Taylor": [
-                "7)",
+                "6)",
                 "",
                 "none"
             ],
             "Cynthia": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Jerry D": [
-                "9)",
+                "8)",
                 "@ Store,\nRx\n1st Kro Rx",
                 "Milwaukee"
             ],
             "Lashaun": [
-                "10)",
+                "9)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Robyn": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Stephanie": [
-                "12)",
+                "11)",
                 "@ Store,\nUntil 10:00",
                 "none"
             ]
@@ -1324,28 +1314,23 @@
                 "Driver, 1/2\nGray Van",
                 "none"
             ],
-            "Keshawn": [
-                "5)",
-                "",
-                "none"
-            ],
             "Lori": [
-                "6)",
+                "5)",
                 "meet Sarah 4:30 @ Hwy N PnR, Driver 1/2",
                 "none"
             ],
             "Michael N": [
-                "7)",
+                "6)",
                 "Driver, 1/2\nGray Van",
                 "Rockford"
             ],
             "Sarah": [
-                "8)",
+                "7)",
                 "Driver 1/2",
                 "none"
             ],
             "Taylor": [
-                "9)",
+                "8)",
                 "",
                 "none"
             ]
@@ -1656,7 +1641,7 @@
         "employee_list": {
             "Brianna": [
                 "1)",
-                "Driver,\nPrius, \nEquip",
+                "@ Store,\nEquip",
                 "none"
             ],
             "Anisha": [
@@ -1684,23 +1669,18 @@
                 "",
                 "none"
             ],
-            "Keshawn": [
+            "Makeda": [
                 "7)",
                 "",
                 "none"
             ],
-            "Makeda": [
-                "8)",
-                "",
-                "none"
-            ],
             "Paul": [
-                "9)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Sue": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ]
@@ -1858,33 +1838,28 @@
                 "",
                 "none"
             ],
-            "Keshawn": [
-                "6)",
-                "",
-                "none"
-            ],
             "Lori": [
-                "7)",
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Michael N": [
-                "8)",
+                "7)",
                 "Driver, 1/2\nGray Van\nTrainer",
                 "Rockford"
             ],
             "Sarah": [
-                "9)",
+                "8)",
                 "Driver",
                 "none"
             ],
             "Seth": [
-                "10)",
+                "9)",
                 "@ Store, \n1st Day, work w/ Michael",
                 "none"
             ],
             "Lashaun": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ]
@@ -2027,7 +2002,7 @@
     {
         "date": "Fri, Sep 27",
         "meet_time": [],
-        "start_time": "6:00 AM ST START",
+        "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
         ],
@@ -2176,7 +2151,7 @@
             ],
             "Carlie": [
                 "5)",
-                "@ Store",
+                "@ Store,\nTrainer",
                 "none"
             ],
             "Curt": [
@@ -2199,23 +2174,28 @@
                 "@ Store",
                 "none"
             ],
-            "Paul": [
+            "Lexi": [
                 "10)",
-                "@ Store",
+                "@ Store,\n4th Day, work w/ Carlie",
                 "none"
             ],
-            "Robyn": [
+            "Paul": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Sonia": [
+            "Robyn": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Stephanie": [
+            "Sonia": [
                 "13)",
+                "@ Store",
+                "none"
+            ],
+            "Stephanie": [
+                "14)",
                 "@ Store,\nUntil 10:00",
                 "none"
             ]
