@@ -1033,5 +1033,23 @@
     "office": "Milwaukee",
     "firstName": "Brett",
     "lastName": "Hardy"
+  },
+  {
+    "username": "lrivera",
+    "password": "3805",
+    "type": "user",
+    "displayName": "Lexi R",
+    "office": "Milwaukee",
+    "firstName": "Lexi",
+    "lastName": "Rivera"
+  },
+  {
+    "username": "bidk",
+    "password": "1234",
+    "type": "user",
+    "displayName": "Bonnie I",
+    "office": "Milwaukee",
+    "firstName": "Bonnie",
+    "lastName": "Idk"
   }
 ]
