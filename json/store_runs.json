@@ -1318,19 +1318,19 @@
         ],
         "start_time": "7:30 AM START",
         "inv_type": [
-            "PAPER/PENCIL (NO MACHS NEEDED HERE)"
-        ],
-        "store_name": [
-            "DON'T NEED TO WEAR A BADGER SHIRT HERE, WORK IN TEAMS OF 2"
-        ],
-        "address": [
             "DANE COUNTY HIGHWAY PARTS, MADISON"
         ],
-        "link": [
+        "store_name": [
             "2302 FISH HATCHERY RD"
         ],
-        "store_note": [
+        "address": [
             "https://goo.gl/maps/jQ1GffTEQFv"
+        ],
+        "link": [
+            "*IL Meet is 6:15 am at IL Office"
+        ],
+        "store_note": [
+            "PAPER/PENCIL (NO MACHS NEEDED HERE) <br><hr id=\"note_separator\">DON'T NEED TO WEAR A BADGER SHIRT HERE, WORK IN TEAMS OF 2"
         ],
         "employee_list": {
             "Nate": [
@@ -1624,16 +1624,16 @@
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "*SALE INVENTORY"
-        ],
-        "address": [
             "DHILLON'S STATION 60 LLC, GRAFTON"
         ],
-        "link": [
+        "address": [
             "1185 N PORT WASHINGTON RD"
         ],
+        "link": [
+            "https://maps.app.goo.gl/j6V8me3CPcLfC84u6"
+        ],
         "store_note": [
-            "https://maps.app.goo.gl/j6V8me3CPcLfC84u6 <br><hr id=\"note_separator\">*Extra machine bag here in case Cedarburg Dhillons is needed to help at all after their store (DJ is sup there)"
+            "*Extra machine bag here in case Cedarburg Dhillons is needed to help at all after their store (DJ is sup there) <br><hr id=\"note_separator\">*SALE INVENTORY"
         ],
         "employee_list": {
             "Sarah": [
