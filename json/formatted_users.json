@@ -1051,5 +1051,41 @@
     "office": "Milwaukee",
     "firstName": "Bonnie",
     "lastName": "Idk"
+  },
+  {
+    "username": "nidk",
+    "password": "1234",
+    "type": "user",
+    "displayName": "Nautaun I",
+    "office": "Milwaukee",
+    "firstName": "Nautaun",
+    "lastName": "Idk"
+  },
+  {
+    "username": "lidk",
+    "password": "1234",
+    "type": "user",
+    "displayName": "Lena I",
+    "office": "Milwaukee",
+    "firstName": "Lena",
+    "lastName": "Idk"
+  },
+  {
+    "username": "jidk",
+    "password": "1234",
+    "type": "user",
+    "displayName": "Jenny I",
+    "office": "Milwaukee",
+    "firstName": "Jenny",
+    "lastName": "Idk"
+  },
+  {
+    "username": "tidk",
+    "password": "1234",
+    "type": "user",
+    "displayName": "Terri I",
+    "office": "Milwaukee",
+    "firstName": "Terri",
+    "lastName": "Idk"
   }
 ]
