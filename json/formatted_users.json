@@ -1087,5 +1087,23 @@
     "office": "Milwaukee",
     "firstName": "Terri",
     "lastName": "Idk"
+  },
+  {
+    "username": "nidk",
+    "password": "1234",
+    "type": "user",
+    "displayName": "Nataun I",
+    "office": "Milwaukee",
+    "firstName": "Nataun",
+    "lastName": "Idk"
+  },
+  {
+    "username": "sidk",
+    "password": "1234",
+    "type": "user",
+    "displayName": "Seth I",
+    "office": "Milwaukee",
+    "firstName": "Seth",
+    "lastName": "Idk"
   }
 ]
