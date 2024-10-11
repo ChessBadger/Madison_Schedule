@@ -350,6 +350,9 @@ if folders:
                                     save_store_runs_to_json()
                                     break_outer_loop = True
                                     break
+                        elif value and "sale inventory" in value.lower():
+                            store_run.add_store_note(value)
+                            current_state = current_state
                         # Check for anyone scheduled in the office
                         elif value and current_state == 'searching' and 'office' in value.lower() and 'leave' not in value.lower():
                             store_run = StoreRun(
