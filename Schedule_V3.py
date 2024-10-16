@@ -112,10 +112,10 @@ def update_employee_list():
 
 
 # Main script execution
-if prompt_user():
-    update_employee_list()
-else:
-    print("Skipping employee list update...\n\n")
+#if prompt_user():
+#    update_employee_list()
+#else:
+#    print("Skipping employee list update...\n\n")
 
 
 json_file_path = 'json/store_runs.json'
@@ -209,12 +209,23 @@ def save_store_runs_to_json():
             json.dump([store_run.to_dict()], file, indent=4)
 
 
-script_dir = os.path.dirname(__file__)
-config_path = os.path.join(script_dir, 'json/config.json')
+# script_dir = os.path.dirname(__file__)
+# config_path = os.path.join(script_dir, 'json/config.json')
 
-# Load credentials from a JSON file
-with open(config_path) as config_file:
-    credentials = json.load(config_file)
+# # Load credentials from a JSON file
+# with open(config_path) as config_file:
+#     credentials = json.load(config_file)
+
+# Retrieve the JSON credentials from the environment variable
+credentials_json = os.environ.get('GOOGLE_CLOUD_CREDENTIALS')
+
+# Load the credentials from the JSON string
+if credentials_json:
+    credentials_info = json.loads(credentials_json)
+else:
+    raise ValueError(
+        "Google Cloud credentials not found in environment variables.")
+
 
 # Set up the credentials for Google Sheets and Drive API
 scope = [
@@ -224,7 +235,10 @@ scope = [
     'https://www.googleapis.com/auth/documents'
 
 ]
-creds = Credentials.from_service_account_info(credentials, scopes=scope)
+# creds = Credentials.from_service_account_info(credentials, scopes=scope)
+
+creds = Credentials.from_service_account_info(credentials_info, scopes=scope)
+
 
 # Initialize the clients for Sheets and Drive API
 client = gspread.authorize(creds)
