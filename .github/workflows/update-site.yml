@@ -36,4 +36,4 @@ jobs:
         git config --global user.email 'clarklas831@gmail.com'
         git add .
         git commit -m "Automated site update"
-        git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/ChessBadger/Admin_Schedule.git HEAD:main
+        git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/ChessBadger/Madison_Schedule.git HEAD:main
