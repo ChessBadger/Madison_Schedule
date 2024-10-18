@@ -610,7 +610,7 @@
             ],
             "Kayla": [
                 "2)",
-                "2nd Scan, work w/ Calrie",
+                "2nd Scan, work w/ Carlie",
                 "none"
             ],
             "Nate": [
@@ -718,25 +718,25 @@
                 "Equip",
                 "Rockford"
             ],
-            "Emily L": [
+            "Angela": [
                 "2)",
+                "",
+                "none"
+            ],
+            "Emily L": [
+                "3)",
                 "",
                 "Rockford"
             ],
             "Laci": [
-                "3)",
+                "4)",
                 "",
                 "none"
             ],
             "Spencer P": [
-                "4)",
+                "5)",
                 "Until 8:15",
                 "Rockford"
-            ],
-            "Angela": [
-                "5)",
-                "",
-                "none"
             ]
         }
     },
@@ -1084,15 +1084,15 @@
                 "",
                 "Rockford"
             ],
-            "Taylor": [
+            "Laci": [
                 "4)",
                 "",
                 "none"
             ],
-            "Tina E": [
+            "Taylor": [
                 "5)",
                 "",
-                "Rockford"
+                "none"
             ]
         }
     },
@@ -1207,7 +1207,7 @@
         "employee_list": {
             "Nate": [
                 "1)",
-                "@ Store,\nOptima,\nEquip",
+                "Driver,\nOptima,\nEquip",
                 "none"
             ],
             "Anisha": [
@@ -1220,44 +1220,49 @@
                 "",
                 "none"
             ],
-            "Evelin": [
+            "Eva": [
                 "4)",
-                "Driver, 1/2\nSilver Van",
+                "",
+                "none"
+            ],
+            "Evelin": [
+                "5)",
+                "Driver, 1/2\nCamry 3",
                 "none"
             ],
             "Joseph": [
-                "5)",
+                "6)",
                 "",
                 "none"
             ],
             "Josh S": [
-                "6)",
+                "7)",
                 "",
                 "Rockford"
             ],
             "Justin Lee": [
-                "7)",
-                "Driver,\nCamry 3",
+                "8)",
+                "Driver,\nLexus - swap cars at store",
                 "none"
             ],
             "Kayla": [
-                "8)",
+                "9)",
                 "3rd week, work w/ Qiana",
                 "none"
             ],
             "Lorena": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Makeda": [
                 "10)",
                 "",
                 "none"
             ],
-            "Qiana": [
+            "Makeda": [
                 "11)",
-                "Driver, 1/2\nSilver Van,\nTrainer",
+                "",
+                "none"
+            ],
+            "Qiana": [
+                "12)",
+                "Driver, 1/2\nCamry 3,\nTrainer Please bring Computer Box as a back up",
                 "none"
             ]
         }
@@ -1287,7 +1292,7 @@
             ],
             "Angela": [
                 "2)",
-                "Driver, 1/2\nGray Van",
+                "Driver,\nCorolla",
                 "none"
             ],
             "Emily L": [
@@ -1295,23 +1300,18 @@
                 "",
                 "Rockford"
             ],
-            "Eva": [
+            "Michael N": [
                 "4)",
                 "",
-                "none"
-            ],
-            "Michael N": [
-                "5)",
-                "Driver, 1/2\nGray Van",
                 "Rockford"
             ],
             "Taylor": [
-                "6)",
+                "5)",
                 "",
                 "none"
             ],
             "Tina E": [
-                "7)",
+                "6)",
                 "@ Store w/ Mike",
                 "Rockford"
             ]
@@ -2106,12 +2106,12 @@
             ],
             "Michael N": [
                 "13)",
-                "Driver, 1/2 Gray Van,\nTrainer",
+                "Driver, \nGray Van,\nTrainer",
                 "Rockford"
             ],
             "Nate": [
                 "14)",
-                "Driver 1/2,\nGray Van,\nSupv Rx",
+                "Driver,\nOptima\nSupv Rx",
                 "none"
             ],
             "Seth": [
