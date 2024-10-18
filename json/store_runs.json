@@ -1509,6 +1509,11 @@
                 "12)",
                 "@ Store",
                 "none"
+            ],
+            "Sydney": [
+                "13)",
+                "@ Store,\n3rd Scan",
+                "none"
             ]
         }
     },
@@ -1547,7 +1552,7 @@
             ],
             "Carlie": [
                 "4)",
-                "@ Store",
+                "@ Store,\nTrainer",
                 "none"
             ],
             "Dan": [
@@ -1575,28 +1580,33 @@
                 "@ Store",
                 "none"
             ],
-            "Marcia": [
+            "Leyna": [
                 "10)",
-                "@ Store",
+                "@ Store, \n4th Financial, work w/ Carlie",
                 "none"
             ],
-            "Robyn": [
+            "Marcia": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Serena": [
+            "Robyn": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Sue": [
+            "Serena": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Taya": [
+            "Sue": [
                 "14)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "15)",
                 "@ Store",
                 "none"
             ]
@@ -1724,6 +1734,11 @@
                 "12)",
                 "@ Store",
                 "none"
+            ],
+            "Sydney": [
+                "13)",
+                "@ Store, \n4th Scan work w/ Anisha",
+                "none"
             ]
         }
     },
@@ -1762,7 +1777,7 @@
             ],
             "Carlie": [
                 "4)",
-                "@ Store",
+                "@ Store,\nTrainer",
                 "none"
             ],
             "Curt": [
@@ -1800,28 +1815,33 @@
                 "@ Store",
                 "none"
             ],
-            "Paul": [
+            "Leyna": [
                 "12)",
-                "@ Store",
+                "@ Store,\n3rd Scan, work w/ Carlie",
                 "none"
             ],
-            "Robyn": [
+            "Paul": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Sonia": [
+            "Robyn": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Stephanie": [
+            "Sonia": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Sue": [
+            "Stephanie": [
                 "16)",
+                "@ Store",
+                "none"
+            ],
+            "Sue": [
+                "17)",
                 "@ Store",
                 "none"
             ]
@@ -2387,7 +2407,7 @@
             ],
             "Carlie": [
                 "9)",
-                "@ Store",
+                "@ Store,\nTrainer",
                 "none"
             ],
             "Ian": [
@@ -2397,7 +2417,7 @@
             ],
             "Jerry D": [
                 "11)",
-                "@ Store",
+                "@ Store,\nTrainer",
                 "Milwaukee"
             ],
             "Lexi": [
@@ -2405,14 +2425,24 @@
                 "@ Store",
                 "none"
             ],
-            "Sonia": [
+            "Leyna": [
                 "13)",
+                "@ Store,\n4th Scan, work w/ Jerry",
+                "none"
+            ],
+            "Sonia": [
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Stephanie": [
-                "14)",
+                "15)",
                 "@ Store,\nUntil 10:00",
+                "none"
+            ],
+            "Sydney": [
+                "16)",
+                "@ Store,\n2nd week, work w/ Carlie",
                 "none"
             ]
         }
