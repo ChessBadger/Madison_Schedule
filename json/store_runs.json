@@ -431,73 +431,78 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Lori": [
+            "Josie": [
                 "2)",
                 "@ Store",
                 "none"
             ],
-            "Annette": [
+            "Lori": [
                 "3)",
                 "@ Store",
                 "none"
             ],
-            "Carlie": [
+            "Annette": [
                 "4)",
+                "@ Store",
+                "none"
+            ],
+            "Carlie": [
+                "5)",
                 "@ Store,\nTrainer",
                 "none"
             ],
             "Dan": [
-                "5)",
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Jerry D": [
-                "6)",
+                "7)",
                 "@ Store",
                 "Milwaukee"
             ],
             "Katie": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Lashaun": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Lena": [
+            "Lashaun": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Leyna": [
+            "Lena": [
                 "10)",
+                "@ Store",
+                "none"
+            ],
+            "Leyna": [
+                "11)",
                 "@ Store, \n4th Financial, work w/ Carlie",
                 "none"
             ],
             "Marcia": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Robyn": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Serena": [
+            "Robyn": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Sue": [
+            "Serena": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Taya": [
+            "Sue": [
                 "15)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "16)",
                 "@ Store",
                 "none"
             ]
