@@ -371,38 +371,43 @@
                 "@ Store",
                 "none"
             ],
-            "Justin Learned": [
+            "Ian": [
                 "7)",
-                "@ Store",
+                "@ Store,\nLate arrival, after appt",
                 "none"
             ],
-            "Kim": [
+            "Justin Learned": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Lexi": [
+            "Kim": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Monica": [
+            "Lexi": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Nataun": [
+            "Monica": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Sonia": [
+            "Nataun": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Sydney": [
+            "Sonia": [
                 "13)",
+                "@ Store",
+                "none"
+            ],
+            "Sydney": [
+                "14)",
                 "@ Store,\n3rd Scan",
                 "none"
             ]
@@ -491,13 +496,8 @@
                 "@ Store",
                 "none"
             ],
-            "Sue": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
             "Taya": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ]
