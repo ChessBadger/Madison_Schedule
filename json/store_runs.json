@@ -1397,63 +1397,68 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Lori": [
+            "Josie": [
                 "2)",
                 "@ Store",
                 "none"
             ],
-            "Annette": [
+            "Lori": [
                 "3)",
                 "@ Store",
                 "none"
             ],
-            "Dan": [
+            "Annette": [
                 "4)",
                 "@ Store",
                 "none"
             ],
-            "Jerry S": [
+            "Dan": [
                 "5)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry S": [
+                "6)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Kirsten": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Lena": [
                 "7)",
                 "@ Store",
                 "none"
             ],
-            "Mai": [
+            "Lena": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Marcia": [
+            "Mai": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Michelle": [
+            "Marcia": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Nagui": [
+            "Michelle": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Serena": [
+            "Nagui": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Terri": [
+            "Serena": [
                 "13)",
+                "@ Store",
+                "none"
+            ],
+            "Terri": [
+                "14)",
                 "@ Store",
                 "none"
             ]
