@@ -406,7 +406,7 @@ if folders:
                             elif value and 'meet' in value.lower():
                                 if 'aivy' in value.lower():
                                     store_run.meet_time.append(value)
-                                    current_state = 'found_store_note'
+                                    current_state = current_state
                             elif value:
                                 store_run.add_store_note(value)
                                 current_state = 'found_store_note'
@@ -425,7 +425,7 @@ if folders:
                             elif value and 'meet' in value.lower():
                                 if 'aivy' in value.lower():
                                     store_run.meet_time.append(value)
-                                    current_state = 'found_store_note'
+                                    current_state = current_state
                             elif value:
                                 store_run.add_store_note(value, concat=True)
                             else:
