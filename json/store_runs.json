@@ -1416,6 +1416,31 @@
         }
     },
     {
+        "date": "Mon, Nov 4",
+        "meet_time": [],
+        "start_time": "11:00 AM START",
+        "inv_type": [
+            "401K PHONE CALL MTG WITH BADGER 401K REP CHRIS BROCK"
+        ],
+        "store_name": [
+            "THIS MTG IS TO PROVIDE INFORMATION TO HELP YOU DECIDE IF YOU WANT TO JOIN"
+        ],
+        "address": [
+            "THE BADGER 401 K PROGRAM TO HELP YOU GET FREE"
+        ],
+        "link": [
+            "MONEY. THERE IS NO OBLIGATION TO JOIN"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Joseph": [
+                "1)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
         "date": "Tue, Nov 5",
         "meet_time": [],
         "start_time": "6:00 AM START",
