@@ -2155,73 +2155,102 @@
             "1403 PATE PLAZA DR"
         ],
         "link": [
-            ""
+            "https://maps.app.goo.gl/QfM8xR5WiwAjarGCA"
         ],
         "store_note": [
-            "*6:30 am office leave time",
-            "Ashley P <br><hr id=\"note_separator\">Brianna"
+            "*6:30 am office leave time"
         ],
         "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
+            "Ashley P": [
+                "1)",
+                "@ Store\nCorolla, Equip",
+                "Rockford"
             ],
-            "6:00 AM START": [
-                "",
-                "",
-                "none"
-            ],
-            "DC5-FINANCIAL": [
-                "",
-                "",
-                "none"
-            ],
-            "FOX BROS PIGGLY WIGGLY #082, MAYVILLE": [
-                "",
-                "",
-                "none"
-            ],
-            "1440 HORICON ST": [
-                "",
-                "",
-                "none"
-            ],
-            "https://maps.app.goo.gl/wZQq41kNMJ6VcqDe7": [
-                "",
-                "",
-                "none"
-            ],
-            "4:45 am meet for Sarah & Aivy at Wayside Park": [
-                "",
-                "",
+            "Brianna": [
+                "2)",
+                "help Ashley if needed",
                 "none"
             ]
         }
     },
     {
         "date": "Thu, Nov 14",
-        "meet_time": [],
-        "start_time": "Sarah",
+        "meet_time": [
+            "4:45 am meet for Sarah & Aivy at Wayside Park"
+        ],
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "Aivy"
+            "DC5-FINANCIAL"
         ],
         "store_name": [
-            "Lori"
+            "FOX BROS PIGGLY WIGGLY #082, MAYVILLE"
         ],
         "address": [
-            "Annette"
+            "1440 HORICON ST"
         ],
         "link": [
-            "Carlie"
+            "https://maps.app.goo.gl/wZQq41kNMJ6VcqDe7"
         ],
-        "store_note": [
-            "Cynthia <br><hr id=\"note_separator\">Kim <br><hr id=\"note_separator\">Lena <br><hr id=\"note_separator\">Nagui <br><hr id=\"note_separator\">Serena <br><hr id=\"note_separator\">Sonia <br><hr id=\"note_separator\">Taya"
-        ],
+        "store_note": [],
         "employee_list": {
-            "": [
-                "",
-                "",
+            "Sarah": [
+                "1)",
+                "Driver, Equip",
+                "none"
+            ],
+            "Aivy": [
+                "2)",
+                "@ Store w/ Sarah",
+                "none"
+            ],
+            "Lori": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Annette": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Carlie": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Cynthia": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Kim": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Lena": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Nagui": [
+                "9)",
+                "@ Store, Until 1:15",
+                "none"
+            ],
+            "Serena": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Sonia": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "12)",
+                "@ Store",
                 "none"
             ]
         }
