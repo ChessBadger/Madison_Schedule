@@ -210,13 +210,8 @@
                 "@ Store",
                 "none"
             ],
-            "Stephanie": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
             "Sydney": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ]
@@ -1531,17 +1526,17 @@
             "https://goo.gl/maps/7zZLAVs6WcQ2"
         ],
         "store_note": [
-            "*IL Meet is      am at IL Office"
+            "*IL Meet is 5:30 am at IL Office"
         ],
         "employee_list": {
             "Mike G": [
                 "1)",
-                "",
+                "@ Store",
                 "Rockford"
             ],
             "Angela": [
                 "2)",
-                "",
+                "Driver,\nCorolla",
                 "none"
             ],
             "Emily L": [
@@ -1561,7 +1556,7 @@
             ],
             "Tina E": [
                 "6)",
-                "",
+                "@ Store w/ Mike",
                 "Rockford"
             ]
         }
