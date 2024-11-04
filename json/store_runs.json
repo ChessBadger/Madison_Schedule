@@ -454,7 +454,7 @@
             ],
             "Michael N": [
                 "5)",
-                "Driver, 1/2\nGray Van",
+                "Driver, 1/2\nGray Van,\nTrainer",
                 "Rockford"
             ],
             "Qiana": [
@@ -525,6 +525,11 @@
             "Sue": [
                 "19)",
                 "@ Store",
+                "none"
+            ],
+            "Victor": [
+                "20)",
+                "@ Store,\n1st Day, work w/ Michael",
                 "none"
             ]
         }
@@ -694,7 +699,7 @@
             ],
             "Michael N": [
                 "4)",
-                "Driver, 1/2\nCamry 3",
+                "Driver, 1/2\nCamry 3,\nTrainer",
                 "Rockford"
             ],
             "Qiana": [
@@ -761,6 +766,11 @@
                 "17)",
                 "@ Store",
                 "none"
+            ],
+            "Victor": [
+                "18)",
+                "@ Store,\n2nd Day, work w/ Michael",
+                "none"
             ]
         }
     },
@@ -824,7 +834,7 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "FOX BROS PIGGLY WIGGLY #083, \nBEAVER DAM"
+            "FOX BROS PIGGLY WIGGLY #083, BEAVER DAM"
         ],
         "address": [
             "810 PARK AVE"
@@ -952,7 +962,7 @@
             ],
             "Nate": [
                 "9)",
-                "Driver, 1/2\nOptima",
+                "Driver, 1/2\nOptima,\nTrainer",
                 "none"
             ],
             "Curt": [
@@ -993,6 +1003,11 @@
             "Sydney": [
                 "17)",
                 "@ Store",
+                "none"
+            ],
+            "Victor": [
+                "18)",
+                "@ Store,\n3rd Day, work w/ Nate",
                 "none"
             ]
         }
