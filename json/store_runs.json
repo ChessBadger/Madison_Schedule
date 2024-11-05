@@ -581,7 +581,7 @@
             ],
             "Angela": [
                 "2)",
-                "Driver, 1/2\nCorolla",
+                "Driver,\nCorolla",
                 "none"
             ],
             "Anisha": [
@@ -589,73 +589,68 @@
                 "",
                 "none"
             ],
-            "Ashley P": [
-                "4)",
-                "Driver,\nSilver Van,\nSupv Rx",
-                "Rockford"
-            ],
             "Brianna": [
-                "5)",
+                "4)",
                 "@ Store",
                 "none"
             ],
             "Eva": [
-                "6)",
+                "5)",
                 "Rx",
                 "none"
             ],
             "Evelin": [
-                "7)",
+                "6)",
                 "",
                 "none"
             ],
             "Joseph": [
-                "8)",
+                "7)",
                 "",
                 "none"
             ],
             "Josh S": [
-                "9)",
+                "8)",
                 "",
                 "Rockford"
             ],
             "Justin Lee": [
-                "10)",
-                "Driver, 1/2\nCorolla",
+                "9)",
+                "Driver, \nGray Van",
                 "none"
             ],
             "Kayla": [
-                "11)",
+                "10)",
                 "",
                 "none"
             ],
             "Lorena": [
-                "12)",
+                "11)",
                 "",
                 "none"
             ],
             "Makeda": [
-                "13)",
+                "12)",
                 "",
                 "none"
             ],
             "Greg": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Ian": [
-                "15)",
-                "@ Store",
+                "14)",
+                "@ Store,\nSupv Rx",
                 "none"
             ],
             "Jerry D": [
-                "16)",
+                "15)",
                 "@ Store",
                 "Milwaukee"
             ],
             "Justin Learned": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -1657,38 +1652,33 @@
                 "Driver, 1/2\nGray Van",
                 "Rockford"
             ],
-            "Qiana": [
-                "14)",
-                "",
-                "none"
-            ],
             "Justin Learned": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Katherine": [
-                "16)",
+                "15)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Lexi": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ],
             "Nataun": [
-                "18)",
+                "17)",
                 "@ Store",
                 "none"
             ],
             "Sue": [
-                "19)",
+                "18)",
                 "@ Store",
                 "none"
             ],
             "Sydney": [
-                "20)",
+                "19)",
                 "@ Store",
                 "none"
             ]
@@ -1735,6 +1725,59 @@
             "Lori": [
                 "3)",
                 "Driver 1/2",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Nov 12",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "MODAS / WINTAKES"
+        ],
+        "store_name": [
+            "SCHIERL #52, PLOVER"
+        ],
+        "address": [
+            "1011 POST RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/ZDK3XYbiY9zD41LN9"
+        ],
+        "store_note": [
+            "*?? am IL office leave time",
+            "Jeremiah bringing equipment"
+        ],
+        "employee_list": {
+            "Qiana": [
+                "1)",
+                "Camry 3, Train w/ Jeremiah",
+                "none"
+            ],
+            "Dan": [
+                "2)",
+                "@ Store",
+                "none"
+            ],
+            "Jacqui": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Jeremiah": [
+                "4)",
+                "@ Store,\nEquip",
+                "none"
+            ],
+            "Michelle": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Terri": [
+                "6)",
+                "@ Store",
                 "none"
             ]
         }
