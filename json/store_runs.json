@@ -854,15 +854,15 @@
             ],
             "Angela": [
                 "3)",
+                "Driver, 1/2\nSilver Van",
+                "none"
+            ],
+            "Eva": [
+                "4)",
                 "",
                 "none"
             ],
-            "Ashley P": [
-                "4)",
-                "Driver,\nSilver Van",
-                "Rockford"
-            ],
-            "Eva": [
+            "Justin Lee": [
                 "5)",
                 "",
                 "none"
@@ -879,17 +879,17 @@
             ],
             "Michael N": [
                 "8)",
-                "",
+                "Driver, 1/2\nSilver Van",
                 "Rockford"
             ],
-            "Taylor": [
+            "Michelle": [
                 "9)",
-                "",
+                "@ Store",
                 "none"
             ],
-            "Michelle": [
+            "Taylor": [
                 "10)",
-                "@ Store",
+                "",
                 "none"
             ]
         }
@@ -927,7 +927,7 @@
             ],
             "Evelin": [
                 "3)",
-                "Driver, 1/2\nOptima",
+                "Driver,\nCorolla",
                 "none"
             ],
             "Joseph": [
@@ -940,63 +940,58 @@
                 "",
                 "Rockford"
             ],
-            "Justin Lee": [
-                "6)",
-                "Driver,\nCorolla",
-                "none"
-            ],
             "Lorena": [
-                "7)",
+                "6)",
                 "",
                 "none"
             ],
             "Makeda": [
-                "8)",
+                "7)",
                 "",
                 "none"
             ],
             "Nate": [
-                "9)",
-                "Driver, 1/2\nOptima,\nTrainer",
+                "8)",
+                "Driver,\nOptima,\nTrainer",
                 "none"
             ],
             "Curt": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Cynthia": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Katherine": [
-                "12)",
+                "11)",
                 "@ Store,\nAfter Aurora",
                 "none"
             ],
             "Leyna": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Monica": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Sonia": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Sydney": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Victor": [
-                "17)",
+                "16)",
                 "@ Store,\n3rd Day, work w/ Nate",
                 "none"
             ]
@@ -1107,43 +1102,38 @@
                 "",
                 "none"
             ],
-            "Ashley P": [
-                "5)",
-                "Driver, 1/2\nSilver Van",
-                "Rockford"
-            ],
             "Evelin": [
-                "6)",
+                "5)",
                 "Driver,\nCorolla",
                 "none"
             ],
             "Joseph": [
-                "7)",
+                "6)",
                 "",
                 "none"
             ],
             "Josh S": [
-                "8)",
+                "7)",
                 "",
                 "Rockford"
             ],
             "Justin Lee": [
-                "9)",
-                "Driver, 1/2\nSilver Van",
+                "8)",
+                "Driver,\nSilver Van",
                 "none"
             ],
             "Lorena": [
-                "10)",
+                "9)",
                 "",
                 "none"
             ],
             "Makeda": [
-                "11)",
+                "10)",
                 "",
                 "none"
             ],
             "Seth": [
-                "12)",
+                "11)",
                 "@ Store, 3rd Scan, work w/ Anisha",
                 "none"
             ]
