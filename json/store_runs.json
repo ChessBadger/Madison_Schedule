@@ -2308,7 +2308,7 @@
         ],
         "store_note": [
             "*IL Meet is 4:45 am at IL Office",
-            "SET UP ON REG #1 OR 2 <br><hr id=\"note_separator\">NO RX COUNT AT THIS STORE THIS TIME!"
+            "SET UP ON REG #1 OR 2 <br><hr id=\"note_separator\">NO RX COUNT AT THIS STORE THIS TIME!  OTC inside the RX does NOT need to be counted - If by chance there is any OTC outside the RX that normally would go into location 80920 we do need to count that under 80920"
         ],
         "employee_list": {
             "Brianna": [
