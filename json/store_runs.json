@@ -1312,68 +1312,63 @@
                 "",
                 "none"
             ],
-            "Ashley P": [
-                "3)",
-                "",
-                "Rockford"
-            ],
             "Elijah": [
-                "4)",
+                "3)",
                 "",
                 "none"
             ],
             "Evelin": [
-                "5)",
+                "4)",
                 "",
                 "none"
             ],
             "Joseph": [
-                "6)",
+                "5)",
                 "",
                 "none"
             ],
             "Josh S": [
-                "7)",
+                "6)",
                 "",
                 "Rockford"
             ],
             "Justin Lee": [
-                "8)",
+                "7)",
                 "Driver,\nSilver Van,\nRx",
                 "none"
             ],
             "Lorena": [
-                "9)",
+                "8)",
                 "",
                 "none"
             ],
             "Makeda": [
-                "10)",
+                "9)",
                 "",
                 "none"
             ],
             "Michael N": [
-                "11)",
+                "10)",
                 "Driver,\nGray Van",
                 "Rockford"
             ],
             "Greg": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Justin Learned": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Kim": [
-                "14)",
+                "13)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Lexi": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ]
@@ -1579,7 +1574,7 @@
             ],
             "Angela": [
                 "2)",
-                "",
+                "Driver, 1/2\nSilver Van",
                 "none"
             ],
             "Anisha": [
@@ -1587,84 +1582,79 @@
                 "",
                 "none"
             ],
-            "Ashley P": [
-                "4)",
-                "Driver,\nSilver Van",
-                "Rockford"
-            ],
             "Brianna": [
-                "5)",
+                "4)",
                 "@ Store",
                 "none"
             ],
             "Eva": [
-                "6)",
+                "5)",
                 "Rx",
                 "none"
             ],
             "Evelin": [
-                "7)",
+                "6)",
                 "Driver, 1/2\nGray Van",
                 "none"
             ],
             "Joseph": [
-                "8)",
+                "7)",
                 "",
                 "none"
             ],
             "Josh S": [
-                "9)",
+                "8)",
                 "",
                 "Rockford"
             ],
             "Justin Lee": [
+                "9)",
+                "Driver, 1/2\nSilver Van",
+                "none"
+            ],
+            "Kayla": [
                 "10)",
                 "",
                 "none"
             ],
-            "Kayla": [
+            "Makeda": [
                 "11)",
                 "",
                 "none"
             ],
-            "Makeda": [
-                "12)",
-                "",
-                "none"
-            ],
             "Michael N": [
-                "13)",
-                "Driver, 1/2\nGray Van",
+                "12)",
+                "Driver, 1/2\nGray Van,\nTrainer",
                 "Rockford"
             ],
             "Justin Learned": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Katherine": [
-                "15)",
+                "14)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Lexi": [
-                "16)",
-                "@ Store",
-                "none"
-            ],
-            "Nataun": [
-                "17)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Sue": [
-                "18)",
+                "16)",
                 "@ Store",
                 "none"
             ],
             "Sydney": [
-                "19)",
+                "17)",
                 "@ Store",
+                "none"
+            ],
+            "Victor": [
+                "18)",
+                "@ Store,\n2nd week, work w/ Michael",
                 "none"
             ]
         }
@@ -1731,7 +1721,7 @@
             "https://goo.gl/maps/ZDK3XYbiY9zD41LN9"
         ],
         "store_note": [
-            "*?? am IL office leave time",
+            "*4:30 am IL office leave time",
             "Jeremiah bringing equipment"
         ],
         "employee_list": {
@@ -1845,7 +1835,7 @@
             ],
             "Angela": [
                 "2)",
-                "Driver, 1/2\nSilver Van",
+                "Driver, 1/2\nSilver Van,\nRx",
                 "none"
             ],
             "Anisha": [
@@ -1868,79 +1858,79 @@
                 "",
                 "Rockford"
             ],
-            "Justin Lee": [
-                "7)",
-                "Driver, 1/2\nGray Van,\nRx",
-                "none"
-            ],
             "Kayla": [
-                "8)",
+                "7)",
                 "",
                 "none"
             ],
             "Lorena": [
-                "9)",
+                "8)",
                 "",
                 "none"
             ],
             "Makeda": [
-                "10)",
+                "9)",
                 "",
                 "none"
             ],
             "Michael N": [
-                "11)",
-                "Driver, 1/2\nGray Van",
+                "10)",
+                "Driver, 1/2\nGray Van,\nTrainer",
                 "Rockford"
             ],
             "Nate": [
-                "12)",
-                "Supv Rx",
+                "11)",
+                "Driver, 1/2\nGray Van,\nSupv Rx",
                 "none"
             ],
             "Taylor": [
-                "13)",
+                "12)",
                 "",
                 "none"
             ],
             "Carlie": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "DJ": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Greg": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Justin Learned": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ],
             "Lexi": [
-                "18)",
+                "17)",
                 "@ Store",
                 "none"
             ],
             "Leyna": [
-                "19)",
+                "18)",
                 "@ Store",
                 "none"
             ],
             "Sonia": [
-                "20)",
+                "19)",
                 "@ Store",
                 "none"
             ],
             "Sydney": [
-                "21)",
+                "20)",
                 "@ Store",
+                "none"
+            ],
+            "Victor": [
+                "21)",
+                "@ Store,\n2nd week, work w/ Michael",
                 "none"
             ]
         }
@@ -1977,24 +1967,24 @@
                 "@ Store w/ Sarah",
                 "none"
             ],
-            "Ashley P": [
-                "3)",
-                "Driver,\nCorolla",
-                "Rockford"
-            ],
             "Eva": [
-                "4)",
+                "3)",
                 "",
                 "none"
             ],
             "Josie": [
-                "5)",
+                "4)",
                 "@ Store w/ Lori",
                 "none"
             ],
             "Lori": [
-                "6)",
+                "5)",
                 "@ Store   ",
+                "none"
+            ],
+            "Qiana": [
+                "6)",
+                "Driver,\nCamry 3",
                 "none"
             ]
         }
@@ -2029,14 +2019,14 @@
                 "",
                 "Rockford"
             ],
-            "Laci": [
+            "Justin Lee": [
                 "3)",
-                "",
+                "Driver,\nCorolla",
                 "none"
             ],
-            "Qiana": [
+            "Laci": [
                 "4)",
-                "Driver,\nCamry 3",
+                "",
                 "none"
             ],
             "Tina E": [
@@ -2072,104 +2062,99 @@
                 "@ Store, Optima, Equip",
                 "none"
             ],
-            "Angela": [
-                "2)",
-                "Driver, 1/2\nSilver Van",
-                "none"
-            ],
             "Anisha": [
-                "3)",
+                "2)",
                 "",
                 "none"
             ],
             "Eva": [
-                "4)",
+                "3)",
                 "Rx",
                 "none"
             ],
             "Evelin": [
-                "5)",
+                "4)",
                 "Driver, 1/2\nSilver Van",
                 "none"
             ],
             "Joseph": [
-                "6)",
+                "5)",
                 "",
                 "none"
             ],
             "Josh S": [
-                "7)",
+                "6)",
                 "",
                 "Rockford"
             ],
             "Justin Lee": [
-                "8)",
+                "7)",
                 "Driver, 1/2\nGray Van",
                 "none"
             ],
             "Kayla": [
-                "9)",
+                "8)",
                 "",
                 "none"
             ],
             "Lorena": [
-                "10)",
+                "9)",
                 "",
                 "none"
             ],
             "Makeda": [
-                "11)",
+                "10)",
                 "",
                 "none"
             ],
             "Michael N": [
-                "12)",
-                "Driver, 1/2\nGray Van",
+                "11)",
+                "Driver, 1/2\nGray Van,\nTrainer",
                 "Rockford"
             ],
             "Qiana": [
-                "13)",
-                "Driver,\nCamry 3,\nSupv Rx",
+                "12)",
+                "Driver, 1/2\nSilver Van\nSupv Rx",
                 "none"
             ],
             "Taylor": [
-                "14)",
+                "13)",
                 "",
                 "none"
             ],
             "Ian": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Jerry D": [
-                "16)",
+                "15)",
                 "@ Store",
                 "Milwaukee"
             ],
             "Justin Learned": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ],
             "Lexi": [
-                "18)",
+                "17)",
                 "@ Store",
                 "none"
             ],
             "Leyna": [
-                "19)",
-                "@ Store",
-                "none"
-            ],
-            "Nataun": [
-                "20)",
+                "18)",
                 "@ Store",
                 "none"
             ],
             "Sydney": [
-                "21)",
+                "19)",
                 "@ Store",
+                "none"
+            ],
+            "Victor": [
+                "20)",
+                "@ Store,\n2nd week, work w/ Michael",
                 "none"
             ]
         }
@@ -2182,7 +2167,7 @@
             "ALL HARRY'S ARE NOW DC5-FINANCIALS"
         ],
         "store_name": [
-            "HARRY'S MOBIL, SOUTH BELOIT"
+            "HARRY'S MOBIL, \nSOUTH BELOIT"
         ],
         "address": [
             "1403 PATE PLAZA DR"
@@ -2194,14 +2179,14 @@
             "*6:30 am office leave time"
         ],
         "employee_list": {
-            "Ashley P": [
-                "1)",
-                "@ Store\nCorolla, Equip",
-                "Rockford"
-            ],
             "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Angela": [
                 "2)",
-                "help Ashley if needed",
+                "@ Store,\nCorolla",
                 "none"
             ]
         }
@@ -2308,7 +2293,7 @@
         ],
         "store_note": [
             "*IL Meet is 4:45 am at IL Office",
-            "SET UP ON REG #1 OR 2 <br><hr id=\"note_separator\">NO RX COUNT AT THIS STORE THIS TIME!  OTC inside the RX does NOT need to be counted - If by chance there is any OTC outside the RX that normally would go into location 80920 we do need to count that under 80920"
+            "SET UP ON REG #1 OR 2 <br><hr id=\"note_separator\">NO RX COUNT AT THIS STORE THIS TIME!  OTC inside the RX does NOT need to be counted - If by chance there is any OTC <br><hr id=\"note_separator\">outside the RX that normally would go into location 80920 we do need to count that under 80920"
         ],
         "employee_list": {
             "Brianna": [
@@ -2323,7 +2308,7 @@
             ],
             "Angela": [
                 "3)",
-                "",
+                "Driver,\nSilver Van",
                 "none"
             ],
             "Anisha": [
@@ -2331,68 +2316,63 @@
                 "",
                 "none"
             ],
-            "Ashley P": [
-                "5)",
-                "Driver,\nSilver Van",
-                "Rockford"
-            ],
             "Eva": [
-                "6)",
+                "5)",
                 "",
                 "none"
             ],
             "Evelin": [
-                "7)",
+                "6)",
                 "Driver, 1/2\nOptima",
                 "none"
             ],
             "Joseph": [
-                "8)",
+                "7)",
                 "",
                 "none"
             ],
             "Josh S": [
-                "9)",
+                "8)",
                 "",
                 "Rockford"
             ],
             "Lorena": [
-                "10)",
+                "9)",
                 "",
                 "none"
             ],
             "Lori": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Makeda": [
-                "12)",
+                "11)",
                 "",
                 "none"
             ],
             "Nate": [
-                "13)",
+                "12)",
                 "Driver, 1/2\nOptima",
                 "none"
             ],
             "Sarah": [
-                "14)",
+                "13)",
                 "w/ Aivy Oil Change in SP",
                 "none"
             ],
             "Seth": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Dan": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Terri": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -2471,7 +2451,7 @@
             ],
             "Ian": [
                 "11)",
-                "@ Store",
+                "@ Store,\nTrainer",
                 "none"
             ],
             "Jerry D": [
@@ -2502,6 +2482,11 @@
             "Sydney": [
                 "17)",
                 "@ Store",
+                "none"
+            ],
+            "Victor": [
+                "18)",
+                "@ Store,\n2nd week, work w/ Ian",
                 "none"
             ]
         }
