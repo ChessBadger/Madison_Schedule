@@ -770,17 +770,16 @@
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "ASCENSION ALL SAINTS HOSP WI AVE CAMPUS, RACINE"
+            "ASCENSION ALL SAINTS HOSP SPRING ST CAMPUS, RACINE"
         ],
         "address": [
-            "1320 WISCONSIN AVE"
+            "3801 SPRING ST"
         ],
         "link": [
-            "https://goo.gl/maps/raiuDa4wRko"
+            "https://goo.gl/maps/PjumoiJbqD62"
         ],
         "store_note": [
-            "*ENTER THRU SURGICAL CENTER",
-            "7:00 AM START <br><hr id=\"note_separator\">DC5-ITEM LEVEL <br><hr id=\"note_separator\">ASCENSION ALL SAINTS HOSP SPRING ST CAMPUS, RACINE <br><hr id=\"note_separator\">3801 SPRING ST <br><hr id=\"note_separator\">https://goo.gl/maps/PjumoiJbqD62 <br><hr id=\"note_separator\">NO CELL RECEPTION AT THESE TWO LOCATIONS"
+            "NO CELL RECEPTION AT THESE TWO LOCATIONS"
         ],
         "employee_list": {
             "Katherine": [
@@ -795,7 +794,7 @@
             ],
             "Sarah": [
                 "3)",
-                "WI Ave \n(Take your pc), Driver",
+                "Driver",
                 "none"
             ],
             "Cynthia": [
@@ -805,16 +804,6 @@
             ],
             "Kim": [
                 "5)",
-                "@ Store",
-                "none"
-            ],
-            "Monica": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Sue": [
-                "7)",
                 "@ Store",
                 "none"
             ]
