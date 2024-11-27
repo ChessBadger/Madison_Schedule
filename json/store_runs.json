@@ -576,7 +576,7 @@
             "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "PICK #889 +RX, MENOMONEE FALLS"
+            "PICK #889, MENOMONEE FALLS (NO RX)"
         ],
         "address": [
             "N77 W14435 APPLETON AVE"
@@ -586,7 +586,7 @@
         ],
         "store_note": [
             "*IL Meet is 4:30 am at IL Office",
-            "SET UP ON REG #6"
+            "SET UP ON REG #6 <br><hr id=\"note_separator\">NO RX COUNT (INCLUDING OTC) NEEDED HERE THIS TIME.  This is an additional inventory added in <br><hr id=\"note_separator\">per Kroger request, and they said additional Rx count is not necessary"
         ],
         "employee_list": {
             "Brianna": [
@@ -626,7 +626,7 @@
             ],
             "Justin Lee": [
                 "8)",
-                "Rx, Train w/ Nate",
+                "",
                 "none"
             ],
             "Kayla": [
@@ -651,7 +651,7 @@
             ],
             "Nate": [
                 "13)",
-                "Driver, 1/2\nGray Van,\nSupv Rx",
+                "Driver, 1/2\nGray Van",
                 "none"
             ],
             "Qiana": [
