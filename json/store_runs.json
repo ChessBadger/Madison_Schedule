@@ -187,6 +187,36 @@
         }
     },
     {
+        "date": "Mon, Dec 9",
+        "meet_time": [],
+        "start_time": "8:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ANDY LIQUOR STORE - MUKWONAGO"
+        ],
+        "address": [
+            "411 MAIN ST"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/PrnTLtbRXx7W2zQg8"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Paul": [
+                "2)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
         "date": "Tue, Dec 10",
         "meet_time": [],
         "start_time": "6:00 AM START",
