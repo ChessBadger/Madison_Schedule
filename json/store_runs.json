@@ -341,18 +341,13 @@
                 "",
                 "none"
             ],
-            "Lori": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
             "Michael N": [
-                "6)",
+                "5)",
                 "Driver, 1/2\nSilver Van",
                 "Rockford"
             ],
             "Taylor": [
-                "7)",
+                "6)",
                 "",
                 "none"
             ]
@@ -683,7 +678,7 @@
     {
         "date": "Thu, Dec 12",
         "meet_time": [
-            "6:00 am meet for Sarah & Aivy at Wayside Park, then meet Lori"
+            "6:00 am meet for Sarah & Aivy at Wayside Park"
         ],
         "start_time": "7:00 AM START",
         "inv_type": [
@@ -739,7 +734,7 @@
             ],
             "Lori": [
                 "8)",
-                "6:30 \n@ Hwy N",
+                "Meet @ Store",
                 "none"
             ],
             "Michael N": [
