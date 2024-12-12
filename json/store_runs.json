@@ -843,7 +843,7 @@
         ],
         "store_note": [
             "*NO ROCKFORD MEET HERE* **Meet at the store**",
-            "*If Jerry's car leaves before store is over (at 12:00) Victor and Greg also leave w/ him"
+            "*If Jerry's car leaves before store is over (at 12:00) Greg also leave w/ him"
         ],
         "employee_list": {
             "Brianna": [
@@ -964,11 +964,6 @@
             "Sydney": [
                 "24)",
                 "@ Store",
-                "none"
-            ],
-            "Victor": [
-                "25)",
-                "@ Store,\nUntil 12:00",
                 "none"
             ]
         }
