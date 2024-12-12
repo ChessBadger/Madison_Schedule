@@ -931,15 +931,15 @@
                 "@ Store,\nUntil 12:00",
                 "none"
             ],
-            "Ian": [
-                "18)",
-                "@ Store,\n(Stools)\nAce Side",
-                "none"
-            ],
             "Jerry D": [
-                "19)",
+                "18)",
                 "@ Store,\nUntil 12:00,\n(Stools)",
                 "Milwaukee"
+            ],
+            "Lashaun": [
+                "19)",
+                "@ Store,\n(Stools)\nAce Side",
+                "none"
             ],
             "Lexi": [
                 "20)",
@@ -1031,25 +1031,6 @@
             "Terri": [
                 "8)",
                 "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Dec 13",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
-        ],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {
-            "Lashaun": [
-                "",
-                "",
                 "none"
             ]
         }
