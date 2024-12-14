@@ -1,1042 +1,5 @@
 [
     {
-        "date": "Sun, Dec 8",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "PIGGLY WIGGLY #220, MUSKEGO"
-        ],
-        "address": [
-            "W189 S7847 RACINE AVE"
-        ],
-        "link": [
-            "https://goo.gl/maps/3aRXzfmExPr"
-        ],
-        "store_note": [
-            "*IL Meet is 4:45 am at IL Office"
-        ],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Angela": [
-                "2)",
-                "Driver, 1/2\nCamry 3",
-                "none"
-            ],
-            "Anisha": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Qiana": [
-                "4)",
-                "Driver, 1/2\nCamry 3",
-                "none"
-            ],
-            "Cynthia": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Katherine": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Paul": [
-                "7)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Sun, Dec 8",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "PIGGLY WIGGLY #221, PALMYRA"
-        ],
-        "address": [
-            "117 W TAFT"
-        ],
-        "link": [
-            "https://goo.gl/maps/VvUw29M3hE72"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Jerry D": [
-                "2)",
-                "@ Store",
-                "Milwaukee"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Dec 9",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "PIGGLY WIGGLY #170, WATERLOO"
-        ],
-        "address": [
-            "810 N MONROE ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/nBV5CGccWtE2"
-        ],
-        "store_note": [
-            "*IL Meet is 5:45 am at IL Office",
-            "FEW RESETS-REMAPPED"
-        ],
-        "employee_list": {
-            "Nate": [
-                "1)",
-                "Driver, 1/2\nOptima, Equip",
-                "none"
-            ],
-            "Elijah": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Eva": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Evelin": [
-                "4)",
-                "Driver, 1/2\nCorolla",
-                "none"
-            ],
-            "Justin Lee": [
-                "5)",
-                "Driver, 1/2\nOptima",
-                "none"
-            ],
-            "Lorena": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Michael N": [
-                "7)",
-                "Driver, 1/2\nCorolla",
-                "Rockford"
-            ],
-            "Taylor": [
-                "8)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Dec 9",
-        "meet_time": [
-            "6:45 am meet for Sarah & Aivy at WI Dells Walmart"
-        ],
-        "start_time": "8:00 AM START",
-        "inv_type": [
-            "EXCEL FINANCIAL"
-        ],
-        "store_name": [
-            "CATARACT MART"
-        ],
-        "address": [
-            "5897 STATE HIGHWAY 27"
-        ],
-        "link": [
-            "https://goo.gl/maps/Egw36TvC6UF2"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Sarah": [
-                "1)",
-                "Driver 1/2, Equip",
-                "none"
-            ],
-            "Aivy": [
-                "2)",
-                "@ Store w/ Sarah",
-                "none"
-            ],
-            "Lori": [
-                "3)",
-                "Driver 1/2",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Dec 9",
-        "meet_time": [],
-        "start_time": "8:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "ANDY LIQUOR STORE - MUKWONAGO"
-        ],
-        "address": [
-            "411 MAIN ST"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/PrnTLtbRXx7W2zQg8"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Paul": [
-                "2)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Dec 10",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "PIGGLY WIGGLY #169, COTTAGE GROVE"
-        ],
-        "address": [
-            "421 W COTTAGE GROVE RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/ysP4kdWtU542"
-        ],
-        "store_note": [
-            "*IL Meet is 4:45 am at IL Office",
-            "JASON LIKES 2 COPIES OF THE FINAL REPORT"
-        ],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Anisha": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Emily L": [
-                "3)",
-                "",
-                "Rockford"
-            ],
-            "Eva": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Evelin": [
-                "5)",
-                "Driver, Corolla - Meineke in CG for trani flush at 7:30",
-                "none"
-            ],
-            "Joseph": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Josh S": [
-                "7)",
-                "",
-                "Rockford"
-            ],
-            "Justin Lee": [
-                "8)",
-                "Driver 1/2\nGray Van",
-                "none"
-            ],
-            "Makeda": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Qiana": [
-                "10)",
-                "Driver 1/2\nGray Van",
-                "none"
-            ],
-            "Savannah": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Seth": [
-                "12)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Dec 10",
-        "meet_time": [
-            "5:30 am meet for Sarah & Aivy at Wayside Park"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "PIGGLY WIGGLY #107, PARDEEVILLE"
-        ],
-        "address": [
-            "514 S MAIN ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/sq3qAVknVaD2"
-        ],
-        "store_note": [
-            "*IL Meet is 4:15 am at IL Office"
-        ],
-        "employee_list": {
-            "Sarah": [
-                "1)",
-                "Driver, Equip",
-                "none"
-            ],
-            "Aivy": [
-                "2)",
-                "@ Store w/ Sarah",
-                "none"
-            ],
-            "Angela": [
-                "3)",
-                "Driver, 1/2\nSilver Van",
-                "none"
-            ],
-            "Kayla": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Michael N": [
-                "5)",
-                "Driver, 1/2\nSilver Van",
-                "Rockford"
-            ],
-            "Taylor": [
-                "6)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Dec 10",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "PICK #378, RACINE - CALEDONIA"
-        ],
-        "address": [
-            "5111 DOUGLAS AVENUE"
-        ],
-        "link": [
-            "https://goo.gl/maps/b5CYjdz3kAC2"
-        ],
-        "store_note": [
-            "STORE RESET-REMAPPED",
-            "*3:45 am office leave time"
-        ],
-        "employee_list": {
-            "Nate": [
-                "1)",
-                "@ Store, Optima, Equip",
-                "none"
-            ],
-            "Carlie": [
-                "2)",
-                "@ Store",
-                "none"
-            ],
-            "Cynthia": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
-            "DJ": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
-            "Greg": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Jerry D": [
-                "6)",
-                "@ Store",
-                "Milwaukee"
-            ],
-            "Justin Learned": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Lexi": [
-                "8)",
-                "@ Store",
-                "none"
-            ],
-            "Leyna": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "Monica": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Paul": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Sonia": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Sue": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Sydney": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Victor": [
-                "15)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Dec 10",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
-        ],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "",
-                "",
-                "none"
-            ],
-            "Lashaun": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Dec 11",
-        "meet_time": [
-            "5:45 am meet for Sarah & Aivy at Wayside Park"
-        ],
-        "start_time": "6:30 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "PIGGLY WIGGLY #167, CAMBRIDGE"
-        ],
-        "address": [
-            "100 JEFFERSON ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/1UctL4BGe3p"
-        ],
-        "store_note": [
-            "*IL Meet is 5:30 am at IL Office"
-        ],
-        "employee_list": {
-            "Sarah": [
-                "1)",
-                "Driver",
-                "none"
-            ],
-            "Aivy": [
-                "2)",
-                "@ Store w/ Sarah",
-                "none"
-            ],
-            "Angela": [
-                "3)",
-                "Driver, 1/2\nSilver Van",
-                "none"
-            ],
-            "Brianna": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
-            "Eva": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Kayla": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Lorena": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Lori": [
-                "8)",
-                "@ Store",
-                "none"
-            ],
-            "Qiana": [
-                "9)",
-                "Driver, 1/2\nSilver Van",
-                "none"
-            ],
-            "Taylor": [
-                "10)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Dec 11",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "METRO #876, GLENDALE - GREEN TREE"
-        ],
-        "address": [
-            "6969 N PORT WASHINGTON RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/ho2n746veYC2"
-        ],
-        "store_note": [
-            "*IL Meet is 4:15 am at IL Office"
-        ],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Anisha": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Evelin": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
-            "Joseph": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Josh S": [
-                "5)",
-                "",
-                "Rockford"
-            ],
-            "Justin Lee": [
-                "6)",
-                "Driver, 1/2\nCorolla",
-                "none"
-            ],
-            "Makeda": [
-                "7)",
-                "",
-                "none"
-            ],
-            "MIchael N": [
-                "8)",
-                "Driver, 1/2\nOptima",
-                "Rockford"
-            ],
-            "Nate": [
-                "9)",
-                "Driver, 1/2\nOptima",
-                "none"
-            ],
-            "Lexi": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Leyna": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Paul": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Sonia": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Sydney": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Victor": [
-                "15)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Dec 11",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
-        ],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {
-            "Lashaun": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Dec 12",
-        "meet_time": [
-            "6:00 am meet for Sarah & Aivy at Wayside Park"
-        ],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "PIGGLY WIGGLY #168, EDGERTON"
-        ],
-        "address": [
-            "1211 N MAIN ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/9YbLUf3aGUH2"
-        ],
-        "store_note": [
-            "*IL Meet is 6:00 am at IL Office"
-        ],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Aivy": [
-                "2)",
-                "@ Store w/ Sarah",
-                "none"
-            ],
-            "Emily L": [
-                "3)",
-                "",
-                "Rockford"
-            ],
-            "Eva": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Evelin": [
-                "5)",
-                "Driver 1/2\nGray Van",
-                "none"
-            ],
-            "Kayla": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Lorena": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Lori": [
-                "8)",
-                "Meet @ Store",
-                "none"
-            ],
-            "Michael N": [
-                "9)",
-                "Driver 1/2\nGray Van",
-                "Rockford"
-            ],
-            "Sarah": [
-                "10)",
-                "Driver",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Dec 12",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "SULLIVAN'S FOODS #242, MARENGO"
-        ],
-        "address": [
-            "202 LINDOW LANE"
-        ],
-        "link": [
-            "https://goo.gl/maps/GrPtfaDKMT2RotRb9"
-        ],
-        "store_note": [
-            "*IL Meet is 5:15 am at IL Office"
-        ],
-        "employee_list": {
-            "Nate": [
-                "1)",
-                "Driver, 1/2\nOptima, Equip",
-                "none"
-            ],
-            "Angela": [
-                "2)",
-                "Driver, 1/2\nSilver Van",
-                "none"
-            ],
-            "Anisha": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Joseph": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Josh S": [
-                "5)",
-                "",
-                "Rockford"
-            ],
-            "Justin Lee": [
-                "6)",
-                "Driver, 1/2\nOptima",
-                "none"
-            ],
-            "Makeda": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Qiana": [
-                "8)",
-                "Driver, 1/2\nSilver Van",
-                "none"
-            ],
-            "Taylor": [
-                "9)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Dec 12",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [
-            "Office"
-        ],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {
-            "Lashaun": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Dec 13",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "SULLIVAN'S FOODS #295 +ACE, WINNEBAGO"
-        ],
-        "address": [
-            "703 N ELIDA STREET"
-        ],
-        "link": [
-            "https://goo.gl/maps/XJm8iLALryeWSpAZ6"
-        ],
-        "store_note": [
-            "*NO ROCKFORD MEET HERE* **Meet at the store**",
-            "*If Jerry's car leaves before store is over (at 12:00) Greg also leave w/ him"
-        ],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "Supv Groc, Equip",
-                "none"
-            ],
-            "Angela": [
-                "2)",
-                "Ace Side",
-                "none"
-            ],
-            "Anisha": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Elijah": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Emily L": [
-                "5)",
-                "Ace Side",
-                "Rockford"
-            ],
-            "Eva": [
-                "6)",
-                "Ace Side",
-                "none"
-            ],
-            "Evelin": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Joseph": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Josh S": [
-                "9)",
-                "",
-                "Rockford"
-            ],
-            "Justin Lee": [
-                "10)",
-                "Silver Van (Stools)\nAce Side",
-                "none"
-            ],
-            "Kayla": [
-                "11)",
-                "",
-                "none"
-            ],
-            "Lorena": [
-                "12)",
-                "",
-                "none"
-            ],
-            "Makeda": [
-                "13)",
-                "",
-                "none"
-            ],
-            "Nate": [
-                "14)",
-                "Supv Ace,\nOptima,\n(Stools)",
-                "none"
-            ],
-            "Qiana": [
-                "15)",
-                "",
-                "none"
-            ],
-            "Taylor": [
-                "16)",
-                "Ace Side",
-                "none"
-            ],
-            "Greg": [
-                "17)",
-                "@ Store,\nUntil 12:00",
-                "none"
-            ],
-            "Jerry D": [
-                "18)",
-                "@ Store,\nUntil 12:00,\n(Stools)",
-                "Milwaukee"
-            ],
-            "Lashaun": [
-                "19)",
-                "@ Store,\n(Stools)\nAce Side",
-                "none"
-            ],
-            "Lexi": [
-                "20)",
-                "@ Store,\nAce Side",
-                "none"
-            ],
-            "Leyna": [
-                "21)",
-                "@ Store",
-                "none"
-            ],
-            "Paul": [
-                "22)",
-                "@ Store,\nAce Side",
-                "none"
-            ],
-            "Sonia": [
-                "23)",
-                "@ Store",
-                "none"
-            ],
-            "Sydney": [
-                "24)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Dec 13",
-        "meet_time": [
-            "5:15 am meet for Sarah & Aivy at Wayside Park"
-        ],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "2 SISTERS PIGGLY WIGGLY #266, MARKESAN"
-        ],
-        "address": [
-            "450 N MARGARET ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/nVgmJAwKdEjhqQAt6"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Sarah": [
-                "1)",
-                "Driver, Equip",
-                "none"
-            ],
-            "Aivy": [
-                "2)",
-                "@ Store w/ Sarah",
-                "none"
-            ],
-            "Dan": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
-            "Jerry S": [
-                "4)",
-                "@ Store",
-                "Fox Valley"
-            ],
-            "Lena": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Lori": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Michelle": [
-                "7)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Sat, Dec 14",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {}
-    },
-    {
         "date": "Sun, Dec 15",
         "meet_time": [],
         "start_time": null,
@@ -1966,6 +929,356 @@
     },
     {
         "date": "Sat, Dec 21",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
+    },
+    {
+        "date": "Sun, Dec 22",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
+    },
+    {
+        "date": "Mon, Dec 23",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
+    },
+    {
+        "date": "Thu, Dec 26",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "WILLY STREET COOP, MIDDLETON"
+        ],
+        "address": [
+            "6825 UNIVERSITY AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/in4JiZtePA62"
+        ],
+        "store_note": [
+            "*IL Meet is 4:30 am at IL Office"
+        ],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "@ Store,\nOptima, Equip",
+                "none"
+            ],
+            "Aivy": [
+                "2)",
+                "@ Store",
+                "none"
+            ],
+            "Angela": [
+                "3)",
+                "Driver,\nSilver Van",
+                "none"
+            ],
+            "Anisha": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Elijah": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Joseph": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "7)",
+                "",
+                "Rockford"
+            ],
+            "Kayla": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Lorena": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Lori": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "11)",
+                "Driver,\nGray Van",
+                "Rockford"
+            ],
+            "Taylor": [
+                "12)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Dec 26",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "EXCEL FINANCIAL"
+        ],
+        "store_name": [
+            "EDGERTON TRAVEL PLAZA"
+        ],
+        "address": [
+            "568 HAUGEN RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/QxcXMA3387n"
+        ],
+        "store_note": [
+            "*IL Meet is 6:00 am at IL Office"
+        ],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Eva": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Justin Lee": [
+                "3)",
+                "Driver,\nCorolla",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Dec 26",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "EXCEL FINANCIAL"
+        ],
+        "store_name": [
+            "MACTAGGART'S MARKET, MADISON"
+        ],
+        "address": [
+            "230 W LAKELAWN PL"
+        ],
+        "link": [
+            "https://goo.gl/maps/hKVwmybEEw72"
+        ],
+        "store_note": [
+            "*IL Meet is 5:30 am at IL Office"
+        ],
+        "employee_list": {
+            "Qiana": [
+                "1)",
+                "Driver, 1/2\nCamry 3, Equip",
+                "none"
+            ],
+            "Evelin": [
+                "2)",
+                "Driver, 1/2\nCamry 3",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Dec 27",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "CAPITOL CENTRE MARKET, MADISON"
+        ],
+        "address": [
+            "111 N BROOM ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/dNaovNNmnMG2"
+        ],
+        "store_note": [
+            "*IL Meet is 4:45 am at IL Office"
+        ],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "@ Store,\nOptima, Equip",
+                "none"
+            ],
+            "Anisha": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Brianna": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Eva": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Evelin": [
+                "5)",
+                "Driver, 1/2\nGray Van",
+                "none"
+            ],
+            "Justin Lee": [
+                "6)",
+                "Driver, 1/2\nGray Van",
+                "none"
+            ],
+            "Lori": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Makeda": [
+                "8)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Dec 27",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "KELLEY #77, ABERG AVE MOBIL, MADISON"
+        ],
+        "address": [
+            "2601 SHOPKO DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/wunNn18A34r"
+        ],
+        "store_note": [
+            "*IL Meet is 5:15 am at IL Office"
+        ],
+        "employee_list": {
+            "Qiana": [
+                "1)",
+                "@ Store,\nCamry 3, Equip",
+                "none"
+            ],
+            "Angela": [
+                "2)",
+                "Driver,\nSilver Van",
+                "none"
+            ],
+            "Emily L": [
+                "3)",
+                "",
+                "Rockford"
+            ],
+            "Joseph": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Lorena": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Taylor": [
+                "6)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Dec 27",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "EXCEL FINANCIAL",
+            "EXCEL FINANCIAL",
+            "EXCEL FINANCIAL"
+        ],
+        "store_name": [
+            "RUPESH OWNS THE 2 WARRENS STORES",
+            "THE BERRY VINE, WARRENS",
+            "GARY OWNS THIS STORE"
+        ],
+        "address": [
+            "WARRENS MALL",
+            "1800 JELLYSTONE PARK DR",
+            "TOMAH MINI MART (BP)"
+        ],
+        "link": [
+            "201 MAIN STREET",
+            "https://goo.gl/maps/5jeXrSrPmPP2",
+            "215 W CLIFTON ST"
+        ],
+        "store_note": [
+            "https://goo.gl/maps/3hsMf24bHG62",
+            "https://goo.gl/maps/AX6Vi8Q1tqzcScAQ7",
+            "6:00 am meet for Sarah & Aivy at *WI Dells Walmart"
+        ],
+        "employee_list": {
+            "Michelle": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Aivy": [
+                "2)",
+                "@ Store w/ Sarah",
+                "none"
+            ],
+            "Dan": [
+                "3)",
+                "@ Store  ",
+                "none"
+            ],
+            "Sarah": [
+                "4)",
+                "Driver",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Sat, Dec 28",
         "meet_time": [],
         "start_time": null,
         "inv_type": [],
