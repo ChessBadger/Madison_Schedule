@@ -859,43 +859,6 @@
     {
         "date": "Fri, Dec 20",
         "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "OLIVER'S CORNER MARKET - DIXON, IL"
-        ],
-        "address": [
-            "748 N BRINTON AVE"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/KvmCESx6EjkWUHWB8"
-        ],
-        "store_note": [
-            "*IL Meet is 5:45 am at IL Office"
-        ],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "Driver,\nPrius, \nEquip",
-                "none"
-            ],
-            "Nate": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Qiana": [
-                "3)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Dec 20",
-        "meet_time": [],
         "start_time": null,
         "inv_type": [],
         "store_name": [
