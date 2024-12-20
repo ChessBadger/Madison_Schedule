@@ -1076,7 +1076,7 @@
         "employee_list": {
             "Nate": [
                 "1)",
-                "@ Store,\nOptima, Equip",
+                "@ Store,\nOptima, Equip, Mad c-store after",
                 "none"
             ],
             "Anisha": [
@@ -1086,7 +1086,7 @@
             ],
             "Brianna": [
                 "3)",
-                "@ Store",
+                "@ Store, Mad c-store after",
                 "none"
             ],
             "Eva": [
@@ -1216,6 +1216,38 @@
             "Sarah": [
                 "4)",
                 "Driver",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Dec 27",
+        "meet_time": [],
+        "start_time": "10:30 AM - 11:30 AM APPROX START",
+        "inv_type": [
+            "TO FOLLOW CAPITOL CENTRE MARKET"
+        ],
+        "store_name": [
+            "EXCEL FINANCIAL"
+        ],
+        "address": [
+            "CONTACT IS NAVJOT"
+        ],
+        "link": [
+            "BP, MADISON"
+        ],
+        "store_note": [
+            "2801 ATWOOD AVE <br><hr id=\"note_separator\">https://maps.app.goo.gl/sLLPsKwH5GxQVQcm7"
+        ],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "after Cap Centre",
+                "none"
+            ],
+            "Nate": [
+                "2)",
+                "after Cap Centre",
                 "none"
             ]
         }
