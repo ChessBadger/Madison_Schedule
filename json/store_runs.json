@@ -192,39 +192,34 @@
                 "@ Store,\nOptima, Equip, Mad c-store after",
                 "none"
             ],
-            "Anisha": [
-                "2)",
-                "",
-                "none"
-            ],
             "Brianna": [
-                "3)",
+                "2)",
                 "@ Store, Mad c-store after",
                 "none"
             ],
             "Eva": [
-                "4)",
+                "3)",
                 "",
                 "none"
             ],
             "Evelin": [
-                "5)",
+                "4)",
                 "Driver, 1/2\nGray Van",
                 "none"
             ],
             "Justin Lee": [
-                "6)",
+                "5)",
                 "Driver, 1/2\nGray Van",
+                "none"
+            ],
+            "Lashaun": [
+                "6)",
+                "",
                 "none"
             ],
             "Lori": [
                 "7)",
                 "@ Store",
-                "none"
-            ],
-            "Makeda": [
-                "8)",
-                "",
                 "none"
             ]
         }
