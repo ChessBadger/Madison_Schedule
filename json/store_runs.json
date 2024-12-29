@@ -840,38 +840,33 @@
                 "",
                 "none"
             ],
-            "Evelin": [
-                "6)",
-                "Driver,\nGray Van",
-                "none"
-            ],
             "Joseph": [
-                "7)",
+                "6)",
                 "",
                 "none"
             ],
             "Josh S": [
-                "8)",
+                "7)",
                 "",
                 "Rockford"
             ],
-            "Kayla": [
-                "9)",
-                "",
+            "Justin Lee": [
+                "8)",
+                "Driver,\nGray Van",
                 "none"
             ],
             "Lori": [
-                "10)",
+                "9)",
                 "5:00 @ Hwy N, Driver 1/2",
                 "none"
             ],
             "Makeda": [
-                "11)",
+                "10)",
                 "",
                 "none"
             ],
             "Sarah": [
-                "12)",
+                "11)",
                 "@ Store, Driver 1/2",
                 "none"
             ]
@@ -907,7 +902,7 @@
                 "",
                 "none"
             ],
-            "Justin Lee": [
+            "Kayla": [
                 "3)",
                 "",
                 "none"
@@ -1027,15 +1022,15 @@
                 "Driver, 1/2\nOptima, Equip",
                 "none"
             ],
-            "Evelin": [
-                "2)",
-                "",
-                "none"
-            ],
             "Justin Lee": [
-                "3)",
+                "2)",
                 "Driver, 1/2\nOptima",
                 "none"
+            ],
+            "Michael N": [
+                "3)",
+                "",
+                "Rockford"
             ]
         }
     },
@@ -1069,83 +1064,78 @@
                 "Driver, 1/2\nCamry 3,\nRx",
                 "none"
             ],
-            "Michael N": [
-                "3)",
-                "",
-                "Rockford"
-            ],
             "Qiana": [
-                "4)",
+                "3)",
                 "Driver, 1/2\nCamry 3,\nSupv Rx",
                 "none"
             ],
             "Amber": [
-                "5)",
+                "4)",
                 "@ Store,\n2nd Day",
                 "none"
             ],
             "Carlie": [
-                "6)",
+                "5)",
                 "@ Store",
                 "none"
             ],
             "Dan": [
-                "7)",
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Greg": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Ian": [
-                "9)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Jerry S": [
-                "10)",
+                "9)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Kirsten": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Lena": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Mai": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Marcia": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Sydney": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Terri": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Trevor": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ],
             "Victor": [
-                "18)",
+                "17)",
                 "@ Store",
                 "none"
             ]
@@ -1400,12 +1390,12 @@
                 "",
                 "Rockford"
             ],
-            "Evelin": [
+            "Justin Lee": [
                 "4)",
                 "",
                 "none"
             ],
-            "Justin Lee": [
+            "Qiana": [
                 "5)",
                 "",
                 "none"
@@ -1442,7 +1432,7 @@
         "employee_list": {
             "Nate": [
                 "1)",
-                "Driver, 1/2\nOptima",
+                "Driver,\nOptima, Equip",
                 "none"
             ],
             "Aivy": [
@@ -1475,28 +1465,23 @@
                 "",
                 "none"
             ],
-            "Evelin": [
-                "8)",
-                "Driver, 1/2\nOptima",
-                "none"
-            ],
             "Joseph": [
-                "9)",
+                "8)",
                 "",
                 "none"
             ],
             "Josh S": [
-                "10)",
+                "9)",
                 "",
                 "Rockford"
             ],
             "Lori": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Sarah": [
-                "12)",
+                "11)",
                 "@ Store, Driver",
                 "none"
             ]
