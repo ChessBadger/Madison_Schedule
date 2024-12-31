@@ -326,7 +326,9 @@
     },
     {
         "date": "Tue, Dec 31",
-        "meet_time": [],
+        "meet_time": [
+            "6:15 am meet for Aivy & Lori at Wayside Park"
+        ],
         "start_time": "7:00 AM START",
         "inv_type": [
             "EXCEL FINANCIAL",
@@ -345,23 +347,22 @@
             "https://goo.gl/maps/7zcoxgfaHbw"
         ],
         "store_note": [
-            "*4:45 am IL office leave time",
-            "6:30 am meet for Sarah, Aivy & Lori at *WI Dells Walmart"
+            "*4:45 am IL office leave time"
         ],
         "employee_list": {
             "Sarah": [
                 "1)",
-                "Driver, Equip",
+                "@Store, Equip",
                 "none"
             ],
             "Aivy": [
                 "2)",
-                "@ Store w/ Sarah",
+                "@ Store w/ Lori",
                 "none"
             ],
             "Lori": [
                 "3)",
-                "@ WI Dells",
+                "Driver @ Portage",
                 "none"
             ],
             "Qiana": [
