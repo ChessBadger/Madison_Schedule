@@ -577,7 +577,7 @@
         "employee_list": {
             "Qiana": [
                 "1)",
-                "@ Store, Camry 3, Equip",
+                "@ Store, Silver Van, Equip",
                 "none"
             ],
             "Aivy": [
@@ -836,33 +836,38 @@
                 "",
                 "none"
             ],
-            "Joseph": [
+            "Evelin": [
                 "6)",
                 "",
                 "none"
             ],
-            "Josh S": [
+            "Joseph": [
                 "7)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "8)",
                 "",
                 "Rockford"
             ],
             "Justin Lee": [
-                "8)",
+                "9)",
                 "Driver,\nGray Van",
                 "none"
             ],
             "Lori": [
-                "9)",
+                "10)",
                 "5:00 @ Hwy N, Driver 1/2",
                 "none"
             ],
             "Makeda": [
-                "10)",
+                "11)",
                 "",
                 "none"
             ],
             "Sarah": [
-                "11)",
+                "12)",
                 "@ Store, Driver 1/2",
                 "none"
             ]
@@ -1057,12 +1062,12 @@
             ],
             "Angela": [
                 "2)",
-                "Driver, 1/2\nCamry 3,\nRx",
+                "Driver, 1/2\nCorolla,\nRx",
                 "none"
             ],
             "Qiana": [
                 "3)",
-                "Driver, 1/2\nCamry 3,\nSupv Rx",
+                "Driver, 1/2\nCorolla,\nSupv Rx",
                 "none"
             ],
             "Amber": [
@@ -1196,7 +1201,7 @@
         "employee_list": {
             "Qiana": [
                 "1)",
-                "@ Store,\nCamry 3, Equip",
+                "@ Store,\nCorolla, Equip",
                 "none"
             ],
             "Angela": [
