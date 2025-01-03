@@ -644,7 +644,7 @@
             ],
             "Evelin": [
                 "4)",
-                "Driver, 1/2\nGray Van",
+                "Driver,\nGray Van",
                 "none"
             ],
             "Joseph": [
@@ -657,38 +657,33 @@
                 "",
                 "Rockford"
             ],
-            "Justin Lee": [
-                "7)",
-                "Driver, 1/2\nGray Van,\nHelp w/ training",
-                "none"
-            ],
             "Cynthia": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Greg": [
-                "9)",
+                "8)",
                 "@ Store,\n1st Sendiks",
                 "none"
             ],
             "Ian": [
-                "10)",
+                "9)",
                 "@ Store,\nHelp w/ training",
                 "none"
             ],
             "Katherine": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Stephanie": [
-                "12)",
+                "11)",
                 "Until 10:00",
                 "none"
             ],
             "Victor": [
-                "13)",
+                "12)",
                 "@ Store,\n1st Sendiks",
                 "none"
             ]
