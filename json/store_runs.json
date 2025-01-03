@@ -624,6 +624,7 @@
             "https://goo.gl/maps/KnaHZCnxjJy"
         ],
         "store_note": [
+            "STORE RESET-REMAPPED",
             "*IL Meet is 4:30 am at IL Office"
         ],
         "employee_list": {
@@ -938,8 +939,13 @@
                 "@ Store",
                 "none"
             ],
-            "Nick": [
+            "Lashaun": [
                 "11)",
+                "@ Store",
+                "none"
+            ],
+            "Paul": [
+                "12)",
                 "@ Store",
                 "none"
             ]
