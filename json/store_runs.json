@@ -550,11 +550,13 @@
         "link": [
             "https://goo.gl/maps/o8A3d3WmDrS2"
         ],
-        "store_note": [],
+        "store_note": [
+            "*6:15 am meet at the office due to small parking lot"
+        ],
         "employee_list": {
             "Mike G": [
                 "1)",
-                "Equip",
+                "@ Store,\nEquip",
                 "Rockford"
             ],
             "Emily L": [
@@ -955,8 +957,13 @@
                 "",
                 "none"
             ],
-            "Tina E": [
+            "Taylor": [
                 "5)",
+                "",
+                "none"
+            ],
+            "Tina E": [
+                "6)",
                 "",
                 "Rockford"
             ]
