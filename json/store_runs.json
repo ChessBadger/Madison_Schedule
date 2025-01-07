@@ -382,7 +382,7 @@
         ],
         "link": [
             "https://maps.app.goo.gl/pTfTtjjRDd9bwoVX9",
-            "5:30 am meet for Sarah & Aivy at Wayside Park"
+            "5:30 am meet for Sarah, Aivy, & Lori at Wayside Park"
         ],
         "store_note": [
             "*DC5-FINANCIAL NOW!",
@@ -396,6 +396,11 @@
             ],
             "Aivy": [
                 "2)",
+                "@ Store w/ Sarah",
+                "none"
+            ],
+            "Lori": [
+                "3)",
                 "@ Store w/ Sarah",
                 "none"
             ]
@@ -437,18 +442,13 @@
                 "",
                 "none"
             ],
-            "Lori": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
             "Nate": [
-                "5)",
+                "4)",
                 "Driver, 1/2\nOptima",
                 "none"
             ],
             "Taylor": [
-                "6)",
+                "5)",
                 "",
                 "none"
             ]
@@ -812,7 +812,7 @@
         "meet_time": [],
         "start_time": "9:00 AM START",
         "inv_type": [
-            "EXCEL FINANCIAL",
+            "DC5 FINANCIAL",
             "APPROX START 11:00 AM - 11:30 AM"
         ],
         "store_name": [
