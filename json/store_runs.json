@@ -409,47 +409,101 @@
     {
         "date": "Wed, Jan 8",
         "meet_time": [],
-        "start_time": "6:30 AM START",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "DC5-ITEM LEVEL"
+            "DC5-FINANCIAL"
         ],
         "store_name": [
-            "KELLEY #53, MIDDLETON MOBIL"
+            "SENDIK'S, MEQUON"
         ],
         "address": [
-            "8613 UNIVERSITY GREEN"
+            "10930 N PORT WASHINGTON RD"
         ],
         "link": [
-            "https://goo.gl/maps/btWWBCtemW22"
+            "https://goo.gl/maps/9khShk1hnMC2"
         ],
         "store_note": [
-            "*IL Meet is 5:00 am at IL Office",
-            "Nate to help out Taylor after the store at the office"
+            "*IL Meet is 4:15 am at IL Office"
         ],
         "employee_list": {
-            "Qiana": [
+            "DJ": [
                 "1)",
-                "@ Store,\nCorolla, Equip",
-                "none"
-            ],
-            "Angela": [
-                "2)",
-                "Driver, 1/2\nOptima",
+                "@ Store, Equip",
                 "none"
             ],
             "Eva": [
-                "3)",
+                "2)",
                 "",
                 "none"
             ],
             "Nate": [
-                "4)",
-                "Driver, 1/2\nOptima",
+                "3)",
+                "Driver, Optima",
                 "none"
             ],
-            "Taylor": [
+            "Amber": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Annette": [
                 "5)",
-                "",
+                "@ Store",
+                "none"
+            ],
+            "Carlie": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Greg": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Ian": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry D": [
+                "9)",
+                "@ Store",
+                "Milwaukee"
+            ],
+            "Katherine": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Kirsten": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Leyna": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Marcia": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Sydney": [
+                "14)",
+                "@ Store",
+                "none"
+            ],
+            "Trevor": [
+                "15)",
+                "@ Store",
+                "none"
+            ],
+            "Victor": [
+                "16)",
+                "@ Store",
                 "none"
             ]
         }
