@@ -715,9 +715,9 @@
             "*IL Meet is 4:30 am at IL Office"
         ],
         "employee_list": {
-            "Nate": [
+            "Sarah": [
                 "1)",
-                "Driver,\nOptima, Equip",
+                "@ Store, Driver, \nEquip",
                 "none"
             ],
             "Aivy": [
@@ -770,14 +770,9 @@
                 "@ Store",
                 "none"
             ],
-            "Sarah": [
-                "12)",
-                "@ Store, Driver",
-                "none"
-            ],
             "Taylor": [
-                "13)",
-                "",
+                "12)",
+                "Driver,\nCorolla",
                 "none"
             ]
         }
