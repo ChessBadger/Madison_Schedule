@@ -644,46 +644,41 @@
             ],
             "Nate": [
                 "12)",
-                "Driver,\nGray Van",
-                "none"
-            ],
-            "Qiana": [
-                "13)",
-                "Supv Rx",
+                "Driver,\nGray Van,\nSupv Rx",
                 "none"
             ],
             "Sarah": [
-                "14)",
+                "13)",
                 "Driver 1/2",
                 "none"
             ],
             "Taylor": [
-                "15)",
+                "14)",
                 "",
                 "none"
             ],
             "Annette": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Jerry S": [
-                "17)",
+                "16)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Kirsten": [
-                "18)",
+                "17)",
                 "@ Store",
                 "none"
             ],
             "Lena": [
-                "19)",
+                "18)",
                 "@ Store",
                 "none"
             ],
             "Marcia": [
-                "20)",
+                "19)",
                 "@ Store",
                 "none"
             ]
@@ -1349,23 +1344,13 @@
                 "Driver, 1/2\nCorolla",
                 "none"
             ],
-            "Joseph": [
-                "5)",
-                "",
-                "none"
-            ],
             "Justin Lee": [
-                "6)",
+                "5)",
                 "Driver, 1/2\nCorolla",
                 "none"
             ],
-            "Kayla": [
-                "7)",
-                "",
-                "none"
-            ],
             "Sarah": [
-                "8)",
+                "6)",
                 "Driver",
                 "none"
             ]
@@ -1647,63 +1632,58 @@
                 "Driver, 1/2\nOptima",
                 "none"
             ],
-            "Taylor": [
-                "4)",
-                "",
-                "none"
-            ],
             "Carlie": [
-                "5)",
+                "4)",
                 "@ Store",
                 "none"
             ],
             "Cynthia": [
-                "6)",
+                "5)",
                 "@ Store",
                 "none"
             ],
             "DJ": [
-                "7)",
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Greg": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Ian": [
-                "9)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Jerry D": [
-                "10)",
+                "9)",
                 "@ Store",
                 "Milwaukee"
             ],
             "Lexi": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Leyna": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Monica": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Paul": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Sonia": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ]
