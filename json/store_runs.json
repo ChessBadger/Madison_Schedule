@@ -1549,6 +1549,61 @@
     {
         "date": "Wed, Jan 29",
         "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "FRANK'S FRESHWAY MARKET, SOUTH ELGIN, IL"
+        ],
+        "address": [
+            "1175 W SPRING ST"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/8bGoNpJNFvdvbLTN8"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Ian": [
+                "2)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry D": [
+                "3)",
+                "@ Store",
+                "Milwaukee"
+            ],
+            "Monica": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Paul": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Sonia": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Sydney": [
+                "7)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jan 29",
+        "meet_time": [],
         "start_time": "6:30 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
@@ -1655,61 +1710,6 @@
                 "7)",
                 "",
                 "Rockford"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Jan 29",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "FRANK'S FRESHWAY MARKET, SOUTH ELGIN, IL"
-        ],
-        "address": [
-            "1175 W SPRING ST"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/8bGoNpJNFvdvbLTN8"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Ian": [
-                "2)",
-                "@ Store",
-                "none"
-            ],
-            "Jerry D": [
-                "3)",
-                "@ Store",
-                "Milwaukee"
-            ],
-            "Monica": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
-            "Paul": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Sonia": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Sydney": [
-                "7)",
-                "@ Store",
-                "none"
             ]
         }
     },
