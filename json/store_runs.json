@@ -423,23 +423,18 @@
                 "",
                 "Rockford"
             ],
-            "Laci": [
-                "4)",
-                "",
-                "none"
-            ],
             "Michael N": [
-                "5)",
+                "4)",
                 "",
                 "Rockford"
             ],
             "Taylor": [
-                "6)",
+                "5)",
                 "",
                 "none"
             ],
             "Tina E": [
-                "7)",
+                "6)",
                 "",
                 "Rockford"
             ]
@@ -686,28 +681,23 @@
                 "",
                 "Rockford"
             ],
-            "Laci": [
+            "Lorena": [
                 "3)",
                 "",
                 "none"
             ],
-            "Lorena": [
-                "4)",
-                "",
-                "none"
-            ],
             "Spencer P": [
-                "5)",
+                "4)",
                 "",
                 "Rockford"
             ],
             "Taylor": [
-                "6)",
+                "5)",
                 "",
                 "none"
             ],
             "Tina E": [
-                "7)",
+                "6)",
                 "",
                 "Rockford"
             ]
@@ -1288,6 +1278,11 @@
                 "5)",
                 "@ Store",
                 "none"
+            ],
+            "Taylor": [
+                "6)",
+                "w/ Qiana",
+                "none"
             ]
         }
     },
@@ -1402,13 +1397,13 @@
             "MODAS"
         ],
         "store_name": [
-            "KELLEY #52, JEFFERSON ST MOBIL, ROCKFORD"
+            "KELLEY #15, FREEPORT WEST"
         ],
         "address": [
-            "515 E JEFFERSON ST"
+            "1111 S WEST ST"
         ],
         "link": [
-            "https://goo.gl/maps/HwMixMJfHf32"
+            "https://goo.gl/maps/6CTSzF2tjnT2"
         ],
         "store_note": [],
         "employee_list": {
@@ -1432,18 +1427,8 @@
                 "",
                 "none"
             ],
-            "Spencer P": [
-                "5)",
-                "",
-                "Rockford"
-            ],
-            "Taylor": [
-                "6)",
-                "",
-                "none"
-            ],
             "Tina E": [
-                "7)",
+                "5)",
                 "",
                 "Rockford"
             ]
