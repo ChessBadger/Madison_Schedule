@@ -1689,6 +1689,33 @@
     {
         "date": "Fri, Feb 7",
         "meet_time": [],
+        "start_time": "9:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "DELAFIELD LIQUOR (WAUKESHA)"
+        ],
+        "address": [
+            "518 DELAFIELD ST"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/BeLYjvZy7LYyBCjj8"
+        ],
+        "store_note": [
+            "*IL Meet is ?? am at IL Office"
+        ],
+        "employee_list": {
+            "": [
+                "1)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Feb 7",
+        "meet_time": [],
         "start_time": "6:30 AM START",
         "inv_type": [
             "MODAS"
