@@ -454,21 +454,23 @@
         "link": [
             "https://goo.gl/maps/6CTSzF2tjnT2"
         ],
-        "store_note": [],
+        "store_note": [
+            "*IL Meet is 5:45 am at IL Office"
+        ],
         "employee_list": {
             "Mike G": [
                 "1)",
-                "Equip",
+                "@ Store,\nEquip",
                 "Rockford"
             ],
             "Ashley P": [
                 "2)",
-                "",
+                "@ Store",
                 "Rockford"
             ],
             "Emily L": [
                 "3)",
-                "",
+                "Driver,\nGray Van",
                 "Rockford"
             ],
             "Laci": [
@@ -478,7 +480,7 @@
             ],
             "Tina E": [
                 "5)",
-                "",
+                "@ Store",
                 "Rockford"
             ]
         }
@@ -732,19 +734,15 @@
         "meet_time": [],
         "start_time": "7:00 AM START",
         "inv_type": [
-            "DC5-ITEM LEVEL",
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "AURORA OUTPATIENT RX #1108, LOMIRA",
             "CONDON OIL #195, THERESA"
         ],
         "address": [
-            "375 EAST AVENUE, SUITE 1",
             "213 N MILWAUKEE"
         ],
         "link": [
-            "https://goo.gl/maps/HZvTzhm2zfv",
             "https://goo.gl/maps/dBrycqMgUwF2"
         ],
         "store_note": [],
