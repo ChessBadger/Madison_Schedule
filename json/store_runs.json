@@ -752,7 +752,7 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Lori": [
+            "Brianna": [
                 "2)",
                 "@ Store",
                 "none"
@@ -784,11 +784,6 @@
             "Kim": [
                 "1)",
                 "@ Store, Equip",
-                "none"
-            ],
-            "Brianna": [
-                "2)",
-                "@ Store",
                 "none"
             ]
         }
