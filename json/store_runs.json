@@ -762,35 +762,6 @@
     {
         "date": "Fri, Feb 7",
         "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL",
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "WEST BEND BP - \nE WASHINGTON",
-            "WEST BEND MOBIL - \nW WASHINGTON"
-        ],
-        "address": [
-            "2825 E WASHINGTON ST",
-            "2333 W WASHINGTON ST"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/sJ7713JXpChSCzWL7",
-            "https://maps.app.goo.gl/zLH23SGbN7oN6MhA6"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Feb 7",
-        "meet_time": [],
         "start_time": "6:30 AM START",
         "inv_type": [
             "MODAS"
