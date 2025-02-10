@@ -502,15 +502,37 @@
                 "1)",
                 "@ Store, Equip",
                 "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Feb 13",
+        "meet_time": [],
+        "start_time": "Lori",
+        "inv_type": [
+            ""
+        ],
+        "store_name": [
+            ""
+        ],
+        "address": [
+            "10:00 AM START"
+        ],
+        "link": [
+            "DC5-FINANCIAL"
+        ],
+        "store_note": [
+            "HOUSE OF BOTTLES, \nLOVES PARK <br><hr id=\"note_separator\">5619 N 2ND ST <br><hr id=\"note_separator\">https://maps.app.goo.gl/q2JDZ7qEYo5mU6DA6"
+        ],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "Equip",
+                "none"
             ],
             "Brianna": [
                 "2)",
-                "@ Store",
-                "none"
-            ],
-            "Lori": [
-                "3)",
-                "@ Store",
+                "",
                 "none"
             ]
         }
@@ -553,17 +575,17 @@
                 "",
                 "none"
             ],
-            "Justin Lee": [
+            "Evelin": [
                 "5)",
                 "",
                 "none"
             ],
-            "Laci": [
+            "Justin Lee": [
                 "6)",
                 "",
                 "none"
             ],
-            "Nate": [
+            "Laci": [
                 "7)",
                 "",
                 "none"
