@@ -480,7 +480,9 @@
     },
     {
         "date": "Thu, Feb 13",
-        "meet_time": [],
+        "meet_time": [
+            "5:00 am meet for Sarah & Aivy at Wayside Park"
+        ],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
@@ -500,7 +502,17 @@
         "employee_list": {
             "Sarah": [
                 "1)",
-                "@ Store, Equip",
+                "Driver, Equip",
+                "none"
+            ],
+            "Aivy": [
+                "2)",
+                "@ Store w/ Sarah",
+                "none"
+            ],
+            "Lori": [
+                "3)",
+                "@ Store",
                 "none"
             ]
         }
@@ -508,22 +520,20 @@
     {
         "date": "Thu, Feb 13",
         "meet_time": [],
-        "start_time": "Lori",
+        "start_time": "10:00 AM START",
         "inv_type": [
-            ""
-        ],
-        "store_name": [
-            ""
-        ],
-        "address": [
-            "10:00 AM START"
-        ],
-        "link": [
             "DC5-FINANCIAL"
         ],
-        "store_note": [
-            "HOUSE OF BOTTLES, \nLOVES PARK <br><hr id=\"note_separator\">5619 N 2ND ST <br><hr id=\"note_separator\">https://maps.app.goo.gl/q2JDZ7qEYo5mU6DA6"
+        "store_name": [
+            "HOUSE OF BOTTLES, \nLOVES PARK"
         ],
+        "address": [
+            "5619 N 2ND ST"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/q2JDZ7qEYo5mU6DA6"
+        ],
+        "store_note": [],
         "employee_list": {
             "Nate": [
                 "1)",
