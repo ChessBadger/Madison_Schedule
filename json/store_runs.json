@@ -475,9 +475,7 @@
     },
     {
         "date": "Thu, Feb 13",
-        "meet_time": [
-            "5:00 am meet for Sarah & Aivy at Wayside Park"
-        ],
+        "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
@@ -497,7 +495,7 @@
         "employee_list": {
             "Sarah": [
                 "1)",
-                "Driver, Equip",
+                "@ Store, Equip",
                 "none"
             ],
             "Brianna": [
