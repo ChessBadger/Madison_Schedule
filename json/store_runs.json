@@ -500,44 +500,14 @@
                 "Driver, Equip",
                 "none"
             ],
-            "Aivy": [
+            "Brianna": [
                 "2)",
-                "@ Store w/ Sarah",
+                "@ Store",
                 "none"
             ],
             "Lori": [
                 "3)",
                 "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Feb 13",
-        "meet_time": [],
-        "start_time": "10:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "HOUSE OF BOTTLES, \nLOVES PARK"
-        ],
-        "address": [
-            "5619 N 2ND ST"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/q2JDZ7qEYo5mU6DA6"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "Nate": [
-                "1)",
-                "Equip",
-                "none"
-            ],
-            "Brianna": [
-                "2)",
-                "",
                 "none"
             ]
         }
