@@ -1183,29 +1183,29 @@
                 "5:00 am at Hwy N",
                 "none"
             ],
-            "Sarah": [
+            "Qiana": [
                 "7)",
+                "",
+                "none"
+            ],
+            "Sarah": [
+                "8)",
                 "Driver",
                 "none"
             ],
             "Taylor": [
-                "8)",
+                "9)",
                 "",
                 "none"
             ],
             "Annette": [
-                "9)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Ian": [
-                "10)",
-                "@ Store,\nSupv Rx",
-                "none"
-            ],
-            "Leyna": [
                 "11)",
-                "@ Store",
+                "@ Store,\nSupv Rx",
                 "none"
             ],
             "Mai": [
@@ -1265,25 +1265,25 @@
                 "Driver,\nCorolla",
                 "Rockford"
             ],
-            "Qiana": [
-                "6)",
-                "@ Store, After Aurora",
-                "none"
-            ],
             "Cynthia": [
-                "7)",
-                "@ Store, After Aurora",
+                "6)",
+                "@ Store",
                 "none"
             ],
             "Dan": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Jerry D": [
-                "9)",
-                "@ Store, After Aurora",
+                "8)",
+                "@ Store",
                 "Milwaukee"
+            ],
+            "Leyna": [
+                "9)",
+                "@ Store",
+                "none"
             ],
             "Monica": [
                 "10)",
@@ -1351,43 +1351,6 @@
                 "3)",
                 "@ Store",
                 "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Feb 25",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "AURORA OUTPATIENT RX #1014, SOUTH MILWAUKEE"
-        ],
-        "address": [
-            "2414 10TH AVENUE"
-        ],
-        "link": [
-            "https://goo.gl/maps/RKFe5ejXrhF2"
-        ],
-        "store_note": [
-            "*4:30 am IL office leave time"
-        ],
-        "employee_list": {
-            "Qiana": [
-                "1)",
-                "Camry 3, Equip",
-                "none"
-            ],
-            "Cynthia": [
-                "2)",
-                "@ Store",
-                "none"
-            ],
-            "Jerry D": [
-                "3)",
-                "@ Store",
-                "Milwaukee"
             ]
         }
     },
