@@ -236,7 +236,7 @@
             ],
             "Evelin": [
                 "7)",
-                "Driver, 1/2\nSilver Van",
+                "Driver,\nSilver Van",
                 "none"
             ],
             "Joseph": [
@@ -259,23 +259,18 @@
                 "5:15 at Hwy N, Driver 1/2",
                 "none"
             ],
-            "Michael N": [
-                "12)",
-                "Driver,\nGray Van",
-                "Rockford"
-            ],
             "Nate": [
-                "13)",
-                "Driver, 1/2\nSilver Van,\nSupv Rx",
+                "12)",
+                "Driver, \nGray Van,\nSupv Rx",
                 "none"
             ],
             "Sarah": [
-                "14)",
+                "13)",
                 "Driver 1/2",
                 "none"
             ],
             "Taylor": [
-                "15)",
+                "14)",
                 "",
                 "none"
             ]
