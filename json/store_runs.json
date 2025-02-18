@@ -261,7 +261,7 @@
             ],
             "Michael N": [
                 "12)",
-                "Driver, 1/2\nGray Van",
+                "Driver,\nGray Van",
                 "Rockford"
             ],
             "Nate": [
@@ -269,18 +269,13 @@
                 "Driver, 1/2\nSilver Van,\nSupv Rx",
                 "none"
             ],
-            "Qiana": [
-                "14)",
-                "Driver, 1/2\nGray Van",
-                "none"
-            ],
             "Sarah": [
-                "15)",
+                "14)",
                 "Driver 1/2",
                 "none"
             ],
             "Taylor": [
-                "16)",
+                "15)",
                 "",
                 "none"
             ]
@@ -302,12 +297,14 @@
         "link": [
             "https://goo.gl/maps/WZCuKHG2n2q"
         ],
-        "store_note": [],
+        "store_note": [
+            "*EMILY IS THE DM"
+        ],
         "employee_list": {
-            "Mike G": [
+            "Qiana": [
                 "1)",
                 "Equip",
-                "Rockford"
+                "none"
             ],
             "Ashley P": [
                 "2)",
