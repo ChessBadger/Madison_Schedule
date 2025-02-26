@@ -778,24 +778,26 @@
         "inv_type": [
             "DC5-FINANCIAL",
             "DC5-FINANCIAL",
-            "DC5-FINANCIAL (SALE INV)"
+            "APPROXIMATE 10:15-10:30 AM START"
         ],
         "store_name": [
             "ROTE OIL #1 PADDOCK LAKE- BRASS BALL",
             "ROTE OIL #2 PADDOCK LAKE- 75TH ST",
-            "SALEM MINI MART"
+            "CONTACT IS ROOP (THE BUYER)"
         ],
         "address": [
             "25406 75TH ST",
             "25555 75TH ST",
-            "8246 ANTIOCH RD"
+            "DC5-FINANCIAL (SALE INV)"
         ],
         "link": [
             "https://goo.gl/maps/LTa4ckcczx5qc8269",
             "https://goo.gl/maps/5UyWWXXbzXMaVnv99",
-            "https://maps.app.goo.gl/LVwrNLey8PAE2Cdo7"
+            "SALEM MINI MART"
         ],
-        "store_note": [],
+        "store_note": [
+            "8246 ANTIOCH RD <br><hr id=\"note_separator\">https://maps.app.goo.gl/LVwrNLey8PAE2Cdo7"
+        ],
         "employee_list": {
             "Brianna": [
                 "1)",
