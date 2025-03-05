@@ -443,11 +443,6 @@
             "*IL Meet is 5:15 am at IL Office"
         ],
         "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ],
             "Qiana": [
                 "1)",
                 "@ Store,\nCamry 3, Equip",
@@ -818,41 +813,76 @@
         ],
         "store_note": [
             "*IL Meet is 5:15 am at IL Office",
-            "Oil Change Corolla - in Madison Palmer Pickup at store <br><hr id=\"note_separator\">Brianna <br><hr id=\"note_separator\">Angela <br><hr id=\"note_separator\">Anisha <br><hr id=\"note_separator\">Elijah <br><hr id=\"note_separator\">Emily L <br><hr id=\"note_separator\">Eva <br><hr id=\"note_separator\">Evelin <br><hr id=\"note_separator\">Joseph <br><hr id=\"note_separator\">Justin Lee <br><hr id=\"note_separator\">Kayla <br><hr id=\"note_separator\">Lorena <br><hr id=\"note_separator\">Nate <br><hr id=\"note_separator\">Qiana <br><hr id=\"note_separator\">Taylor"
+            "Oil Change Corolla - in Madison Palmer Pickup at store"
         ],
         "employee_list": {
-            "": [
-                "",
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Angela": [
+                "2)",
+                "Driver, 1/2\nCorolla",
+                "none"
+            ],
+            "Anisha": [
+                "3)",
                 "",
                 "none"
             ],
-            "6:00 AM START": [
-                "",
-                "",
-                "none"
-            ],
-            "DC5-ITEM LEVEL": [
-                "",
+            "Elijah": [
+                "4)",
                 "",
                 "none"
             ],
-            "DHILLON'S BP, MARKESAN": [
+            "Emily L": [
+                "5)",
                 "",
+                "Rockford"
+            ],
+            "Eva": [
+                "6)",
                 "",
                 "none"
             ],
-            "N1894 WI-44 (HWY 44 & 73)": [
-                "",
+            "Evelin": [
+                "7)",
+                "Driver,\nSilver Van",
+                "none"
+            ],
+            "Joseph": [
+                "8)",
                 "",
                 "none"
             ],
-            "https://goo.gl/maps/uRQ5w6AXAun5KEMW7": [
-                "",
+            "Justin Lee": [
+                "9)",
+                "Driver, 1/2\nOptima",
+                "none"
+            ],
+            "Kayla": [
+                "10)",
                 "",
                 "none"
             ],
-            "5:15 am meet for Sarah & Aivy at Wayside Park": [
+            "Lorena": [
+                "11)",
                 "",
+                "none"
+            ],
+            "Nate": [
+                "12)",
+                "Driver, 1/2\nOptima",
+                "none"
+            ],
+            "Qiana": [
+                "13)",
+                "Driver, 1/2\nCorolla",
+                "none"
+            ],
+            "Taylor": [
+                "14)",
                 "",
                 "none"
             ]
@@ -860,25 +890,42 @@
     },
     {
         "date": "Fri, Mar 7",
-        "meet_time": [],
-        "start_time": "Sarah",
+        "meet_time": [
+            "5:15 am meet for Sarah & Aivy at Wayside Park"
+        ],
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "Aivy"
+            "DC5-ITEM LEVEL"
         ],
         "store_name": [
-            "Josie"
+            "DHILLON'S BP, MARKESAN"
         ],
         "address": [
-            "Lori"
+            "N1894 WI-44 (HWY 44 & 73)"
         ],
         "link": [
-            ""
+            "https://goo.gl/maps/uRQ5w6AXAun5KEMW7"
         ],
         "store_note": [],
         "employee_list": {
-            "": [
-                "",
-                "",
+            "Sarah": [
+                "1)",
+                "Driver, Equip",
+                "none"
+            ],
+            "Aivy": [
+                "2)",
+                "@ Store w/ Sarah",
+                "none"
+            ],
+            "Josie": [
+                "3)",
+                "@ Store w/ Lori",
+                "none"
+            ],
+            "Lori": [
+                "4)",
+                "@ Store, Driver",
                 "none"
             ]
         }
