@@ -1615,7 +1615,7 @@
             ],
             "Evelin": [
                 "7)",
-                "Driver, 1/2\nOptima",
+                "Driver,\nCorolla",
                 "none"
             ],
             "Joseph": [
@@ -1643,18 +1643,13 @@
                 "Driver, 1/2\nGray Van",
                 "Rockford"
             ],
-            "Nate": [
-                "13)",
-                "Driver, 1/2\nOptima",
-                "none"
-            ],
             "Qiana": [
-                "14)",
+                "13)",
                 "Driver, 1/2\nSilver Van,\nSupv Rx",
                 "none"
             ],
             "Taylor": [
-                "15)",
+                "14)",
                 "",
                 "none"
             ]
@@ -1723,6 +1718,11 @@
             "Aivy": [
                 "2)",
                 "@ Store w/ Sarah",
+                "none"
+            ],
+            "Nate": [
+                "3)",
+                "Optima",
                 "none"
             ]
         }
