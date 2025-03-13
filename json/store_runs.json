@@ -1208,68 +1208,78 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Anisha": [
+            "Angela": [
                 "2)",
                 "",
                 "none"
             ],
-            "Elijah": [
+            "Anisha": [
                 "3)",
                 "",
                 "none"
             ],
-            "Emily L": [
+            "Elijah": [
                 "4)",
+                "",
+                "none"
+            ],
+            "Emily L": [
+                "5)",
                 "",
                 "Rockford"
             ],
             "Eva": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Joseph": [
                 "6)",
                 "",
                 "none"
             ],
-            "Justin Lee": [
+            "Evelin": [
                 "7)",
-                "Driver, 1/2\nOptima,\nRx",
+                "",
                 "none"
             ],
-            "Kayla": [
+            "Joseph": [
                 "8)",
                 "",
                 "none"
             ],
-            "Michael N": [
+            "Justin Lee": [
                 "9)",
+                "Driver, 1/2\nOptima,\nRx",
+                "none"
+            ],
+            "Kayla": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Michael N": [
+                "11)",
                 "Driver,\nGray Van",
                 "Rockford"
             ],
             "Nate": [
-                "10)",
+                "12)",
                 "Driver, 1/2\nOptima,\nSupv Rx",
                 "none"
             ],
             "Taylor": [
-                "11)",
+                "13)",
                 "",
                 "none"
             ],
             "Katherine": [
-                "12)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Leyna": [
-                "13)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Sue": [
-                "14)",
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -1277,7 +1287,9 @@
     },
     {
         "date": "Tue, Mar 18",
-        "meet_time": [],
+        "meet_time": [
+            "4:45 am meet for Sarah & Aivy at Wayside Park, then meet Lori & Josie 5:45 at Pig Waupun"
+        ],
         "start_time": "6:30 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
@@ -1291,93 +1303,11 @@
         "link": [
             "https://goo.gl/maps/RgXmUUZfEDQ2"
         ],
-        "store_note": [],
+        "store_note": [
+            "https://maps.app.goo.gl/xRXXCic4EirNJ6hv9"
+        ],
         "employee_list": {
             "Jeremiah": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Josie": [
-                "2)",
-                "@ Store",
-                "none"
-            ],
-            "Lori": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
-            "Jerry S": [
-                "4)",
-                "@ Store",
-                "Fox Valley"
-            ],
-            "Kirsten": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Lena": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Mai": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Marcia": [
-                "8)",
-                "@ Store",
-                "none"
-            ],
-            "Michelle": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "Nagui": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Taya": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Terri": [
-                "12)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Mar 18",
-        "meet_time": [
-            "5:30 am meet for Sarah & Aivy at Wayside Park"
-        ],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "NEW - AMAN'S BEER + WINE, MUKWONAGO"
-        ],
-        "address": [
-            "110 CHAPMAN FARM BLVD"
-        ],
-        "link": [
-            "https://maps.app.goo.gl/z31tcvQnoT3Tmp4T9"
-        ],
-        "store_note": [
-            "*IL Meet is 5:45 am at IL Office"
-        ],
-        "employee_list": {
-            "DJ": [
                 "1)",
                 "@ Store, Equip",
                 "none"
@@ -1387,29 +1317,64 @@
                 "@ Store w/ Sarah",
                 "none"
             ],
-            "Angela": [
+            "Josie": [
                 "3)",
-                "Driver, 1/2\nCorolla",
+                "w/ Lori, 5:45 at Pig Waupun",
                 "none"
             ],
-            "Evelin": [
+            "Lori": [
                 "4)",
-                "Driver, 1/2\nCorolla",
-                "none"
-            ],
-            "Lashaun": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Palmer": [
-                "6)",
-                "@ Store",
+                "Driver 1/2, 5:45 @ Pig Waupun",
                 "none"
             ],
             "Sarah": [
+                "5)",
+                "Driver 1/2  ",
+                "none"
+            ],
+            "Jerry S": [
+                "6)",
+                "@ Store",
+                "Fox Valley"
+            ],
+            "Kirsten": [
                 "7)",
-                "Driver",
+                "@ Store",
+                "none"
+            ],
+            "Lena": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Mai": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Marcia": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Michelle": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Nagui": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Terri": [
+                "14)",
+                "@ Store",
                 "none"
             ]
         }
