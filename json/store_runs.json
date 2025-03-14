@@ -1077,7 +1077,7 @@
         ],
         "store_note": [
             "*IL Meet is 4:30 am at IL Office",
-            "Prius oil change -swap with Palmer"
+            "Prius oil change - swap with Palmer <br><hr id=\"note_separator\">After store - Evelin and Brianna swing by C.G. office for car swaps"
         ],
         "employee_list": {
             "Sarah": [
@@ -1236,7 +1236,7 @@
             ],
             "Evelin": [
                 "7)",
-                "",
+                "Driver, 1/2\nGray Van",
                 "none"
             ],
             "Joseph": [
@@ -1246,7 +1246,7 @@
             ],
             "Justin Lee": [
                 "9)",
-                "Driver, 1/2\nOptima,\nRx",
+                "Driver, 1/2\nSilver Van,\nRx",
                 "none"
             ],
             "Kayla": [
@@ -1256,12 +1256,12 @@
             ],
             "Michael N": [
                 "11)",
-                "Driver,\nGray Van",
+                "Driver, 1/2\nGray Van",
                 "Rockford"
             ],
             "Nate": [
                 "12)",
-                "Driver, 1/2\nOptima,\nSupv Rx",
+                "Driver, 1/2\nSilver Van,\nSupv Rx",
                 "none"
             ],
             "Taylor": [
@@ -1429,7 +1429,7 @@
             ],
             "Evelin": [
                 "6)",
-                "Driver,\nCorolla",
+                "Driver,\nSilver Van",
                 "none"
             ],
             "Joseph": [
@@ -1581,7 +1581,7 @@
             ],
             "Evelin": [
                 "7)",
-                "Driver,\nCorolla",
+                "Driver,\nCamry 3",
                 "none"
             ],
             "Joseph": [
