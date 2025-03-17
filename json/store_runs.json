@@ -410,6 +410,11 @@
             "*IL Meet is 4:45 am at IL Office"
         ],
         "employee_list": {
+            "": [
+                "",
+                "",
+                "none"
+            ],
             "Nate": [
                 "1)",
                 "@ Store, Optima, Equip",
