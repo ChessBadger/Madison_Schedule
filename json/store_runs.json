@@ -120,7 +120,7 @@
             ],
             "Lori": [
                 "7)",
-                "@ Store",
+                "@ Store, Driver",
                 "none"
             ],
             "Lexi": [
@@ -467,7 +467,7 @@
             ],
             "Lori": [
                 "11)",
-                "@ Store,\nRx",
+                "@ Store, Driver, Rx",
                 "none"
             ],
             "Michael N": [
@@ -1953,33 +1953,38 @@
                 "",
                 "none"
             ],
-            "Justin Lee": [
+            "Josie": [
                 "6)",
-                "",
+                "@ Store w/ Lori",
                 "none"
             ],
-            "Kayla": [
+            "Justin Lee": [
                 "7)",
                 "",
                 "none"
             ],
-            "Lori": [
+            "Kayla": [
                 "8)",
-                "@ Store",
+                "",
+                "none"
+            ],
+            "Lori": [
+                "9)",
+                "@ Store, Driver",
                 "none"
             ],
             "Palmer": [
-                "9)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Qiana": [
-                "10)",
+                "11)",
                 "Driver, 1/2\nCamry 3",
                 "none"
             ],
             "Taylor": [
-                "11)",
+                "12)",
                 "",
                 "none"
             ]
