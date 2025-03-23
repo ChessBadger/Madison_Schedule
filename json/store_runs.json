@@ -35,23 +35,38 @@
                 "Driver, 1/2\nGray Van, Equip",
                 "none"
             ],
-            "Elijah": [
+            "Angela": [
                 "2)",
+                "@ Store, After C-Store",
+                "none"
+            ],
+            "Elijah": [
+                "3)",
                 "",
                 "none"
             ],
             "Evelin": [
-                "3)",
+                "4)",
                 "Driver, 1/2\nGray Van",
                 "none"
             ],
             "Justin Lee": [
-                "4)",
+                "5)",
                 "",
                 "none"
             ],
             "Kayla": [
-                "5)",
+                "6)",
+                "",
+                "none"
+            ],
+            "Qiana": [
+                "7)",
+                "@ Store, After C-Store",
+                "none"
+            ],
+            "Taylor": [
+                "8)",
                 "",
                 "none"
             ]
@@ -60,21 +75,20 @@
     {
         "date": "Mon, Mar 24",
         "meet_time": [],
-        "start_time": "Michael N",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "Qiana"
+            "DC5-FINANCIAL"
         ],
         "store_name": [
-            ""
+            "SULLIVAN'S SAVANNA STATION #276"
         ],
         "address": [
-            ""
+            "1230 CHICAGO AVE"
         ],
         "link": [
-            "6:00 AM START"
+            "https://goo.gl/maps/jvzQV9VdYyX6QkhM8"
         ],
         "store_note": [
-            "DC5-FINANCIAL <br><hr id=\"note_separator\">SULLIVAN'S SAVANNA STATION #276 <br><hr id=\"note_separator\">1230 CHICAGO AVE <br><hr id=\"note_separator\">https://goo.gl/maps/jvzQV9VdYyX6QkhM8",
             "*IL Meet is 4:30 am at IL Office"
         ],
         "employee_list": {
@@ -83,10 +97,10 @@
                 "Driver, 1/2\nCamry 3, Equip",
                 "none"
             ],
-            "Michael N": [
+            "Angela": [
                 "2)",
                 "Driver, 1/2\nCamry 3",
-                "Rockford"
+                "none"
             ]
         }
     },
@@ -268,33 +282,28 @@
                 "Equip",
                 "Rockford"
             ],
-            "Angela": [
-                "2)",
-                "",
-                "none"
-            ],
             "Ashley P": [
-                "3)",
+                "2)",
                 "",
                 "Rockford"
             ],
             "Emily L": [
-                "4)",
+                "3)",
                 "",
                 "Rockford"
+            ],
+            "Laci": [
+                "4)",
+                "*Until zeros",
+                "none"
             ],
             "Spencer P": [
                 "5)",
                 "",
                 "Rockford"
             ],
-            "Taylor": [
-                "6)",
-                "",
-                "none"
-            ],
             "Tina E": [
-                "7)",
+                "6)",
                 "",
                 "Rockford"
             ]
