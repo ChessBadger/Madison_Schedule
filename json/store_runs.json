@@ -106,83 +106,6 @@
     },
     {
         "date": "Mon, Mar 24",
-        "meet_time": [
-            "5:00 am meet for Sarah & Aivy at Wayside Park"
-        ],
-        "start_time": "6:30 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "FESTIVAL #2738, HALES CORNERS - LIFO"
-        ],
-        "address": [
-            "5600 S 108TH ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/nBMrYYd4MgfvQze18"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "@ Store",
-                "none"
-            ],
-            "Aivy": [
-                "2)",
-                "@ Store w/ Sarah,\nTrain Brenda",
-                "none"
-            ],
-            "Sarah": [
-                "3)",
-                "Driver",
-                "none"
-            ],
-            "Brenda": [
-                "4)",
-                "@ Store,\nTrain w/ Aivy",
-                "none"
-            ],
-            "Cynthia": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Jerry D": [
-                "6)",
-                "@ Store",
-                "Milwaukee"
-            ],
-            "Justin Learned": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Lashaun": [
-                "8)",
-                "@ Store,\nTrain Sophia",
-                "none"
-            ],
-            "Lexi": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "Paul": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Sophia": [
-                "11)",
-                "@ Store,\nTrain w/ Lashaun",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Mar 24",
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -261,7 +184,9 @@
     },
     {
         "date": "Mon, Mar 24",
-        "meet_time": [],
+        "meet_time": [
+            "5:00 am meet for Sarah & Aivy at Wayside Park"
+        ],
         "start_time": "6:30 AM START",
         "inv_type": [
             "MODAS-SCAN"
@@ -282,28 +207,33 @@
                 "Equip",
                 "Rockford"
             ],
-            "Ashley P": [
+            "Aivy": [
                 "2)",
-                "",
-                "Rockford"
+                "@ Store",
+                "none"
             ],
-            "Emily L": [
+            "Ashley P": [
                 "3)",
                 "",
                 "Rockford"
             ],
-            "Laci": [
+            "Emily L": [
                 "4)",
-                "*Until zeros",
-                "none"
-            ],
-            "Spencer P": [
-                "5)",
                 "",
                 "Rockford"
             ],
-            "Tina E": [
+            "Laci": [
+                "5)",
+                "*Until zeros",
+                "none"
+            ],
+            "Sarah": [
                 "6)",
+                "@ Store",
+                "none"
+            ],
+            "Spencer P": [
+                "7)",
                 "",
                 "Rockford"
             ]
