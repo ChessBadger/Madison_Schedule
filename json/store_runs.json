@@ -995,7 +995,7 @@
             ],
             "Pamela": [
                 "5)",
-                "@ Store,\n1st Financial work w/ Jerry",
+                "@ Store,\n4th Scan work w/ Jerry",
                 "none"
             ],
             "Sonia": [
@@ -1484,7 +1484,7 @@
             ],
             "Jerry D": [
                 "9)",
-                "@ Store",
+                "@ Store,\nTrain Pamela",
                 "Milwaukee"
             ],
             "Justin Learned": [
@@ -1507,23 +1507,28 @@
                 "@ Store",
                 "none"
             ],
-            "Paul": [
+            "Pamela": [
                 "14)",
-                "@ Store",
+                "@ Store,\n5th Scan, work w/ Jerry",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Sophia": [
+            "Sonia": [
                 "16)",
+                "@ Store",
+                "none"
+            ],
+            "Sophia": [
+                "17)",
                 "@ Store,\n3rd week",
                 "none"
             ],
             "Sydney": [
-                "17)",
+                "18)",
                 "@ Store",
                 "none"
             ]
