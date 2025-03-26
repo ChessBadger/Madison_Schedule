@@ -1300,7 +1300,7 @@
             ],
             "Michael N": [
                 "11)",
-                "Driver, 1/2\nGray Van,\nTrain Sophia",
+                "Driver, 1/2\nGray Van,\nTrain NasZire",
                 "Rockford"
             ],
             "Taylor": [
@@ -1333,13 +1333,18 @@
                 "@ Store",
                 "none"
             ],
-            "Sophia": [
+            "NasZire": [
                 "18)",
+                "@ Store,\n3rd Scan, Train w/ Michael",
+                "none"
+            ],
+            "Sophia": [
+                "19)",
                 "@ Store,\n3rd week",
                 "none"
             ],
             "Sydney": [
-                "19)",
+                "20)",
                 "@ Store",
                 "none"
             ]
@@ -1953,20 +1958,21 @@
     {
         "date": "Fri, Apr 4",
         "meet_time": [],
-        "start_time": "6:30 AM START",
+        "start_time": "Gray Van to Anderson Dodge (for service on Monday)",
         "inv_type": [
-            "DC5-FINANCIAL"
+            ""
         ],
         "store_name": [
-            "FESTIVAL #2737, VERONA - LIFO"
+            "6:30 AM START"
         ],
         "address": [
-            "660 HOMETOWN CIRCLE"
+            "DC5-FINANCIAL"
         ],
         "link": [
-            "https://goo.gl/maps/uMWf8LjrrGkj4TXq9"
+            "FESTIVAL #2737, VERONA - LIFO"
         ],
         "store_note": [
+            "660 HOMETOWN CIRCLE <br><hr id=\"note_separator\">https://goo.gl/maps/uMWf8LjrrGkj4TXq9",
             "*IL Meet is 5:15 am at IL Office",
             "*Meet for NATE / EVELIN / JUSTIN IS 4:45 AM"
         ],
@@ -1983,7 +1989,7 @@
             ],
             "Ashley P": [
                 "3)",
-                "Driver, Silver Van",
+                "Driver, \nSilver Van",
                 "Rockford"
             ],
             "Brianna": [
