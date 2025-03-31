@@ -397,38 +397,33 @@
                 "@ Store,\nSupv Rx",
                 "none"
             ],
-            "Ian": [
-                "14)",
-                "@ Store, After Aurora",
-                "none"
-            ],
             "Jerry D": [
-                "15)",
+                "14)",
                 "@ Store,\nwork w/ NasZire",
                 "Milwaukee"
             ],
             "Katherine": [
-                "16)",
+                "15)",
                 "@ Store, After Aurora",
                 "none"
             ],
             "Monica": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ],
             "NasZire": [
-                "18)",
+                "17)",
                 "@ Store,\n3rd Scan, Train w/ NasZire",
                 "none"
             ],
             "Sophia": [
-                "19)",
+                "18)",
                 "@ Store,\n3rd week",
                 "none"
             ],
             "Sydney": [
-                "20)",
+                "19)",
                 "@ Store",
                 "none"
             ]
@@ -801,28 +796,43 @@
                 "@ Store",
                 "none"
             ],
-            "Katherine": [
+            "Ian": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Lexi": [
+            "Katherine": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Sonia": [
+            "Lexi": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Sophia": [
+            "Leyna": [
                 "14)",
+                "@ Store",
+                "none"
+            ],
+            "Sonia": [
+                "15)",
+                "@ Store",
+                "none"
+            ],
+            "Sophia": [
+                "16)",
                 "@ Store,\n3rd week",
                 "none"
             ],
             "Sue": [
-                "15)",
+                "17)",
+                "@ Store",
+                "none"
+            ],
+            "Sydney": [
+                "18)",
                 "@ Store",
                 "none"
             ]
@@ -883,17 +893,17 @@
                 "@ Store",
                 "Milwaukee"
             ],
-            "Kirsten": [
+            "Jerry S": [
                 "8)",
                 "@ Store",
-                "none"
+                "Fox Valley"
             ],
-            "Lena": [
+            "Kirsten": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Leyna": [
+            "Lena": [
                 "10)",
                 "@ Store",
                 "none"
@@ -903,27 +913,27 @@
                 "@ Store",
                 "none"
             ],
-            "Michelle": [
+            "Marcia": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Nagui": [
+            "Michelle": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Nikki": [
+            "Nagui": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Paul": [
+            "Nikki": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Sydney": [
+            "Paul": [
                 "16)",
                 "@ Store",
                 "none"
