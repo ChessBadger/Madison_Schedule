@@ -499,13 +499,8 @@
                 "@ Store",
                 "none"
             ],
-            "Shannon": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
             "Terri": [
-                "5)",
+                "4)",
                 "@ Store",
                 "none"
             ]
@@ -1593,58 +1588,63 @@
                 "Driver,\nSilver Van",
                 "Rockford"
             ],
-            "Eva": [
+            "Elijah": [
                 "5)",
                 "",
                 "none"
             ],
-            "Evelin": [
+            "Eva": [
                 "6)",
+                "",
+                "none"
+            ],
+            "Evelin": [
+                "7)",
                 "Driver, 1/2\nCamry 3",
                 "none"
             ],
             "Joseph": [
-                "7)",
+                "8)",
                 "",
                 "none"
             ],
             "Josh S": [
-                "8)",
+                "9)",
                 "",
                 "Rockford"
             ],
             "Justin Lee": [
-                "9)",
+                "10)",
                 "Driver, 1/2\nCamry 3",
                 "none"
             ],
             "Kayla": [
-                "10)",
+                "11)",
                 "",
                 "none"
             ],
             "Michael N": [
-                "11)",
+                "12)",
                 "",
                 "Rockford"
             ],
             "Nate": [
-                "12)",
+                "13)",
                 "Driver, 1/2\nOptima",
                 "none"
             ],
             "Ian": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Katherine": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Sophia": [
+            "Katherine": [
                 "15)",
+                "@ Store",
+                "none"
+            ],
+            "Sophia": [
+                "16)",
                 "@ Store",
                 "none"
             ]
