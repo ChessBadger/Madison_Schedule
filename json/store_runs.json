@@ -1216,7 +1216,8 @@
         ],
         "store_note": [
             "*IL Meet is 5:45 am at IL Office",
-            "We typically do not count anything in the backrooms. Only count backstock in the Store Room (areas 7-11)"
+            "We typically do not count anything in the backrooms. Only count backstock in the Store Room (areas 7-11)",
+            "*Palmer will swap the Camry 3 to the Lexus at the store"
         ],
         "employee_list": {
             "Brianna": [
@@ -1231,12 +1232,12 @@
             ],
             "Evelin": [
                 "3)",
-                "Driver, 1/2\nOptima",
+                "Driver, 1/2\nCamry 3**",
                 "none"
             ],
             "Nate": [
                 "4)",
-                "Driver, 1/2\nOptima",
+                "Driver, 1/2\nCamry 3**",
                 "none"
             ]
         }
@@ -1385,7 +1386,7 @@
             ],
             "Michael N": [
                 "8)",
-                "Driver,\nCamry 3",
+                "Driver,\nLexus",
                 "Rockford"
             ],
             "Jerry D": [
@@ -1606,7 +1607,7 @@
             ],
             "Evelin": [
                 "7)",
-                "Driver, 1/2\nCamry 3",
+                "Driver, 1/2\nLexus",
                 "none"
             ],
             "Joseph": [
@@ -1621,7 +1622,7 @@
             ],
             "Justin Lee": [
                 "10)",
-                "Driver, 1/2\nCamry 3",
+                "Driver, 1/2\nLexus",
                 "none"
             ],
             "Kayla": [
@@ -1830,7 +1831,9 @@
             "https://goo.gl/maps/8fV8TwF5DKH2"
         ],
         "store_note": [
-            "*IL Meet is 4:15 am at IL Office"
+            "*IL Meet is 4:15 am at IL Office",
+            "*QIANA/MICHAEL - on way back, stay in touch with Palmer",
+            "Looking to do Lexus to Camry 3 swap at 90 & N gas station"
         ],
         "employee_list": {
             "Sarah": [
@@ -1885,7 +1888,7 @@
             ],
             "Michael N": [
                 "11)",
-                "Driver, 1/2\nCamry 3",
+                "Driver, 1/2\nLexus",
                 "Rockford"
             ],
             "Nate": [
@@ -1895,7 +1898,7 @@
             ],
             "Qiana": [
                 "13)",
-                "Driver, 1/2\nCamry 3",
+                "Driver, 1/2\nLexus",
                 "none"
             ],
             "Taylor": [
