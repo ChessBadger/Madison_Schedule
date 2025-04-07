@@ -158,17 +158,18 @@
         ],
         "store_note": [
             "*IL Meet is 5:00 am at IL Office",
-            "SET UP ON LAST REG BY STORE DIRECTORS OFFICE <br><hr id=\"note_separator\">STORE RESET-REMAPPED"
+            "SET UP ON LAST REG BY STORE DIRECTORS OFFICE <br><hr id=\"note_separator\">STORE RESET-REMAPPED",
+            "*Nate taking Angela and to the store.  Meet at 4:30 am"
         ],
         "employee_list": {
             "Nate": [
                 "1)",
-                "@ Store,\nOptima, Equip",
+                "@ Store, 1/2\nOptima*, Equip",
                 "none"
             ],
             "Angela": [
                 "2)",
-                "",
+                "w/ Nate*",
                 "none"
             ],
             "Anisha": [
@@ -198,7 +199,7 @@
             ],
             "Michael N": [
                 "8)",
-                "Driver,\nLexus,\nwork w/ Josh",
+                "work w/ Josh",
                 "Rockford"
             ],
             "Jerry D": [
@@ -271,7 +272,8 @@
         ],
         "store_note": [
             "*IL Meet is 4:45 am at IL Office",
-            "SET UP ON REG #5"
+            "SET UP ON REG #5",
+            "*Evelin/Justin - Palmer will swap Lexus to Camry 3 at the store"
         ],
         "employee_list": {
             "Sarah": [
@@ -291,7 +293,7 @@
             ],
             "Evelin": [
                 "4)",
-                "Driver, 1/2\nGray Van",
+                "Driver, 1/2\nLexus*",
                 "none"
             ],
             "Josie": [
@@ -301,7 +303,7 @@
             ],
             "Justin Lee": [
                 "6)",
-                "Driver, 1/2\nGray Van",
+                "Driver, 1/2\nLexus*",
                 "none"
             ],
             "Kayla": [
@@ -384,7 +386,8 @@
         ],
         "store_note": [
             "*IL Meet is 4:30 am at IL Office",
-            "SET UP ON REG #1 OR 2"
+            "SET UP ON REG #1 OR 2",
+            "*Michael to drive back Red Camry that Katherine is bringing"
         ],
         "employee_list": {
             "Brianna": [
@@ -419,7 +422,7 @@
             ],
             "Evelin": [
                 "7)",
-                "Driver, 1/2\nLexus",
+                "Driver, 1/2\nCamry 3",
                 "none"
             ],
             "Joseph": [
@@ -434,7 +437,7 @@
             ],
             "Justin Lee": [
                 "10)",
-                "Driver, 1/2\nLexus",
+                "Driver, 1/2\nCamry 3",
                 "none"
             ],
             "Kayla": [
@@ -444,7 +447,7 @@
             ],
             "Michael N": [
                 "12)",
-                "work w/ Josh",
+                "Drive Red Camry back\nwork w/ Josh",
                 "Rockford"
             ],
             "Nate": [
@@ -643,9 +646,7 @@
             "https://goo.gl/maps/8fV8TwF5DKH2"
         ],
         "store_note": [
-            "*IL Meet is 4:15 am at IL Office",
-            "*QIANA/MICHAEL - on way back, stay in touch with Palmer",
-            "Looking to do Lexus to Camry 3 swap at 90 & N gas station"
+            "*IL Meet is 4:15 am at IL Office"
         ],
         "employee_list": {
             "Sarah": [
@@ -700,7 +701,7 @@
             ],
             "Michael N": [
                 "11)",
-                "Driver, 1/2\nLexus,\nwork w/ Josh",
+                "Driver, 1/2\nCamry 3,\nwork w/ Josh",
                 "Rockford"
             ],
             "Nate": [
@@ -710,7 +711,7 @@
             ],
             "Qiana": [
                 "13)",
-                "Driver, 1/2\nLexus",
+                "Driver, 1/2\nCamry 3",
                 "none"
             ],
             "Taylor": [
