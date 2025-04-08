@@ -755,53 +755,58 @@
                 "@ Store",
                 "none"
             ],
-            "Lori": [
+            "Josie": [
                 "3)",
-                "@ Store",
+                "@ Store w/ Lori",
+                "none"
+            ],
+            "Lori": [
+                "4)",
+                "@ Store, Driver",
                 "none"
             ],
             "Jacqui": [
-                "4)",
+                "5)",
                 "@ Store",
                 "none"
             ],
             "Jerry S": [
-                "5)",
+                "6)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Lena": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Mai": [
                 "7)",
                 "@ Store",
                 "none"
             ],
-            "Marcia": [
+            "Mai": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Michelle": [
+            "Marcia": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Nagui": [
+            "Michelle": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Nikki": [
+            "Nagui": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Terri": [
+            "Nikki": [
                 "12)",
+                "@ Store",
+                "none"
+            ],
+            "Terri": [
+                "13)",
                 "@ Store",
                 "none"
             ]
@@ -918,38 +923,43 @@
                 "work w/ Qiana",
                 "Rockford"
             ],
-            "Kayla": [
+            "Josie": [
                 "9)",
+                "@ Store w/ Lori",
+                "none"
+            ],
+            "Kayla": [
+                "10)",
                 "",
                 "none"
             ],
             "Lori": [
-                "10)",
-                "@ Store,\nRx",
+                "11)",
+                "@ Store, Driver,\nRx",
                 "none"
             ],
             "Qiana": [
-                "11)",
+                "12)",
                 "work w/ Josh",
                 "none"
             ],
             "Sarah": [
-                "12)",
+                "13)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Ian": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Leyna": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Sonia": [
+            "Leyna": [
                 "15)",
+                "@ Store",
+                "none"
+            ],
+            "Sonia": [
+                "16)",
                 "@ Store",
                 "none"
             ]
