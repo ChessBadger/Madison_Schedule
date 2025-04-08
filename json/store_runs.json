@@ -517,63 +517,68 @@
                 "@ Store",
                 "none"
             ],
-            "Carlie": [
+            "Caitlin": [
                 "6)",
-                "@ Store",
+                "@ Store,\nwork w/ Carlie",
+                "none"
+            ],
+            "Carlie": [
+                "7)",
+                "@ Store,\nTrain Caitlin",
                 "none"
             ],
             "Cynthia": [
-                "7)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "DJ": [
-                "8)",
+                "9)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Greg": [
-                "9)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Jerry D": [
-                "10)",
+                "11)",
                 "@ Store,\nRx",
                 "Milwaukee"
             ],
             "Justin Learned": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Leyna": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Monica": [
+            "Leyna": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Pamela": [
+            "Monica": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Paul": [
+            "Pamela": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "16)",
                 "@ Store",
                 "none"
             ],
-            "Sydney": [
+            "Sonia": [
                 "17)",
+                "@ Store",
+                "none"
+            ],
+            "Sydney": [
+                "18)",
                 "@ Store",
                 "none"
             ]
