@@ -765,7 +765,67 @@
             ],
             "Brianna": [
                 "2)",
+                "@ Store, help at Jerry's Pig after",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Apr 18",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #328, FOND DU LAC"
+        ],
+        "address": [
+            "131 UNIVERSITY AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/QmMfhkkrDpNxyhyC8"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Jerry S": [
+                "1)",
+                "@ Store., Equip",
+                "Fox Valley"
+            ],
+            "Kirsten": [
+                "2)",
                 "@ Store",
+                "none"
+            ],
+            "Madison": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Mai": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Marcia": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Nagui": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Terri": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Brianna": [
+                "8)",
+                "@ Store, help after Condon",
                 "none"
             ]
         }
