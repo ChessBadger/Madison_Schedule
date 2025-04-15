@@ -282,13 +282,8 @@
                 "Driver, 1/2\nRed Camry",
                 "Rockford"
             ],
-            "Qiana": [
-                "12)",
-                "",
-                "none"
-            ],
             "Sarah": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ]
@@ -312,10 +307,10 @@
         ],
         "store_note": [],
         "employee_list": {
-            "Mike G": [
+            "Qiana": [
                 "1)",
                 "Equip",
-                "Rockford"
+                "none"
             ],
             "Angela": [
                 "2)",
