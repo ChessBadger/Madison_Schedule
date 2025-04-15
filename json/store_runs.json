@@ -845,12 +845,12 @@
         "employee_list": {
             "Mike G": [
                 "1)",
-                "Equip",
+                "@ Store,\nEquip",
                 "Rockford"
             ],
             "Emily L": [
                 "2)",
-                "",
+                "Driver,\nSilver Van",
                 "Rockford"
             ],
             "Spencer P": [
@@ -865,7 +865,7 @@
             ],
             "Tina E": [
                 "5)",
-                "",
+                "@ Store",
                 "Rockford"
             ]
         }
