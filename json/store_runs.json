@@ -357,7 +357,9 @@
         "link": [
             "https://goo.gl/maps/4SWJvN8ZsuH2"
         ],
-        "store_note": [],
+        "store_note": [
+            "Please be careful to scan only product barcodes, and not the shelf scan tags"
+        ],
         "employee_list": {
             "Mike G": [
                 "1)",
@@ -507,7 +509,8 @@
         ],
         "store_note": [
             "*IL Meet is 5:00 am at IL Office",
-            "*Optima will get oil change this day while at store (Palmer getting)"
+            "*Optima will get oil change this day while at store (Palmer getting)",
+            "Please be careful to scan only product barcodes, and not the shelf scan tags"
         ],
         "employee_list": {
             "Qiana": [
@@ -1014,7 +1017,8 @@
             "https://goo.gl/maps/AcJV9qEV2xQ2"
         ],
         "store_note": [
-            "*IL Meet is 5:15 am at IL Office"
+            "*IL Meet is 5:15 am at IL Office",
+            "Please be careful to scan only product barcodes, and not the shelf scan tags"
         ],
         "employee_list": {
             "Nate": [
@@ -1334,7 +1338,8 @@
             "https://goo.gl/maps/fDZakniRj1n"
         ],
         "store_note": [
-            "*JEFF IS THE DM HERE"
+            "*JEFF IS THE DM HERE",
+            "Please be careful to scan only product barcodes, and not the shelf scan tags"
         ],
         "employee_list": {
             "Mike G": [
