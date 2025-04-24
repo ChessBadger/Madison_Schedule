@@ -1013,7 +1013,7 @@
         ],
         "store_note": [
             "*IL Meet is 5:15 am at IL Office",
-            "Please be careful to scan only product barcodes, and not the shelf scan tags"
+            "Please be careful to scan only product barcodes, and not the shelf scan tags <br><hr id=\"note_separator\">Optima to Meinke Nate/Palmer car swap"
         ],
         "employee_list": {
             "Nate": [
