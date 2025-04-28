@@ -828,6 +828,116 @@
         }
     },
     {
+        "date": "Fri, May 2",
+        "meet_time": [],
+        "start_time": "2:00 PM START",
+        "inv_type": [
+            "PAID GOOGLE MEET CALL"
+        ],
+        "store_name": [
+            "REGARDING IL KELLEY'S MARKET PROCEDURES AND INFO"
+        ],
+        "address": [
+            "PLEASE TRY TO BE 5-10 MIN EARLY TO ENSURE STARTING ON TIME"
+        ],
+        "link": [
+            ""
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Angela": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Anisha": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Ashley P": [
+                "3)",
+                "",
+                "Rockford"
+            ],
+            "Emily L": [
+                "4)",
+                "",
+                "Rockford"
+            ],
+            "Eva": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Evelin": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Jake S": [
+                "7)",
+                "",
+                "Rockford"
+            ],
+            "Joseph": [
+                "8)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "9)",
+                "",
+                "Rockford"
+            ],
+            "Justin Lee": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Laci": [
+                "11)",
+                "",
+                "none"
+            ],
+            "Michael N": [
+                "12)",
+                "",
+                "Rockford"
+            ],
+            "Mike G": [
+                "13)",
+                "",
+                "Rockford"
+            ],
+            "Nate": [
+                "14)",
+                "",
+                "none"
+            ],
+            "Qiana": [
+                "15)",
+                "",
+                "none"
+            ],
+            "Spencer P": [
+                "16)",
+                "",
+                "Rockford"
+            ],
+            "Taylor": [
+                "17)",
+                "",
+                "none"
+            ],
+            "Tina E": [
+                "18)",
+                "",
+                "Rockford"
+            ]
+        }
+    },
+    {
         "date": "Sat, May 3",
         "meet_time": [],
         "start_time": null,
