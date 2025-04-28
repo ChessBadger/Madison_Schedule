@@ -452,7 +452,7 @@
         "employee_list": {
             "Sarah": [
                 "1)",
-                "Driver, Equip",
+                "@ Store, Equip",
                 "none"
             ],
             "Angela": [
@@ -510,19 +510,109 @@
                 "",
                 "none"
             ],
-            "Lori": [
-                "13)",
-                "@ Store w/ Sarah",
-                "none"
-            ],
             "Nate": [
-                "14)",
+                "13)",
                 "Driver, 1/2\nGray Van",
                 "none"
             ],
             "Qiana": [
-                "15)",
+                "14)",
                 "Driver, 1/2\nGray Van",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, May 1",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "FESTIVAL #2695, NEW LONDON - LIFO"
+        ],
+        "address": [
+            "308 N SHAWANO ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/zqprqLmVpCzdH3s86"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Jeremiah": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Josie": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Lori": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Annette": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Carlie": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry D": [
+                "6)",
+                "@ Store",
+                "Milwaukee"
+            ],
+            "Jerry S": [
+                "7)",
+                "@ Store",
+                "Fox Valley"
+            ],
+            "Kirsten": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Lena": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Madison": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Mai": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Michelle": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Nagui": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "14)",
+                "@ Store",
+                "none"
+            ],
+            "Terri": [
+                "15)",
+                "@ Store",
                 "none"
             ]
         }
