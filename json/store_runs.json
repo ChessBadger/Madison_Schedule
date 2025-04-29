@@ -1377,23 +1377,18 @@
                 "@ Store",
                 "Fox Valley"
             ],
-            "Monica": [
+            "NasZire": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "NasZire": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
             "Paul": [
-                "13)",
+                "12)",
                 "@ Store,\nUntil 9:30",
                 "none"
             ],
             "Sonia": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ]
@@ -1777,7 +1772,7 @@
             ],
             "Monica": [
                 "11)",
-                "@ Store",
+                "@ Store,\nUntil noon",
                 "none"
             ],
             "NasZire": [
