@@ -1745,17 +1745,17 @@
                 "@ Store",
                 "none"
             ],
-            "Monica": [
-                "10)",
-                "@ Store,\nUntil noon",
-                "none"
-            ],
             "NasZire": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Sonia": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Sue": [
                 "12)",
                 "@ Store",
                 "none"
