@@ -418,18 +418,23 @@
                 "@ Store",
                 "Fox Valley"
             ],
-            "NasZire": [
+            "Monica": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Paul": [
+            "NasZire": [
                 "11)",
+                "@ Store",
+                "none"
+            ],
+            "Paul": [
+                "12)",
                 "@ Store,\nUntil 9:30",
                 "none"
             ],
             "Sonia": [
-                "12)",
+                "13)",
                 "@ Store",
                 "none"
             ]
@@ -1299,8 +1304,13 @@
                 "@ Store",
                 "Milwaukee"
             ],
-            "Paul": [
+            "Monica": [
                 "14)",
+                "@ Store",
+                "none"
+            ],
+            "Paul": [
+                "15)",
                 "@ Store",
                 "none"
             ]
@@ -1841,8 +1851,13 @@
                 "@ Store,\nRx",
                 "Milwaukee"
             ],
-            "Paul": [
+            "Monica": [
                 "17)",
+                "@ Store",
+                "none"
+            ],
+            "Paul": [
+                "18)",
                 "@ Store",
                 "none"
             ]
