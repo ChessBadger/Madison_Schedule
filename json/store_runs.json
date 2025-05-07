@@ -671,7 +671,7 @@
         ],
         "store_note": [
             "*IL Meet is 4:45 am at IL Office",
-            "SET UP ON REG #2"
+            "SET UP ON REG #2 <br><hr id=\"note_separator\">Gray Van to get maintenance done during store"
         ],
         "employee_list": {
             "Nate": [
@@ -706,7 +706,7 @@
             ],
             "Justin Lee": [
                 "7)",
-                "Driver,\nSilver Van",
+                "Driver,\nGray Van",
                 "none"
             ],
             "Lori": [
