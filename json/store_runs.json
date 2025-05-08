@@ -976,7 +976,7 @@
             ],
             "Ashley P": [
                 "2)",
-                "@ Store ?",
+                "",
                 "Rockford"
             ],
             "Emily L": [
@@ -1036,7 +1036,8 @@
         ],
         "store_note": [
             "Please be careful to scan only product barcodes, and not the shelf scan tags",
-            "*IL Meet is 5:30 am at IL Office"
+            "*IL Meet is 5:30 am at IL Office",
+            "*Car swap happening at store.  Lori bringing Gray Van, Rockford will take back after the store"
         ],
         "employee_list": {
             "Qiana": [
@@ -1051,7 +1052,7 @@
             ],
             "Ashley P": [
                 "3)",
-                "Driver,\nRed Camry",
+                "Driver,\nLexus*",
                 "Rockford"
             ],
             "Evelin": [
@@ -1061,7 +1062,7 @@
             ],
             "Lori": [
                 "5)",
-                "@ Store",
+                "@ Store,\nGray Van*",
                 "none"
             ]
         }
