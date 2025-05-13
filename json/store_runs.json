@@ -1720,89 +1720,116 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Lori": [
+            "Caitlin": [
                 "2)",
                 "@ Store",
                 "none"
             ],
-            "Sarah": [
+            "Carlie": [
                 "3)",
                 "@ Store",
                 "none"
             ],
-            "Caitlin": [
+            "Greg": [
                 "4)",
                 "@ Store",
                 "none"
             ],
-            "Carlie": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Greg": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
             "Ian": [
-                "7)",
+                "5)",
                 "@ Store,\nSupv Rx",
                 "none"
             ],
             "Jerry D": [
-                "8)",
+                "6)",
                 "@ Store,\nRx",
                 "Milwaukee"
             ],
             "Jerry S": [
-                "9)",
+                "7)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Kirsten": [
-                "10)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Lena": [
-                "11)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Lexi": [
-                "12)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Mai": [
-                "13)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Pamela": [
-                "14)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Sonia": [
-                "15)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Sydney": [
-                "16)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Tanner": [
-                "17)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Trevor": [
-                "18)",
+                "16)",
                 "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, May 21",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "LAKHBIR CLOSING INVENTORY"
+        ],
+        "address": [
+            "REFUEL PANTRY, AMERICAN WORLD BP, WISCONSIN DELLS"
+        ],
+        "link": [
+            "2040 WISCONSIN DELLS PKWY"
+        ],
+        "store_note": [
+            "https://maps.app.goo.gl/PKdQdSh8GnSXD4vcA"
+        ],
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Josie": [
+                "2)",
+                "@ Store (Driver)",
+                "none"
+            ],
+            "Lori": [
+                "3)",
+                "@ Store w/ Lori",
                 "none"
             ]
         }
@@ -2103,7 +2130,7 @@
     {
         "date": "Fri, May 23",
         "meet_time": [],
-        "start_time": "12:30 PM START",
+        "start_time": "11:30 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
         ],
