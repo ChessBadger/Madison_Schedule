@@ -1609,199 +1609,6 @@
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "MARIANO'S #503, CHICAGO - LAKESHORE EAST"
-        ],
-        "address": [
-            "333 EAST BENTON PL, SUITE 206"
-        ],
-        "link": [
-            "https://goo.gl/maps/Gwa8pwADYxr"
-        ],
-        "store_note": [
-            "*IL Meet is 4:30 am at IL Office",
-            "SET UP ON REG #6 LOWER LEVEL <br><hr id=\"note_separator\">NEED TO PAY FOR PARKING AT THIS SITE!"
-        ],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Angela": [
-                "2)",
-                "Driver, 1/2\nSilver Van",
-                "none"
-            ],
-            "Anisha": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Ashley P": [
-                "4)",
-                "Driver, 1/2\nSilver Van",
-                "Rockford"
-            ],
-            "Eva": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Evelin": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Joseph": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Josh S": [
-                "8)",
-                "",
-                "Rockford"
-            ],
-            "Justin Lee": [
-                "9)",
-                "Driver, 1/2\nGray Van",
-                "none"
-            ],
-            "Kayla": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Michael N": [
-                "11)",
-                "Driver, 1/2\nGray Van",
-                "Rockford"
-            ],
-            "Qiana": [
-                "12)",
-                "",
-                "none"
-            ],
-            "Taylor": [
-                "13)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, May 21",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "PICK #417 +RX, WEST BEND - WASHINGTON"
-        ],
-        "address": [
-            "2518 W WASHINGTON STREET"
-        ],
-        "link": [
-            "https://goo.gl/maps/UGfMgfcMtR22"
-        ],
-        "store_note": [],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Caitlin": [
-                "2)",
-                "@ Store",
-                "none"
-            ],
-            "Carlie": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
-            "Greg": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
-            "Ian": [
-                "5)",
-                "@ Store,\nSupv Rx",
-                "none"
-            ],
-            "Jerry D": [
-                "6)",
-                "@ Store,\nRx",
-                "Milwaukee"
-            ],
-            "Jerry S": [
-                "7)",
-                "@ Store",
-                "Fox Valley"
-            ],
-            "Kirsten": [
-                "8)",
-                "@ Store",
-                "none"
-            ],
-            "Lena": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "Lexi": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Mai": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Marcia": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Pamela": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Sonia": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Sydney": [
-                "15)",
-                "@ Store",
-                "none"
-            ],
-            "Tanner": [
-                "16)",
-                "@ Store",
-                "none"
-            ],
-            "Trevor": [
-                "17)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, May 21",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
             "DC5-FINANCIAL"
         ],
         "store_name": [
@@ -1822,14 +1629,14 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Josie": [
+            "Brianna": [
                 "2)",
-                "@ Store (Driver)",
+                "@ Store",
                 "none"
             ],
             "Lori": [
                 "3)",
-                "@ Store w/ Lori",
+                "@ Store",
                 "none"
             ]
         }
@@ -1855,29 +1662,91 @@
             "Please be careful to scan only product barcodes, and not the shelf scan tags"
         ],
         "employee_list": {
-            "Mike G": [
+            "Qiana": [
                 "1)",
-                "@ Store, Equip",
-                "Rockford"
+                "@ Store, Camry 3",
+                "none"
             ],
-            "Emily L": [
+            "Angela": [
                 "2)",
+                "",
+                "none"
+            ],
+            "Ashley P": [
+                "3)",
                 "Driver,\nRed Camry",
                 "Rockford"
             ],
-            "Laci": [
+            "Evelin": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Justin Lee": [
+                "5)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, May 21",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "MODAS-SCAN"
+        ],
+        "store_name": [
+            "KELLEY #39, ALPINE MOBIL, ROCKFORD"
+        ],
+        "address": [
+            "321 N ALPINE ROAD"
+        ],
+        "link": [
+            "https://goo.gl/maps/TGuxbxW7qpk"
+        ],
+        "store_note": [
+            "Please be careful to scan only product barcodes, and not the shelf scan tags"
+        ],
+        "employee_list": {
+            "Mike G": [
+                "1)",
+                "Equip",
+                "Rockford"
+            ],
+            "Anisha": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Emily L": [
                 "3)",
+                "",
+                "Rockford"
+            ],
+            "Eva": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Laci": [
+                "5)",
                 "",
                 "none"
             ],
             "Spencer P": [
-                "4)",
+                "6)",
                 "",
                 "Rockford"
             ],
+            "Taylor": [
+                "7)",
+                "",
+                "none"
+            ],
             "Tina E": [
-                "5)",
-                "@ Store",
+                "8)",
+                "",
                 "Rockford"
             ]
         }
@@ -1974,62 +1843,27 @@
     {
         "date": "Thu, May 22",
         "meet_time": [],
-        "start_time": "6:30 AM START",
+        "start_time": "?? AM START",
         "inv_type": [
             "MODAS-SCAN"
         ],
         "store_name": [
-            "KELLEY #39, ALPINE MOBIL, ROCKFORD"
+            "POSSIBLE NEW ACCOUNT HERE"
         ],
         "address": [
-            "321 N ALPINE ROAD"
+            ""
         ],
         "link": [
-            "https://goo.gl/maps/TGuxbxW7qpk"
+            "Emily L"
         ],
         "store_note": [
-            "Please be careful to scan only product barcodes, and not the shelf scan tags"
+            "Eva <br><hr id=\"note_separator\">Michael N <br><hr id=\"note_separator\">Taylor"
         ],
         "employee_list": {
-            "Mike G": [
-                "1)",
-                "Equip",
-                "Rockford"
-            ],
-            "Emily L": [
-                "2)",
+            "": [
                 "",
-                "Rockford"
-            ],
-            "Eva": [
-                "3)",
                 "",
                 "none"
-            ],
-            "Laci": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Michael N": [
-                "5)",
-                "",
-                "Rockford"
-            ],
-            "Spencer P": [
-                "6)",
-                "",
-                "Rockford"
-            ],
-            "Taylor": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Tina E": [
-                "8)",
-                "",
-                "Rockford"
             ]
         }
     },
