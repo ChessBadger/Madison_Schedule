@@ -599,33 +599,6 @@
         }
     },
     {
-        "date": "Thu, May 22",
-        "meet_time": [],
-        "start_time": "?? AM START",
-        "inv_type": [
-            "MODAS-SCAN"
-        ],
-        "store_name": [
-            "POSSIBLE NEW ACCOUNT HERE"
-        ],
-        "address": [
-            ""
-        ],
-        "link": [
-            "Emily L"
-        ],
-        "store_note": [
-            "Eva <br><hr id=\"note_separator\">Michael N <br><hr id=\"note_separator\">Taylor"
-        ],
-        "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
         "date": "Fri, May 23",
         "meet_time": [],
         "start_time": "6:30 AM START",
