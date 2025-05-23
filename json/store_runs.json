@@ -879,6 +879,31 @@
         }
     },
     {
+        "date": "Tue, May 27",
+        "meet_time": [],
+        "start_time": "Brianna's Prius having work done at Butitta Bros on Alpine",
+        "inv_type": [
+            ""
+        ],
+        "store_name": [
+            ""
+        ],
+        "address": [
+            ""
+        ],
+        "link": [
+            ""
+        ],
+        "store_note": [],
+        "employee_list": {
+            "": [
+                "",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
         "date": "Wed, May 28",
         "meet_time": [],
         "start_time": "6:00 AM START",
