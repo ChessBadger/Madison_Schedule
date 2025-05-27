@@ -266,28 +266,23 @@
                 "@ Store,\nCamry 3, Equip",
                 "none"
             ],
-            "Angela": [
+            "Eva": [
                 "2)",
                 "",
                 "none"
             ],
-            "Eva": [
-                "3)",
-                "",
-                "none"
-            ],
             "Evelin": [
-                "4)",
+                "3)",
                 "Driver, 1/2\nGray Van",
                 "none"
             ],
             "Lori": [
-                "5)",
+                "4)",
                 "@ Store",
                 "none"
             ],
             "Michael N": [
-                "6)",
+                "5)",
                 "Driver, 1/2\nGray Van",
                 "Rockford"
             ]
@@ -318,40 +313,40 @@
                 "Equip",
                 "Rockford"
             ],
-            "Emily L": [
+            "Angela": [
                 "2)",
+                "",
+                "none"
+            ],
+            "Emily L": [
+                "3)",
                 "",
                 "Rockford"
             ],
             "Justin Lee": [
-                "3)",
-                "",
+                "4)",
+                "Until noon",
                 "none"
             ],
             "Kayla": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Laci": [
                 "5)",
                 "",
                 "none"
             ],
-            "Spencer P": [
+            "Laci": [
                 "6)",
+                "",
+                "none"
+            ],
+            "Spencer P": [
+                "7)",
                 "",
                 "Rockford"
             ],
             "Taylor": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Tina E": [
                 "8)",
                 "",
-                "Rockford"
+                "none"
             ]
         }
     },
@@ -626,13 +621,8 @@
                 "@ Store,\nRx",
                 "none"
             ],
-            "NasZire": [
-                "18)",
-                "@ Store",
-                "none"
-            ],
             "Pamela": [
-                "19)",
+                "18)",
                 "@ Store",
                 "none"
             ]
@@ -1287,7 +1277,7 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "PIGGLY WIGGLY #083, \nBEAVER DAM"
+            "FOX BROS PIGGLY WIGGLY #083, \nBEAVER DAM"
         ],
         "address": [
             "810 PARK AVE"
@@ -1421,7 +1411,7 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "PIGGLY WIGGLY #167, CAMBRIDGE"
+            "MIKE DAY PIGGLY WIGGLY #167, CAMBRIDGE"
         ],
         "address": [
             "100 JEFFERSON ST"
@@ -1483,7 +1473,7 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "PIGGLY WIGGLY #084, \nWEST BEND"
+            "FOX BROS PIGGLY WIGGLY #084, \nWEST BEND"
         ],
         "address": [
             "2575 E WASHINGTON ST"
