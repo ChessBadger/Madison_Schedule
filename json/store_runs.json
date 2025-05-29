@@ -620,11 +620,6 @@
                 "17)",
                 "@ Store,\nRx",
                 "none"
-            ],
-            "Pamela": [
-                "18)",
-                "@ Store",
-                "none"
             ]
         }
     },
@@ -1272,7 +1267,7 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "FOX BROS PIGGLY WIGGLY #083, \nBEAVER DAM"
+            "FOX BROS PIGGLY WIGGLY #083, BEAVER DAM"
         ],
         "address": [
             "810 PARK AVE"
@@ -1468,7 +1463,7 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "FOX BROS PIGGLY WIGGLY #084, \nWEST BEND"
+            "FOX BROS PIGGLY WIGGLY #084, WEST BEND"
         ],
         "address": [
             "2575 E WASHINGTON ST"
