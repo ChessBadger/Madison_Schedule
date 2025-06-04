@@ -594,23 +594,28 @@
                 "Driver, 1/2\nSilver Van",
                 "none"
             ],
-            "Lori": [
-                "6)",
-                "@ Store, Until 8:45",
-                "none"
-            ],
             "Greg": [
-                "7)",
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Jerry D": [
-                "8)",
+                "7)",
                 "@ Store",
                 "Milwaukee"
             ],
-            "Sydney": [
+            "Josie": [
+                "8)",
+                "@ Store, Until 11",
+                "none"
+            ],
+            "Lori": [
                 "9)",
+                "@ Store, Until 8:45",
+                "none"
+            ],
+            "Sydney": [
+                "10)",
                 "@ Store",
                 "none"
             ]
