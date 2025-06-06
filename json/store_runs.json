@@ -1493,28 +1493,33 @@
                 "@ Store",
                 "Milwaukee"
             ],
-            "Leyna": [
+            "Lexi": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "NasZire": [
+            "Leyna": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Pamela": [
+            "NasZire": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Sue": [
+            "Pamela": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Sydney": [
+            "Sue": [
                 "16)",
+                "@ Store",
+                "none"
+            ],
+            "Sydney": [
+                "17)",
                 "@ Store",
                 "none"
             ]
@@ -1550,34 +1555,81 @@
                 "Driver, 1/2\nCamry 3",
                 "none"
             ],
-            "Brianna": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
             "Eva": [
-                "4)",
+                "3)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jun 12",
+        "meet_time": [],
+        "start_time": "Kayla",
+        "inv_type": [
+            "Lori"
+        ],
+        "store_name": [
+            "Qiana"
+        ],
+        "address": [
+            "Sarah"
+        ],
+        "link": [
+            ""
+        ],
+        "store_note": [],
+        "employee_list": {
+            "6:00 AM START": [
+                "",
                 "",
                 "none"
             ],
-            "Kayla": [
-                "5)",
+            "DC5-FINANCIAL": [
+                "",
                 "",
                 "none"
             ],
-            "Lori": [
-                "6)",
-                "@ Store w/ Sarah",
+            "FOX BROS PIGGLY WIGGLY #082, MAYVILLE": [
+                "",
+                "",
                 "none"
             ],
-            "Qiana": [
-                "7)",
-                "Driver, 1/2\nCamry 3",
+            "1440 HORICON ST": [
+                "",
+                "",
                 "none"
             ],
-            "Sarah": [
-                "8)",
-                "Driver",
+            "https://maps.app.goo.gl/3nJCWDd6bxMw9Df6A": [
+                "",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jun 12",
+        "meet_time": [],
+        "start_time": "Kim",
+        "inv_type": [
+            "Brianna"
+        ],
+        "store_name": [
+            "Annette"
+        ],
+        "address": [
+            "Jerry S"
+        ],
+        "link": [
+            "Katie"
+        ],
+        "store_note": [
+            "Kirsten <br><hr id=\"note_separator\">Lena <br><hr id=\"note_separator\">Madison <br><hr id=\"note_separator\">Mai <br><hr id=\"note_separator\">Marcia <br><hr id=\"note_separator\">Michelle <br><hr id=\"note_separator\">Taya <br><hr id=\"note_separator\">Terri"
+        ],
+        "employee_list": {
+            "null": [
+                null,
+                null,
                 "none"
             ]
         }
