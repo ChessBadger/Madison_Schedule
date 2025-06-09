@@ -589,10 +589,10 @@
             "THIS MTG IS TO PROVIDE INFORMATION TO HELP YOU DECIDE IF YOU WANT TO JOIN"
         ],
         "address": [
-            "THE BADGER 401 K PROGRAM TO HELP YOU GET FREE"
+            "THE BADGER 401 K PROGRAM TO HELP YOU GET FREE MONEY"
         ],
         "link": [
-            "MONEY. THERE IS NO OBLIGATION TO JOIN"
+            "THERE IS NO OBLIGATION TO JOIN"
         ],
         "store_note": [],
         "employee_list": {
@@ -745,77 +745,110 @@
                 "3)",
                 "",
                 "none"
+            ],
+            "Kayla": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Lori": [
+                "5)",
+                "@ Store, Until 11",
+                "none"
+            ],
+            "Qiana": [
+                "6)",
+                "Driver, 1/2\nCamry 3",
+                "none"
+            ],
+            "Sarah": [
+                "7)",
+                "@ Store",
+                "none"
             ]
         }
     },
     {
         "date": "Thu, Jun 12",
         "meet_time": [],
-        "start_time": "Kayla",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "Lori"
+            "DC5-FINANCIAL"
         ],
         "store_name": [
-            "Qiana"
+            "FOX BROS PIGGLY WIGGLY #082, MAYVILLE"
         ],
         "address": [
-            "Sarah"
+            "1440 HORICON ST"
         ],
         "link": [
-            ""
+            "https://maps.app.goo.gl/3nJCWDd6bxMw9Df6A"
         ],
         "store_note": [],
         "employee_list": {
-            "6:00 AM START": [
-                "",
-                "",
+            "Kim": [
+                "1)",
+                "@ Store, Equip",
                 "none"
             ],
-            "DC5-FINANCIAL": [
-                "",
-                "",
+            "Brianna": [
+                "2)",
+                "@ Store",
                 "none"
             ],
-            "FOX BROS PIGGLY WIGGLY #082, MAYVILLE": [
-                "",
-                "",
+            "Annette": [
+                "3)",
+                "@ Store",
                 "none"
             ],
-            "1440 HORICON ST": [
-                "",
-                "",
+            "Jerry S": [
+                "4)",
+                "@ Store",
+                "Fox Valley"
+            ],
+            "Katie": [
+                "5)",
+                "@ Store",
                 "none"
             ],
-            "https://maps.app.goo.gl/3nJCWDd6bxMw9Df6A": [
-                "",
-                "",
+            "Kirsten": [
+                "6)",
+                "@ Store",
                 "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Jun 12",
-        "meet_time": [],
-        "start_time": "Kim",
-        "inv_type": [
-            "Brianna"
-        ],
-        "store_name": [
-            "Annette"
-        ],
-        "address": [
-            "Jerry S"
-        ],
-        "link": [
-            "Katie"
-        ],
-        "store_note": [
-            "Kirsten <br><hr id=\"note_separator\">Lena <br><hr id=\"note_separator\">Madison <br><hr id=\"note_separator\">Mai <br><hr id=\"note_separator\">Marcia <br><hr id=\"note_separator\">Michelle <br><hr id=\"note_separator\">Taya <br><hr id=\"note_separator\">Terri"
-        ],
-        "employee_list": {
-            "null": [
-                null,
-                null,
+            ],
+            "Lena": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Madison": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Mai": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Marcia": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Michelle": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Terri": [
+                "13)",
+                "@ Store",
                 "none"
             ]
         }
