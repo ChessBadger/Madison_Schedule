@@ -1232,6 +1232,33 @@
         }
     },
     {
+        "date": "Mon, Jun 16",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "FRANK'S FRESHWAY MARKET, (SOUTH ELGIN, IL)"
+        ],
+        "address": [
+            "1175 W SPRING ST"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/ei246rcGaobUV942A"
+        ],
+        "store_note": [
+            "*IL Meet is ?? am at IL office"
+        ],
+        "employee_list": {
+            "": [
+                "1)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
         "date": "Tue, Jun 17",
         "meet_time": [],
         "start_time": "6:00 AM START",
