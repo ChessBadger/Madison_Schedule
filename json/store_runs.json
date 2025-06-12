@@ -1213,47 +1213,33 @@
                 "6)",
                 "",
                 "none"
-            ],
-            "Nate": [
-                "7)",
-                "Driver,\nOptima",
-                "none"
-            ],
-            "Qiana": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Tina E": [
-                "9)",
-                "@ Store",
-                "Rockford"
             ]
         }
     },
     {
         "date": "Mon, Jun 16",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Qiana",
         "inv_type": [
-            "DC5-FINANCIAL"
+            "Tina E"
         ],
         "store_name": [
-            "FRANK'S FRESHWAY MARKET, (SOUTH ELGIN, IL)"
+            ""
         ],
         "address": [
-            "1175 W SPRING ST"
+            ""
         ],
         "link": [
-            "https://maps.app.goo.gl/ei246rcGaobUV942A"
+            "6:00 AM START"
         ],
         "store_note": [
+            "DC5-FINANCIAL <br><hr id=\"note_separator\">(THIS USED TO BE A BUTERA MARKET) <br><hr id=\"note_separator\">FRANK'S FRESHWAY MARKET, (SOUTH ELGIN, IL) <br><hr id=\"note_separator\">1175 W SPRING ST <br><hr id=\"note_separator\">https://maps.app.goo.gl/ei246rcGaobUV942A",
             "*IL Meet is ?? am at IL office"
         ],
         "employee_list": {
-            "": [
+            "Nate": [
                 "1)",
-                "",
+                "@ Store, Optima, Equip",
                 "none"
             ]
         }
