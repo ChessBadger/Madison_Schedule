@@ -1134,26 +1134,31 @@
             ],
             "Angela": [
                 "2)",
-                "Driver, 1/2\nRed Camry",
+                "Driver, 1/2\nGray Van",
                 "none"
             ],
-            "Eva": [
+            "Emily L": [
                 "3)",
                 "",
-                "none"
+                "Rockford"
             ],
-            "Joseph": [
+            "Eva": [
                 "4)",
                 "",
                 "none"
             ],
-            "Michael N": [
+            "Joseph": [
                 "5)",
-                "Driver, 1/2\nRed Camry",
+                "",
+                "none"
+            ],
+            "Michael N": [
+                "6)",
+                "Driver, 1/2\nGray Van",
                 "Rockford"
             ],
             "Katherine": [
-                "6)",
+                "7)",
                 "@ Store",
                 "none"
             ]
@@ -1164,25 +1169,26 @@
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "MODAS-SCAN"
+            "DC5-FINANCIAL"
         ],
         "store_name": [
-            "KELLEY WALWORTH CELLARS"
+            "(THIS USED TO BE A BUTERA MARKET)"
         ],
         "address": [
-            "690 KENOSHA ST"
+            "FRANK'S FRESHWAY MARKET, (SOUTH ELGIN, IL)"
         ],
         "link": [
-            "https://maps.app.goo.gl/MtDv1BQiwir2d1ZS7"
+            "1175 W SPRING ST"
         ],
         "store_note": [
+            "https://maps.app.goo.gl/ei246rcGaobUV942A",
             "*IL Meet is 5:00 am at IL office"
         ],
         "employee_list": {
-            "Mike G": [
+            "Nate": [
                 "1)",
-                "@ Store, Equip",
-                "Rockford"
+                "Driver, Optima, Equip",
+                "none"
             ],
             "Anisha": [
                 "2)",
@@ -1194,47 +1200,19 @@
                 "Driver,\nCamry 3",
                 "Rockford"
             ],
-            "Emily L": [
-                "4)",
-                "",
-                "Rockford"
-            ],
             "Evelin": [
-                "5)",
+                "4)",
                 "",
                 "none"
             ],
             "Justin Lee": [
-                "6)",
+                "5)",
                 "",
                 "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Jun 16",
-        "meet_time": [],
-        "start_time": "Qiana",
-        "inv_type": [
-            "Tina E"
-        ],
-        "store_name": [
-            ""
-        ],
-        "address": [
-            ""
-        ],
-        "link": [
-            "6:00 AM START"
-        ],
-        "store_note": [
-            "DC5-FINANCIAL <br><hr id=\"note_separator\">(THIS USED TO BE A BUTERA MARKET) <br><hr id=\"note_separator\">FRANK'S FRESHWAY MARKET, (SOUTH ELGIN, IL) <br><hr id=\"note_separator\">1175 W SPRING ST <br><hr id=\"note_separator\">https://maps.app.goo.gl/ei246rcGaobUV942A",
-            "*IL Meet is ?? am at IL office"
-        ],
-        "employee_list": {
-            "Nate": [
-                "1)",
-                "@ Store, Optima, Equip",
+            ],
+            "Qiana": [
+                "6)",
+                "",
                 "none"
             ]
         }
