@@ -1147,20 +1147,21 @@
     {
         "date": "Sun, Jun 29",
         "meet_time": [],
-        "start_time": "5:00 AM START",
+        "start_time": "Scan product if shelf tag won't scan.\nUse Category 000\nNo prices on DCs - QTY only\n\nFOR NOT ON FILES: force in with quantity, put one item in cart w/ price on a sticky note",
         "inv_type": [
-            "DC5-ITEM LEVEL"
+            ""
         ],
         "store_name": [
-            "OUTPOST NATURAL FOODS, MILWAUKEE"
+            ""
         ],
         "address": [
-            "100 E CAPITOL DR"
+            ""
         ],
         "link": [
-            "https://goo.gl/maps/n94xpFtHzvE2"
+            ""
         ],
         "store_note": [
+            "5:00 AM START <br><hr id=\"note_separator\">DC5-ITEM LEVEL <br><hr id=\"note_separator\">OUTPOST NATURAL FOODS, MILWAUKEE <br><hr id=\"note_separator\">100 E CAPITOL DR <br><hr id=\"note_separator\">https://goo.gl/maps/n94xpFtHzvE2",
             "*IL Meet is 3:30 am at IL office"
         ],
         "employee_list": {
