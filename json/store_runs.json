@@ -1380,7 +1380,7 @@
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
-            "DC5-ITEM LEVEL"
+            "DC5-FINANCIAL"
         ],
         "store_name": [
             "MATT DHILLON BUYING THIS STORE TODAY"
@@ -1397,20 +1397,15 @@
             "*IL Meet is 4:45 am at IL office"
         ],
         "employee_list": {
-            "Sarah": [
+            "Nate": [
                 "1)",
-                "@ Store, Equip",
+                "Driver, 1/2\nOptima, Equip",
                 "none"
             ],
             "Ashley P": [
                 "2)",
                 "Driver, 1/2\nOptima",
                 "Rockford"
-            ],
-            "Nate": [
-                "3)",
-                "Driver, 1/2\nOptima",
-                "none"
             ]
         }
     },
@@ -1437,6 +1432,38 @@
             "Qiana": [
                 "1)",
                 "Camry 3, Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jul 1",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "NEW - MAIN ST MOBIL MART, VIROQUA"
+        ],
+        "address": [
+            "726 N. MAIN ST"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/GnUeDGDe1p2CHBFd9"
+        ],
+        "store_note": [
+            "5:30 am meet for Sarah & Lori at **Festival Foods Baraboo"
+        ],
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "Driver, Equip",
+                "none"
+            ],
+            "Lori": [
+                "2)",
+                "",
                 "none"
             ]
         }
