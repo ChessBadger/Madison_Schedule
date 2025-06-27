@@ -1066,63 +1066,58 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Angela": [
-                "2)",
-                "Driver, 1/2\nGray Van",
-                "none"
-            ],
             "Eva": [
-                "3)",
+                "2)",
                 "",
                 "none"
             ],
             "Joseph": [
-                "4)",
+                "3)",
                 "",
                 "none"
             ],
             "Justin Lee": [
-                "5)",
-                "Driver, 1/2\nGray Van",
+                "4)",
+                "Driver,\nGray Van",
                 "none"
             ],
             "Josie": [
-                "6)",
+                "5)",
                 "@ Store",
                 "none"
             ],
             "Greg": [
-                "7)",
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Jerry D": [
-                "8)",
+                "7)",
                 "@ Store",
                 "Milwaukee"
             ],
             "Lexi": [
-                "9)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Monica": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "NasZire": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Pamela": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Sonia": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ]
