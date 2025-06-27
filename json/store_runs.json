@@ -1217,14 +1217,56 @@
                 "Driver, 1/2\nSilver Van",
                 "Rockford"
             ],
-            "Evelin": [
+            "Emily L": [
                 "4)",
                 "",
+                "Rockford"
+            ],
+            "Evelin": [
+                "5)",
+                "Driver, 1/2\nSilver Van",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Sun, Jun 29",
+        "meet_time": [],
+        "start_time": "5:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "OUTPOST NATURAL FOODS, BAY VIEW"
+        ],
+        "address": [
+            "2826 S KINNICKINNIC AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/5hiyyxywjiH2"
+        ],
+        "store_note": [
+            "*3:30 am IL office leave time"
+        ],
+        "employee_list": {
+            "Katherine": [
+                "1)",
+                "@ Store, Equip",
                 "none"
             ],
             "Nate": [
-                "5)",
-                "Driver, 1/2\nSilver Van",
+                "2)",
+                "@ Store,\nOptima",
+                "none"
+            ],
+            "Cynthia": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Monica": [
+                "4)",
+                "@ Store",
                 "none"
             ]
         }
