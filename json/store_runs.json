@@ -1026,13 +1026,8 @@
                 "@ Store",
                 "none"
             ],
-            "Monica": [
-                "16)",
-                "@ Store",
-                "none"
-            ],
             "Terri": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -1129,18 +1124,13 @@
                 "@ Store",
                 "Milwaukee"
             ],
-            "Paul": [
+            "Sonia": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Sonia": [
-                "16)",
-                "@ Store",
-                "none"
-            ],
             "Sydney": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -1211,29 +1201,29 @@
                 "@ Store",
                 "none"
             ],
-            "Lexi": [
+            "Madison": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Madison": [
+            "Mai": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Mai": [
+            "Marcia": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Marcia": [
+            "Pamela": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Pamela": [
+            "Paul": [
                 "14)",
-                "@ Store",
+                "@ Store,\nUntil 10:00",
                 "none"
             ],
             "Taya": [
@@ -1478,18 +1468,13 @@
                 "@ Store",
                 "none"
             ],
-            "Monica": [
+            "Paul": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Paul": [
-                "16)",
-                "@ Store",
-                "none"
-            ],
             "Sydney": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ]
