@@ -1241,73 +1241,78 @@
                 "",
                 "none"
             ],
-            "Joseph": [
+            "Eva": [
                 "3)",
                 "",
                 "none"
             ],
-            "Josh S": [
+            "Joseph": [
                 "4)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "5)",
                 "",
                 "Rockford"
             ],
             "Justin Lee": [
-                "5)",
+                "6)",
                 "Driver, 1/2\nRed Camry,\nSupv Rx",
                 "none"
             ],
             "Kayla": [
-                "6)",
+                "7)",
                 "",
                 "none"
             ],
             "Michael N": [
-                "7)",
+                "8)",
                 "Driver, 1/2\nRed Camry",
                 "Rockford"
             ],
             "Nate": [
-                "8)",
+                "9)",
                 "Driver,\nOptima",
                 "none"
             ],
             "Carlie": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "DJ": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Jerry D": [
+            "DJ": [
                 "11)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry D": [
+                "12)",
                 "@ Store,\nRx",
                 "Milwaukee"
             ],
             "Katherine": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Lexi": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Monica": [
+            "Lexi": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Paul": [
+            "Monica": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "16)",
+                "@ Store",
+                "none"
+            ],
+            "Sonia": [
+                "17)",
                 "@ Store",
                 "none"
             ]
@@ -1349,52 +1354,19 @@
                 "Driver,\nSilver Van",
                 "Rockford"
             ],
-            "Eva": [
+            "Josie": [
                 "4)",
-                "",
+                "@ Store",
                 "none"
             ],
-            "Josie": [
+            "Lori": [
                 "5)",
                 "@ Store",
                 "none"
             ],
-            "Savannah": [
+            "Sarah": [
                 "6)",
                 "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Jul 15",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "SALE INVENTORY"
-        ],
-        "address": [
-            "CONTACT IS SUJAN MALLA (HE'S BUYING THIS STORE)"
-        ],
-        "link": [
-            "PLAIN ONE STOP MOBIL, PLAIN"
-        ],
-        "store_note": [
-            "1125 WACHTER AVE <br><hr id=\"note_separator\">https://maps.app.goo.gl/dMH6ZDvNM4WwDXGt8",
-            "6:15 am meet for Sarah & Lori at **Festival Foods Baraboo"
-        ],
-        "employee_list": {
-            "Sarah": [
-                "1)",
-                "Driver, Equip",
-                "none"
-            ],
-            "Lori": [
-                "2)",
-                "",
                 "none"
             ]
         }
