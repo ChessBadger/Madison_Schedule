@@ -1,1072 +1,5 @@
 [
     {
-        "date": "Sun, Jul 6",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {}
-    },
-    {
-        "date": "Mon, Jul 7",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "PIGGLY WIGGLY #401, PLATTEVILLE"
-        ],
-        "address": [
-            "255 MCGREGOR PLAZA"
-        ],
-        "link": [
-            "https://goo.gl/maps/Wm983x7cKQ62"
-        ],
-        "store_note": [
-            "TYPICALLY START IN LIQUOR,  THEN DAIRY, THEN VENDOR AISLES UNLESS GREG SAYS OTHERWISE.",
-            "*IL Meet is 5:00 am at IL office"
-        ],
-        "employee_list": {
-            "Ashley P": [
-                "1)",
-                "Driver,\nRed Camry, Equip",
-                "Rockford"
-            ],
-            "Anisha": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Elijah": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Eva": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Josh S": [
-                "5)",
-                "",
-                "Rockford"
-            ],
-            "Kayla": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Nate": [
-                "7)",
-                "Driver,\nSilver Van",
-                "none"
-            ],
-            "Sarah": [
-                "8)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Jul 7",
-        "meet_time": [],
-        "start_time": "6:30 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "KELLEY #63, SUN PRAIRIE MOBIL"
-        ],
-        "address": [
-            "1010 DAVISON DR"
-        ],
-        "link": [
-            "https://goo.gl/maps/AcJV9qEV2xQ2"
-        ],
-        "store_note": [
-            "Please be careful to scan only product barcodes, and not the shelf scan tags",
-            "*IL Meet is 5:15 am at IL office"
-        ],
-        "employee_list": {
-            "Qiana": [
-                "1)",
-                "@ Store,\nCamry 3, Equip",
-                "none"
-            ],
-            "Angela": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Joseph": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Justin Lee": [
-                "4)",
-                "Driver,\nGray Van",
-                "none"
-            ],
-            "Lori": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Michael N": [
-                "6)",
-                "",
-                "Rockford"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Jul 7",
-        "meet_time": [],
-        "start_time": "6:30 AM START",
-        "inv_type": [
-            "MODAS-SCAN"
-        ],
-        "store_name": [
-            "KELLEY #73, POLO RD MOBIL, STERLING"
-        ],
-        "address": [
-            "4002 LINCOLNWAY"
-        ],
-        "link": [
-            "https://goo.gl/maps/Kxx3oPMedio"
-        ],
-        "store_note": [
-            "Please be careful to scan only product barcodes, and not the shelf scan tags",
-            "*IL Meet is 5:15 am at IL office"
-        ],
-        "employee_list": {
-            "Mike G": [
-                "1)",
-                "@ Store, Equip",
-                "Rockford"
-            ],
-            "Emily L": [
-                "2)",
-                "",
-                "Rockford"
-            ],
-            "Evelin": [
-                "3)",
-                "Driver,\nOptima",
-                "none"
-            ],
-            "Spencer P": [
-                "4)",
-                "",
-                "Rockford"
-            ],
-            "Tina E": [
-                "5)",
-                "@ Store",
-                "Rockford"
-            ]
-        }
-    },
-    {
-        "date": "Mon, Jul 7",
-        "meet_time": [],
-        "start_time": "Car maintenance",
-        "inv_type": [
-            "Brianna"
-        ],
-        "store_name": [
-            ""
-        ],
-        "address": [
-            ""
-        ],
-        "link": [
-            ""
-        ],
-        "store_note": [
-            "*Optima should be back close to noon"
-        ],
-        "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Jul 8",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "MARIANO'S #533 +RX, NORTHBROOK"
-        ],
-        "address": [
-            "784 SKOKIE BLVD"
-        ],
-        "link": [
-            "https://goo.gl/maps/uGSNdTAqPRw"
-        ],
-        "store_note": [
-            "SET UP ON REG BY TRAINING OFFICE <br><hr id=\"note_separator\">STORE RESET-REMAPPED",
-            "*IL Meet is 4:30 am at IL office"
-        ],
-        "employee_list": {
-            "Nate": [
-                "1)",
-                "@ Store,\nOptima,\nEquip",
-                "none"
-            ],
-            "Angela": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Anisha": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Ashley P": [
-                "4)",
-                "Driver,\nSilver Van,\nSupv Rx",
-                "Rockford"
-            ],
-            "Brianna": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Eva": [
-                "6)",
-                "Rx",
-                "none"
-            ],
-            "Joseph": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Justin Lee": [
-                "8)",
-                "Driver, 1/2\nCamry 3,\nSome training w/ Nate",
-                "none"
-            ],
-            "Michael N": [
-                "9)",
-                "",
-                "Rockford"
-            ],
-            "Qiana": [
-                "10)",
-                "Driver, 1/2\nCamry 3",
-                "none"
-            ],
-            "Caitlin": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Ian": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Leyna": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Sonia": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Sydney": [
-                "15)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Jul 8",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "METRO #892 +RX, MENOMONEE FALLS - \nCOUNTY LINE RD"
-        ],
-        "address": [
-            "N95 W18351 COUNTY LINE RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/KutaqrX9XEx"
-        ],
-        "store_note": [
-            "SET UP ON LAST REG BY SELF CHECKOUT <br><hr id=\"note_separator\">FEW RESETS-REMAPPED"
-        ],
-        "employee_list": {
-            "DJ": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Josie": [
-                "2)",
-                "@ Store w/ Lori",
-                "none"
-            ],
-            "Lori": [
-                "3)",
-                "Driver 1/2",
-                "none"
-            ],
-            "Sarah": [
-                "4)",
-                "Driver 1/2",
-                "none"
-            ],
-            "Carlie": [
-                "5)",
-                "@ Store,\nRx",
-                "none"
-            ],
-            "Cynthia": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Jerry D": [
-                "7)",
-                "@ Store",
-                "Milwaukee"
-            ],
-            "Jerry S": [
-                "8)",
-                "@ Store",
-                "Fox Valley"
-            ],
-            "Katherine": [
-                "9)",
-                "@ Store,\nSupv Rx",
-                "none"
-            ],
-            "Kirsten": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Lexi": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Madison": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Mai": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Marcia": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Monica": [
-                "15)",
-                "@ Store",
-                "none"
-            ],
-            "Paul": [
-                "16)",
-                "@ Store,\nUntil 9:00",
-                "none"
-            ],
-            "Terri": [
-                "17)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Jul 9",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "MARIANO'S #519 +RX, AURORA"
-        ],
-        "address": [
-            "3025 E NEW YORK ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/4LdNPuLeAJs"
-        ],
-        "store_note": [
-            "SET UP ON REG #4 <br><hr id=\"note_separator\">FEW RESETS-REMAPPED",
-            "*IL Meet is 4:45 am at IL office"
-        ],
-        "employee_list": {
-            "Nate": [
-                "1)",
-                "@ Store,\nOptima,\nEquip",
-                "none"
-            ],
-            "Anisha": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Ashley P": [
-                "3)",
-                "Driver,\nSilver Van,\nSupv Rx",
-                "Rockford"
-            ],
-            "Eva": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Evelin": [
-                "5)",
-                "Driver, 1/2\nCamry 3",
-                "none"
-            ],
-            "Joseph": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Josh S": [
-                "7)",
-                "",
-                "Rockford"
-            ],
-            "Justin Lee": [
-                "8)",
-                "Some training w/ Nate",
-                "none"
-            ],
-            "Kayla": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Qiana": [
-                "10)",
-                "Driver, 1/2\nCamry 3",
-                "none"
-            ],
-            "Caitlin": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Ian": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Jerry D": [
-                "13)",
-                "@ Store,\nRx",
-                "Milwaukee"
-            ],
-            "Leyna": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Sonia": [
-                "15)",
-                "@ Store",
-                "none"
-            ],
-            "Sydney": [
-                "16)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Jul 9",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "PICK #867 +RX, BROWN DEER"
-        ],
-        "address": [
-            "9200 N GREEN BAY RD."
-        ],
-        "link": [
-            "https://goo.gl/maps/CW7zvhV8HSR2"
-        ],
-        "store_note": [
-            "SET UP ON REG #1"
-        ],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Lori": [
-                "2)",
-                "Driver 1/2,\nRx",
-                "none"
-            ],
-            "Sarah": [
-                "3)",
-                "Driver 1/2,\nSupv Rx",
-                "none"
-            ],
-            "Annette": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
-            "Cynthia": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "DJ": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Greg": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Jerry S": [
-                "8)",
-                "@ Store",
-                "Fox Valley"
-            ],
-            "Katherine": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
-            "Kirsten": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Madison": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Mai": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Marcia": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Pamela": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Paul": [
-                "15)",
-                "@ Store",
-                "none"
-            ],
-            "Taya": [
-                "16)",
-                "@ Store",
-                "none"
-            ],
-            "Terri": [
-                "17)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Jul 9",
-        "meet_time": [],
-        "start_time": "6:30 AM START",
-        "inv_type": [
-            "MODAS-SCAN"
-        ],
-        "store_name": [
-            "KELLEY #35, LYFORD MOBIL, ROCKFORD"
-        ],
-        "address": [
-            "8061 E STATE ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/kRn7nT8C7Vk"
-        ],
-        "store_note": [
-            "Please be careful to scan only product barcodes, and not the shelf scan tags"
-        ],
-        "employee_list": {
-            "Mike G": [
-                "1)",
-                "Equip",
-                "Rockford"
-            ],
-            "Emily L": [
-                "2)",
-                "",
-                "Rockford"
-            ],
-            "Laci": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Michael N": [
-                "4)",
-                "",
-                "Rockford"
-            ],
-            "Spencer P": [
-                "5)",
-                "",
-                "Rockford"
-            ],
-            "Tina E": [
-                "6)",
-                "",
-                "Rockford"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Jul 10",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "MARIANO'S #512, CHICAGO-16TH & CLARK"
-        ],
-        "address": [
-            "1615 S CLARK ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/zdGiJWdca4F2"
-        ],
-        "store_note": [
-            "SET UP ON REG #1 <br><hr id=\"note_separator\">STORE RESET-REMAPPED",
-            "*IL Meet is 4:30 am at IL office"
-        ],
-        "employee_list": {
-            "Brianna": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Anisha": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Ashley P": [
-                "3)",
-                "Driver, 1/2\nSilver Van",
-                "Rockford"
-            ],
-            "Elijah": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Eva": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Evelin": [
-                "6)",
-                "Driver, 1/2\nSilver Van",
-                "none"
-            ],
-            "Joseph": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Josh S": [
-                "8)",
-                "",
-                "Rockford"
-            ],
-            "Justin Lee": [
-                "9)",
-                "Driver 1/2\nGray Van",
-                "none"
-            ],
-            "Kayla": [
-                "10)",
-                "",
-                "none"
-            ],
-            "Michael N": [
-                "11)",
-                "",
-                "Rockford"
-            ],
-            "Nate": [
-                "12)",
-                "Driver 1/2\nGray Van",
-                "none"
-            ],
-            "Qiana": [
-                "13)",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Jul 10",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "PICK #348 +RX, OAK CREEK - 27TH ST"
-        ],
-        "address": [
-            "6462 S 27TH ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/Ya5hSzVYqX42"
-        ],
-        "store_note": [
-            "SET UP ON REG #1 (Register closest to offices)"
-        ],
-        "employee_list": {
-            "Kim": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Lori": [
-                "2)",
-                "Driver 1/2",
-                "none"
-            ],
-            "Sarah": [
-                "3)",
-                "Driver 1/2,\nSupv Rx",
-                "none"
-            ],
-            "Annette": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
-            "Caitlin": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Carlie": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Cynthia": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "DJ": [
-                "8)",
-                "@ Store, After Aurora",
-                "none"
-            ],
-            "Jerry D": [
-                "9)",
-                "@ Store,\nRx",
-                "Milwaukee"
-            ],
-            "Katie": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Lexi": [
-                "11)",
-                "@ Store",
-                "none"
-            ],
-            "Leyna": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Mai": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Marcia": [
-                "14)",
-                "@ Store",
-                "none"
-            ],
-            "Paul": [
-                "15)",
-                "@ Store",
-                "none"
-            ],
-            "Tanner": [
-                "16)",
-                "@ Store",
-                "none"
-            ],
-            "Trevor": [
-                "17)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Jul 10",
-        "meet_time": [],
-        "start_time": "6:30 AM START",
-        "inv_type": [
-            "MODAS-SCAN"
-        ],
-        "store_name": [
-            "KELLEY #19, HONONEGAH MOBIL, ROSCOE"
-        ],
-        "address": [
-            "5213 ELEVATOR RD"
-        ],
-        "link": [
-            "https://goo.gl/maps/gdPX1c1pWf12"
-        ],
-        "store_note": [
-            "Please be careful to scan only product barcodes, and not the shelf scan tags"
-        ],
-        "employee_list": {
-            "Mike G": [
-                "1)",
-                "Equip",
-                "Rockford"
-            ],
-            "Angela": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Emily L": [
-                "3)",
-                "",
-                "Rockford"
-            ],
-            "Laci": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Spencer P": [
-                "5)",
-                "",
-                "Rockford"
-            ],
-            "Tina E": [
-                "6)",
-                "",
-                "Rockford"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Jul 11",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-ITEM LEVEL"
-        ],
-        "store_name": [
-            "METRO #180, SHOREWOOD HILLS-UNIVERSITY"
-        ],
-        "address": [
-            "3650 UNIVERSITY AVENUE"
-        ],
-        "link": [
-            "https://goo.gl/maps/BuM3RhBQEKw"
-        ],
-        "store_note": [
-            "SET UP ON REG #2\nNEED SCANNER HOODS AT THIS STORE",
-            "*IL Meet is 4:45 am at IL office"
-        ],
-        "employee_list": {
-            "Nate": [
-                "1)",
-                "@ Store,\nOptima,\nEquip",
-                "none"
-            ],
-            "Anisha": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Ashley P": [
-                "3)",
-                "Driver, 1/2\nSilver Van",
-                "Rockford"
-            ],
-            "Brianna": [
-                "4)",
-                "@ Store",
-                "none"
-            ],
-            "Elijah": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Eva": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Evelin": [
-                "7)",
-                "Driver, 1/2\nSilver Van",
-                "none"
-            ],
-            "Joseph": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Josh S": [
-                "9)",
-                "",
-                "Rockford"
-            ],
-            "Justin Lee": [
-                "10)",
-                "Driver, 1/2\nCamry 3,\nNate Training",
-                "none"
-            ],
-            "Kayla": [
-                "11)",
-                "",
-                "none"
-            ],
-            "Lori": [
-                "12)",
-                "@ Store, Until 11:30",
-                "none"
-            ],
-            "Qiana": [
-                "13)",
-                "Driver, 1/2\nCamry 3",
-                "none"
-            ],
-            "Sarah": [
-                "14)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Jul 11",
-        "meet_time": [],
-        "start_time": "6:30 AM START",
-        "inv_type": [
-            "MODAS-SCAN"
-        ],
-        "store_name": [
-            "KELLEY #42, PECATONICA MOBIL"
-        ],
-        "address": [
-            "102 9TH ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/AJpYhUMPHam"
-        ],
-        "store_note": [
-            "Please be careful to scan only product barcodes, and not the shelf scan tags"
-        ],
-        "employee_list": {
-            "Mike G": [
-                "1)",
-                "@ Store, Equip",
-                "Rockford"
-            ],
-            "Angela": [
-                "2)",
-                "@ Store",
-                "none"
-            ],
-            "Emily L": [
-                "3)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Spencer P": [
-                "4)",
-                "@ Store",
-                "Rockford"
-            ],
-            "Tina E": [
-                "5)",
-                "@ Store",
-                "Rockford"
-            ]
-        }
-    },
-    {
-        "date": "Sat, Jul 12",
-        "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [],
-        "address": [],
-        "link": [],
-        "store_note": [],
-        "employee_list": {}
-    },
-    {
         "date": "Sun, Jul 13",
         "meet_time": [],
         "start_time": null,
@@ -1965,6 +898,885 @@
     },
     {
         "date": "Sat, Jul 19",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
+    },
+    {
+        "date": "Sun, Jul 20",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {}
+    },
+    {
+        "date": "Mon, Jul 21",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #409, MONROE"
+        ],
+        "address": [
+            "725 8TH ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/a3PiK4m9kHx"
+        ],
+        "store_note": [
+            "*IL Meet is 5:45 at IL office",
+            "6:00 am meet for Sarah & Lori at **Home Depot Verona Rd"
+        ],
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "Driver 1/2, Equip",
+                "none"
+            ],
+            "Anisha": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Brianna": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Elijah": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Joseph": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "6)",
+                "",
+                "Rockford"
+            ],
+            "Justin Lee": [
+                "7)",
+                "Driver, 1/2\nGray Van",
+                "none"
+            ],
+            "Lori": [
+                "8)",
+                "Driver 1/2",
+                "none"
+            ],
+            "Nate": [
+                "9)",
+                "Driver, 1/2\nGray Van",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jul 21",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "MODAS-SCAN"
+        ],
+        "store_name": [
+            "KELLEY #54, LAKE GENEVA MOBIL"
+        ],
+        "address": [
+            "350 N EDWARDS BLVD"
+        ],
+        "link": [
+            "https://goo.gl/maps/TTcKoRubQafC34nS9"
+        ],
+        "store_note": [
+            "Please be careful to scan only product barcodes, and not the shelf scan tags",
+            "*IL Meet is 5:15 at IL office"
+        ],
+        "employee_list": {
+            "Qiana": [
+                "1)",
+                "@ Store,\nCamry 3, Equip",
+                "none"
+            ],
+            "Angela": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Ashley P": [
+                "3)",
+                "Driver,\nSilver Van",
+                "Rockford"
+            ],
+            "Evelin": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Kayla": [
+                "5)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Jul 21",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "MODAS-SCAN"
+        ],
+        "store_name": [
+            "KELLEY #29, HARRISON AVE MOBIL, ROCKFORD"
+        ],
+        "address": [
+            "2624 STOWMARKET AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/as8c6yxHpQS2"
+        ],
+        "store_note": [
+            "Please be careful to scan only product barcodes, and not the shelf scan tags",
+            "*JEFF IS THE DM"
+        ],
+        "employee_list": {
+            "Mike G": [
+                "1)",
+                "Equip",
+                "Rockford"
+            ],
+            "Emily L": [
+                "2)",
+                "",
+                "Rockford"
+            ],
+            "Eva": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Michael N": [
+                "4)",
+                "",
+                "Rockford"
+            ],
+            "Spencer P": [
+                "5)",
+                "",
+                "Rockford"
+            ],
+            "Tina E": [
+                "6)",
+                "",
+                "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jul 22",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "MARIANO'S #527 +RX, CHICAGO-UKRAINIAN VILLAGE"
+        ],
+        "address": [
+            "2021 W CHICAGO AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/FiXNTFoTucA2"
+        ],
+        "store_note": [
+            "*IL Meet is 4:30 at IL office"
+        ],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "@ Store,\nOptima, Equip",
+                "none"
+            ],
+            "Angela": [
+                "2)",
+                "Driver, 1/2\nCamry 3",
+                "none"
+            ],
+            "Anisha": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Brianna": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Elijah": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Joseph": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "7)",
+                "",
+                "Rockford"
+            ],
+            "Justin Lee": [
+                "8)",
+                "Driver,\nRed Camry,\nSupv Rx",
+                "none"
+            ],
+            "Michael N": [
+                "9)",
+                "Driver, 1/2\nCamry 3,\nRx",
+                "Rockford"
+            ],
+            "Sydney": [
+                "10)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jul 22",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PIGGLY WIGGLY #304, JUNEAU"
+        ],
+        "address": [
+            "100 S WESTERN AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/T244KA82oJ12"
+        ],
+        "store_note": [
+            "*IL Meet is 5:15 at IL office",
+            "ALCOHOL AND BACKROOM DONE BY STORE <br><hr id=\"note_separator\">FEW RESETS-REMAPPED"
+        ],
+        "employee_list": {
+            "Ashley P": [
+                "1)",
+                "Driver, 1/2\nSilver Van, Equip",
+                "Rockford"
+            ],
+            "Eva": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Josie": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Kayla": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Qiana": [
+                "5)",
+                "Driver, 1/2\nSilver Van",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jul 22",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "SALE INVENTORY"
+        ],
+        "address": [
+            "CONTACT IS SUJAN MALLA (HE'S BUYING THIS STORE)"
+        ],
+        "link": [
+            "PLAIN ONE STOP MOBIL, PLAIN"
+        ],
+        "store_note": [
+            "1125 WACHTER AVE <br><hr id=\"note_separator\">https://maps.app.goo.gl/dMH6ZDvNM4WwDXGt8",
+            "6:15 am meet for Sarah & Lori at **Festival Foods Baraboo"
+        ],
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "Driver, Equip",
+                "none"
+            ],
+            "Lori": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jul 22",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "MODAS-SCAN"
+        ],
+        "store_name": [
+            "KELLEY #20, FOREST HILLS MOBIL, LOVES PARK"
+        ],
+        "address": [
+            "5902 FOREST HILLS RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/4SWJvN8ZsuH2"
+        ],
+        "store_note": [
+            "Please be careful to scan only product barcodes, and not the shelf scan tags"
+        ],
+        "employee_list": {
+            "Mike G": [
+                "1)",
+                "Equip",
+                "Rockford"
+            ],
+            "Emily L": [
+                "2)",
+                "",
+                "Rockford"
+            ],
+            "Laci": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Spencer P": [
+                "4)",
+                "",
+                "Rockford"
+            ],
+            "Tina E": [
+                "5)",
+                "",
+                "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jul 23",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "PICK #847 +FC-RX, WEST ALLIS-MARKET SQ"
+        ],
+        "address": [
+            "6760 W NATIONAL AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/G4vnZ7jFLF1ooLXD8"
+        ],
+        "store_note": [
+            "*IL Meet is 4:30 at IL office",
+            "SETUP ON REG #6; FUEL CTR USUALLY DBS, BUT ASK"
+        ],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "@ Store,\nOptima, Equip",
+                "none"
+            ],
+            "Anisha": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Ashley P": [
+                "3)",
+                "Driver, 1/2\nSilver Van,\nSupv Rx",
+                "Rockford"
+            ],
+            "Eva": [
+                "4)",
+                "Rx",
+                "none"
+            ],
+            "Evelin": [
+                "5)",
+                "Driver, 1/2\nRed Camry",
+                "none"
+            ],
+            "Joseph": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "7)",
+                "",
+                "Rockford"
+            ],
+            "Justin Lee": [
+                "8)",
+                "Driver, 1/2\nRed Camry",
+                "none"
+            ],
+            "Kayla": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Lori": [
+                "10)",
+                "Driver 1/2",
+                "none"
+            ],
+            "Michael N": [
+                "11)",
+                "",
+                "Rockford"
+            ],
+            "Qiana": [
+                "12)",
+                "Driver, 1/2\nSilver Van",
+                "none"
+            ],
+            "Sarah": [
+                "13)",
+                "Driver 1/2",
+                "none"
+            ],
+            "Cynthia": [
+                "14)",
+                "@ Store",
+                "none"
+            ],
+            "Kim": [
+                "15)",
+                "@ Store,\nAfter Aurora",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jul 23",
+        "meet_time": [],
+        "start_time": "5:30 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ROTE OIL #10 MUKWONAGO - ROCHESTER",
+            "ROTE OIL #12 MUKWONAGO - (AMOCO) GREENWALD",
+            "ROTE OIL  #11 MUKWONAGO - (BP) ARROWHEAD"
+        ],
+        "address": [
+            "1060 N ROCHESTER ST",
+            "909 GREENWALD CT",
+            "122 ARROWHEAD DR"
+        ],
+        "link": [
+            "https://goo.gl/maps/dmvR5bTHLs1Cbjcr5",
+            "https://goo.gl/maps/ejQSLoz2D8EmzKVq6",
+            "https://goo.gl/maps/7XkTFZtDFDgGBctz7"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Katherine": [
+                "2)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Jul 23",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "MODAS-SCAN"
+        ],
+        "store_name": [
+            "KELLEY #40, MARKETSIDE MOBIL, ROCKFORD"
+        ],
+        "address": [
+            "5810 E STATE ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/q7CN8T4aEcR2"
+        ],
+        "store_note": [
+            "Please be careful to scan only product barcodes, and not the shelf scan tags"
+        ],
+        "employee_list": {
+            "Mike G": [
+                "1)",
+                "Equip",
+                "Rockford"
+            ],
+            "Angela": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Emily L": [
+                "3)",
+                "",
+                "Rockford"
+            ],
+            "Laci": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Spencer P": [
+                "5)",
+                "",
+                "Rockford"
+            ],
+            "Tina E": [
+                "6)",
+                "",
+                "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jul 24",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "PICK #390 +FC, STOUGHTON"
+        ],
+        "address": [
+            "1750 HWY 51 WEST"
+        ],
+        "link": [
+            "https://goo.gl/maps/8AremLpbzMS2"
+        ],
+        "store_note": [
+            "*IL Meet is 4:45 at IL office",
+            "SET UP ON REG #1  Watch your tags!"
+        ],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Angela": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Anisha": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Ashley P": [
+                "4)",
+                "Driver, 1/2\nSilver Van",
+                "Rockford"
+            ],
+            "Eva": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Evelin": [
+                "6)",
+                "Driver, 1/2\nGray Van",
+                "none"
+            ],
+            "Joseph": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "8)",
+                "",
+                "Rockford"
+            ],
+            "Justin Lee": [
+                "9)",
+                "",
+                "none"
+            ],
+            "Kayla": [
+                "10)",
+                "",
+                "none"
+            ],
+            "Lori": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Michael N": [
+                "12)",
+                "Driver, 1/2\nGray Van",
+                "Rockford"
+            ],
+            "Qiana": [
+                "13)",
+                "Driver, 1/2\nSilver Van",
+                "none"
+            ],
+            "Sarah": [
+                "14)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jul 24",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "MODAS-SCAN"
+        ],
+        "store_name": [
+            "KELLEY #30, PERRYVILLE MOBIL, ROCKFORD"
+        ],
+        "address": [
+            "3251 N PERRYVILLE RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/9WqWnwwgzV92"
+        ],
+        "store_note": [
+            "Please be careful to scan only product barcodes, and not the shelf scan tags"
+        ],
+        "employee_list": {
+            "Mike G": [
+                "1)",
+                "Equip",
+                "Rockford"
+            ],
+            "Emily L": [
+                "2)",
+                "",
+                "Rockford"
+            ],
+            "Laci": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Nate": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Spencer P": [
+                "5)",
+                "",
+                "Rockford"
+            ],
+            "Tina E": [
+                "6)",
+                "",
+                "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jul 25",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-ITEM LEVEL"
+        ],
+        "store_name": [
+            "PICK #131, MADISON - \nMAPLE GROVE"
+        ],
+        "address": [
+            "6655 MCKEE ROAD"
+        ],
+        "link": [
+            "https://goo.gl/maps/vmsm1UuQVHR2"
+        ],
+        "store_note": [
+            "*IL Meet is 4:30 at IL office",
+            "SET UP ON REG #1"
+        ],
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "@ Store",
+                "none"
+            ],
+            "Angela": [
+                "2)",
+                "Driver, 1/2\nCamry 3",
+                "none"
+            ],
+            "Anisha": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Ashley P": [
+                "4)",
+                "Driver, 1/2\nRed Camry",
+                "Rockford"
+            ],
+            "Eva": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Evelin": [
+                "6)",
+                "Driver, 1/2\nCamry 3",
+                "none"
+            ],
+            "Joseph": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Justin Lee": [
+                "8)",
+                "Driver, 1/2\nRed Camry",
+                "none"
+            ],
+            "Lori": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Carlie": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Lexi": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Leyna": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Monica": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Sonia": [
+                "14)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jul 25",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "ROTE OIL #14 TREVOR (CITGO)",
+            "ROTE OIL #13 TREVOR (BP)"
+        ],
+        "address": [
+            "12617 ANTIOCH RD",
+            "12511 ANTIOCH RD"
+        ],
+        "link": [
+            "https://goo.gl/maps/xA9YMzPGc6Vhxi5r8",
+            "https://goo.gl/maps/iu3xzNwgJ32esP5RA"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jul 25",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "CONTACT IS MATT WECHSLER"
+        ],
+        "address": [
+            "NEW - WILD ONION MARKET, CHICAGO"
+        ],
+        "link": [
+            "7007 N CLARK ST"
+        ],
+        "store_note": [
+            "https://maps.app.goo.gl/GY78au1TmRaEa7Na9",
+            "*IL Meet is 4:15 at IL office"
+        ],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "Driver, 1/2\nOptima,\nEquip",
+                "none"
+            ],
+            "Qiana": [
+                "2)",
+                "Driver, 1/2\nOptima",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Sat, Jul 26",
         "meet_time": [],
         "start_time": null,
         "inv_type": [],
