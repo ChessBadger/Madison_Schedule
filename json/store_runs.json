@@ -1738,39 +1738,6 @@
         }
     },
     {
-        "date": "Fri, Jul 25",
-        "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "CONTACT IS MATT WECHSLER"
-        ],
-        "address": [
-            "NEW - WILD ONION MARKET, CHICAGO"
-        ],
-        "link": [
-            "7007 N CLARK ST"
-        ],
-        "store_note": [
-            "https://maps.app.goo.gl/GY78au1TmRaEa7Na9",
-            "*IL Meet is 4:15 at IL office"
-        ],
-        "employee_list": {
-            "Nate": [
-                "1)",
-                "Driver, 1/2\nOptima,\nEquip",
-                "none"
-            ],
-            "Qiana": [
-                "2)",
-                "Driver, 1/2\nOptima",
-                "none"
-            ]
-        }
-    },
-    {
         "date": "Sat, Jul 26",
         "meet_time": [],
         "start_time": null,
