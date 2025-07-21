@@ -219,28 +219,38 @@
                 "",
                 "none"
             ],
-            "Joseph": [
+            "Evelin": [
                 "6)",
                 "",
                 "none"
             ],
-            "Josh S": [
+            "Joseph": [
                 "7)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "8)",
                 "",
                 "Rockford"
             ],
             "Justin Lee": [
-                "8)",
-                "Driver,\nRed Camry,\nSupv Rx",
+                "9)",
+                "Driver 1/2,\nSilver Van,\nSupv Rx",
                 "none"
             ],
             "Michael N": [
-                "9)",
+                "10)",
                 "Driver, 1/2\nCamry 3,\nRx",
                 "Rockford"
             ],
+            "Qiana": [
+                "11)",
+                "Driver 1/2, Silver Van",
+                "none"
+            ],
             "Sydney": [
-                "10)",
+                "12)",
                 "@ Store",
                 "none"
             ]
@@ -269,60 +279,27 @@
         "employee_list": {
             "Ashley P": [
                 "1)",
-                "Driver, 1/2\nSilver Van, Equip",
+                "Driver, Red Camry, Equip",
                 "Rockford"
             ],
-            "Eva": [
-                "2)",
-                "",
-                "none"
-            ],
             "Josie": [
-                "3)",
+                "2)",
                 "@ Store",
                 "none"
             ],
             "Kayla": [
-                "4)",
+                "3)",
                 "",
-                "none"
-            ],
-            "Qiana": [
-                "5)",
-                "Driver, 1/2\nSilver Van",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Jul 22",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "SALE INVENTORY"
-        ],
-        "address": [
-            "CONTACT IS SUJAN MALLA (HE'S BUYING THIS STORE)"
-        ],
-        "link": [
-            "PLAIN ONE STOP MOBIL, PLAIN"
-        ],
-        "store_note": [
-            "1125 WACHTER AVE <br><hr id=\"note_separator\">https://maps.app.goo.gl/dMH6ZDvNM4WwDXGt8",
-            "6:15 am meet for Sarah & Lori at **Festival Foods Baraboo"
-        ],
-        "employee_list": {
-            "Sarah": [
-                "1)",
-                "Driver, Equip",
                 "none"
             ],
             "Lori": [
-                "2)",
-                "",
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Sarah": [
+                "5)",
+                "@ Store",
                 "none"
             ]
         }
@@ -357,18 +334,23 @@
                 "",
                 "Rockford"
             ],
-            "Laci": [
+            "Eva": [
                 "3)",
                 "",
                 "none"
             ],
-            "Spencer P": [
+            "Laci": [
                 "4)",
+                "",
+                "none"
+            ],
+            "Spencer P": [
+                "5)",
                 "",
                 "Rockford"
             ],
             "Tina E": [
-                "5)",
+                "6)",
                 "",
                 "Rockford"
             ]
