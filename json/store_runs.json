@@ -1068,43 +1068,38 @@
                 "Driver, 1/2\nRed Camry",
                 "none"
             ],
-            "Michael N": [
-                "9)",
-                "",
-                "Rockford"
-            ],
             "Caitlin": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Carlie": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Cynthia": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Jerry D": [
-                "13)",
+                "12)",
                 "@ Store,\nSupv Rx",
                 "Milwaukee"
             ],
             "Pamela": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Paul": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Trevor": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ]
@@ -1146,19 +1141,44 @@
                 "@ Store",
                 "none"
             ],
-            "Lori": [
+            "Michael N": [
                 "4)",
-                "@ Store",
-                "none"
+                "",
+                "Rockford"
             ],
-            "Sarah": [
+            "Savannah": [
                 "5)",
                 "@ Store",
                 "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Jul 29",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "PLAIN ONE STOP"
+        ],
+        "address": [
+            "1125 WACHTER AVE"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/Ly9ZY5aLqyx3GhXSA"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "Driver,\nEquip",
+                "none"
             ],
-            "Savannah": [
-                "6)",
-                "@ Store",
+            "Lori": [
+                "2)",
+                "",
                 "none"
             ]
         }
