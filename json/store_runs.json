@@ -1796,73 +1796,63 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Lori": [
-                "2)",
-                "Driver 1/2",
-                "none"
-            ],
-            "Sarah": [
-                "3)",
-                "Driver 1/2",
-                "none"
-            ],
             "Caitlin": [
-                "4)",
+                "2)",
                 "@ Store",
                 "none"
             ],
             "Carlie": [
-                "5)",
+                "3)",
                 "@ Store",
                 "none"
             ],
             "Cynthia": [
-                "6)",
+                "4)",
                 "@ Store",
                 "none"
             ],
             "DJ": [
-                "7)",
+                "5)",
                 "@ Store",
                 "none"
             ],
             "Ian": [
-                "8)",
+                "6)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Jerry D": [
-                "9)",
+                "7)",
                 "@ Store,\nSupv Rx",
                 "Milwaukee"
             ],
             "Katherine": [
-                "10)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Lexi": [
-                "11)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Monica": [
-                "12)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Pamela": [
-                "13)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Paul": [
-                "14)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Sonia": [
-                "15)",
+                "13)",
                 "@ Store",
                 "none"
             ]
@@ -1942,6 +1932,38 @@
             "Qiana": [
                 "11)",
                 "Driver, 1/2\nSilver Van",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Aug 8",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "SALE INVENTORY"
+        ],
+        "address": [
+            "CONTACT IS SUNNY (HE IS THE SELLER)"
+        ],
+        "link": [
+            "ZZIP STOP, WONEWOC"
+        ],
+        "store_note": [
+            "300 CENTER ST <br><hr id=\"note_separator\">https://maps.app.goo.gl/qbVnN7tVAnoCsvfL9"
+        ],
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "Driver, Equip",
+                "none"
+            ],
+            "Lori": [
+                "2)",
+                "",
                 "none"
             ]
         }
