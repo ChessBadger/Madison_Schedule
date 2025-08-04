@@ -1445,7 +1445,7 @@
         "employee_list": {
             "Sarah": [
                 "1)",
-                "@ Store, Equip",
+                "Driver 1/2, Equip",
                 "none"
             ],
             "Angela": [
@@ -1488,18 +1488,23 @@
                 "Driver, 1/2\nOptima",
                 "none"
             ],
-            "Nate": [
+            "Lori": [
                 "10)",
+                "Driver 1/2",
+                "none"
+            ],
+            "Nate": [
+                "11)",
                 "Driver, 1/2\nOptima",
                 "none"
             ],
             "Qiana": [
-                "11)",
+                "12)",
                 "Driver, 1/2\nSilver Van",
                 "none"
             ],
             "Katherine": [
-                "12)",
+                "13)",
                 "@ Store,\nAfter Aurora,\nUntil noon",
                 "none"
             ]
