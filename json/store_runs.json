@@ -875,59 +875,59 @@
                 "Driver, 1/2\nRed Camry",
                 "none"
             ],
-            "Elijah": [
+            "Cynthia": [
                 "3)",
+                "@ Store  ",
+                "none"
+            ],
+            "Elijah": [
+                "4)",
                 "",
                 "none"
             ],
             "Emily L": [
-                "4)",
+                "5)",
                 "",
                 "Rockford"
             ],
             "Eva": [
-                "5)",
+                "6)",
                 "Rx",
                 "none"
             ],
             "Evelin": [
-                "6)",
+                "7)",
                 "Driver, 1/2\nRed Camry",
                 "none"
             ],
-            "Joseph": [
-                "7)",
-                "",
-                "none"
-            ],
-            "Qiana": [
-                "8)",
-                "Driver,\nCamry 3,\nSupv Rx",
-                "none"
-            ],
-            "Cynthia": [
-                "9)",
-                "@ Store  ",
-                "none"
-            ],
             "Jerry D": [
-                "10)",
+                "8)",
                 "@ Store  ",
                 "Milwaukee"
             ],
+            "Joseph": [
+                "9)",
+                "",
+                "none"
+            ],
             "Lexi": [
-                "11)",
+                "10)",
                 "@ Store  ",
                 "none"
             ],
             "Pamela": [
-                "12)",
+                "11)",
                 "@ Store  ",
                 "none"
             ],
             "Paul": [
-                "13)",
+                "12)",
                 "@ Store  ",
+                "none"
+            ],
+            "Qiana": [
+                "13)",
+                "Driver,\nCamry 3,\nSupv Rx",
                 "none"
             ],
             "Sonia": [
@@ -1203,7 +1203,7 @@
         "employee_list": {
             "Brianna": [
                 "",
-                "",
+                "Silver Van - tail light",
                 "none"
             ]
         }
