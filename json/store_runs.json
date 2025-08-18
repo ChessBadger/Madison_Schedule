@@ -137,19 +137,68 @@
             "https://goo.gl/maps/4TPgfMygjsLQ8pYB9"
         ],
         "store_note": [
-            "Please be careful to scan only product barcodes, and not the shelf scan tags <br><hr id=\"note_separator\">Sarah - Car swap - drop at Meinke <br><hr id=\"note_separator\">Mike G <br><hr id=\"note_separator\">Anisha <br><hr id=\"note_separator\">Ashley P <br><hr id=\"note_separator\">Emily L <br><hr id=\"note_separator\">Laci <br><hr id=\"note_separator\">Michael N <br><hr id=\"note_separator\">Qiana <br><hr id=\"note_separator\">Sarah <br><hr id=\"note_separator\">Tina E"
+            "Please be careful to scan only product barcodes, and not the shelf scan tags <br><hr id=\"note_separator\">Sarah - Car swap - drop at Meinke"
         ],
         "employee_list": {
-            "": [
-                "",
+            "Mike G": [
+                "1)",
+                "Equip",
+                "Rockford"
+            ],
+            "Anisha": [
+                "2)",
                 "",
                 "none"
             ],
-            "Office / Car maintenance": [
+            "Ashley P": [
+                "3)",
                 "",
+                "Rockford"
+            ],
+            "Emily L": [
+                "4)",
+                "",
+                "Rockford"
+            ],
+            "Laci": [
+                "5)",
                 "",
                 "none"
             ],
+            "Michael N": [
+                "6)",
+                "",
+                "Rockford"
+            ],
+            "Qiana": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Sarah": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Tina E": [
+                "9)",
+                "",
+                "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Aug 19",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office / Car maintenance"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
             "Brianna": [
                 "",
                 "Silver Van - tail light",
@@ -723,7 +772,7 @@
         ],
         "store_note": [
             "*IL Meet is 4:30 am at IL office",
-            "Set up in break room - Count liquor near end of store. Count meat Dairy first - Aisle 4 then vendors."
+            "Set up in break room - Count liquor near end of store. <br><hr id=\"note_separator\">Count meat Dairy first - Aisle 4 then vendors."
         ],
         "employee_list": {
             "Nate": [
