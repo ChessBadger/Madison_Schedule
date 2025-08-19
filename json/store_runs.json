@@ -1015,13 +1015,18 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Kim": [
+            "Jeremiah": [
                 "2)",
                 "@ Store  ",
                 "none"
             ],
-            "Sarah": [
+            "Kim": [
                 "3)",
+                "@ Store  ",
+                "none"
+            ],
+            "Sarah": [
+                "4)",
                 "@ Store  ",
                 "none"
             ]
