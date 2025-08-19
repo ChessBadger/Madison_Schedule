@@ -1650,11 +1650,19 @@
         "meet_time": [],
         "start_time": null,
         "inv_type": [],
-        "store_name": [],
+        "store_name": [
+            "Office / Car maintenance"
+        ],
         "address": [],
         "link": [],
         "store_note": [],
-        "employee_list": {}
+        "employee_list": {
+            "Brianna": [
+                "",
+                "",
+                "none"
+            ]
+        }
     },
     {
         "date": "Sat, Aug 30",
