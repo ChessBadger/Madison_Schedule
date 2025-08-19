@@ -995,6 +995,41 @@
     {
         "date": "Mon, Aug 25",
         "meet_time": [],
+        "start_time": "9:00 AM START",
+        "inv_type": [
+            "SCAN-ITEM LEVEL"
+        ],
+        "store_name": [
+            "CORK AND BOTTLE LIQUORS, JANESVILLE"
+        ],
+        "address": [
+            "1418 W. MEMORIAL DR"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/X4LfoEZLXvGDiMRi6"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Lashaun": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Kim": [
+                "2)",
+                "@ Store  ",
+                "none"
+            ],
+            "Sarah": [
+                "3)",
+                "@ Store  ",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Mon, Aug 25",
+        "meet_time": [],
         "start_time": "6:30 AM START",
         "inv_type": [
             "MODAS-SCAN"
@@ -1038,14 +1073,14 @@
                 "",
                 "Rockford"
             ],
-            "Justin Lee": [
+            "Joseph": [
                 "6)",
                 "",
                 "none"
             ],
-            "Sarah": [
+            "Justin Lee": [
                 "7)",
-                "@ Store",
+                "",
                 "none"
             ],
             "Tina E": [
@@ -1081,55 +1116,55 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Anisha": [
+            "Angela": [
                 "2)",
+                "Driver, 1/2\nGray Van",
+                "none"
+            ],
+            "Anisha": [
+                "3)",
                 "",
                 "none"
             ],
             "Ashley P": [
-                "3)",
+                "4)",
                 "Driver, 1/2\nSilver Van",
                 "Rockford"
             ],
             "Elijah": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Eva": [
                 "5)",
                 "",
                 "none"
             ],
-            "Joseph": [
+            "Eva": [
                 "6)",
+                "",
+                "none"
+            ],
+            "Joseph": [
+                "7)",
                 "Rx - 1st Rx",
                 "none"
             ],
             "Josh S": [
-                "7)",
+                "8)",
                 "",
                 "Rockford"
             ],
             "Justin Lee": [
-                "8)",
+                "9)",
                 "Driver, 1/2\nSilver Van,\nTrain w/ Bri",
                 "none"
             ],
             "Kayla": [
-                "9)",
+                "10)",
                 "",
                 "none"
             ],
             "Michael N": [
-                "10)",
+                "11)",
                 "",
                 "Rockford"
-            ],
-            "Nate": [
-                "11)",
-                "Driver, 1/2\nGray Van",
-                "none"
             ],
             "Qiana": [
                 "12)",
@@ -1270,17 +1305,17 @@
                 "Equip",
                 "Rockford"
             ],
-            "Angela": [
-                "2)",
-                "",
-                "none"
-            ],
             "Emily L": [
-                "3)",
+                "2)",
                 "",
                 "Rockford"
             ],
             "Laci": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Nate": [
                 "4)",
                 "",
                 "none"
