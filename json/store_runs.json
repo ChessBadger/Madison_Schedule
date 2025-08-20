@@ -581,9 +581,69 @@
             "SET UP ON REG #1"
         ],
         "employee_list": {
-            "": [
-                "",
-                "",
+            "DJ": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Brianna": [
+                "2)",
+                "@ Store",
+                "none"
+            ],
+            "Caitlin": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Carlie": [
+                "4)",
+                "@ Store,\nRx",
+                "none"
+            ],
+            "Cynthia": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Ian": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry D": [
+                "7)",
+                "@ Store,\nSupv Rx",
+                "Milwaukee"
+            ],
+            "Katherine": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Lexi": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Monica": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Pamela": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Paul": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Sonia": [
+                "13)",
+                "@ Store",
                 "none"
             ]
         }
@@ -591,56 +651,51 @@
     {
         "date": "Fri, Aug 22",
         "meet_time": [],
-        "start_time": "DJ",
+        "start_time": "6:30 AM START",
         "inv_type": [
-            "Brianna"
+            "MODAS-SCAN"
         ],
         "store_name": [
-            "Caitlin"
+            "KELLEY #79, GAMMON MOBIL, MADISON"
         ],
         "address": [
-            "Carlie"
+            "901 S GAMMON RD"
         ],
         "link": [
-            "Cynthia"
+            "https://goo.gl/maps/XZCVbczZyjz"
         ],
         "store_note": [
-            "Ian <br><hr id=\"note_separator\">Jerry D <br><hr id=\"note_separator\">Katherine <br><hr id=\"note_separator\">Lexi <br><hr id=\"note_separator\">Monica <br><hr id=\"note_separator\">Pamela <br><hr id=\"note_separator\">Paul <br><hr id=\"note_separator\">Sonia",
+            "Please be careful to scan only product barcodes, and not the shelf scan tags",
             "*IL Meet is 5:00 am at IL office"
         ],
         "employee_list": {
-            "": [
-                "",
+            "Qiana": [
+                "1)",
+                "@ Store,\nCamry 3, Equip",
+                "none"
+            ],
+            "Angela": [
+                "2)",
                 "",
                 "none"
             ],
-            "6:30 AM START": [
-                "",
-                "",
-                "none"
-            ],
-            "MODAS-SCAN": [
-                "",
+            "Anisha": [
+                "3)",
                 "",
                 "none"
             ],
-            "KELLEY #79, GAMMON MOBIL, MADISON": [
-                "",
+            "Ashley P": [
+                "4)",
+                "Driver,\nSilver Van",
+                "Rockford"
+            ],
+            "Kayla": [
+                "5)",
                 "",
                 "none"
             ],
-            "901 S GAMMON RD": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/XZCVbczZyjz": [
-                "",
-                "",
-                "none"
-            ],
-            "Please be careful to scan only product barcodes, and not the shelf scan tags": [
-                "",
+            "Nate": [
+                "6)",
                 "",
                 "none"
             ]
@@ -649,61 +704,26 @@
     {
         "date": "Fri, Aug 22",
         "meet_time": [],
-        "start_time": "Qiana",
+        "start_time": "7:00 AM START",
         "inv_type": [
-            "Angela"
+            "DC5-FINANCIAL"
         ],
         "store_name": [
-            "Anisha"
+            "SALE INVENTORY"
         ],
         "address": [
-            "Ashley P"
+            "CONTACT IS SUNNY (HE IS THE SELLER)"
         ],
         "link": [
-            "Kayla"
+            "ZZIP STOP, WONEWOC"
         ],
         "store_note": [
-            "Nate"
+            "300 CENTER ST <br><hr id=\"note_separator\">https://maps.app.goo.gl/qbVnN7tVAnoCsvfL9"
         ],
         "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
-            ],
-            "7:00 AM START": [
-                "",
-                "",
-                "none"
-            ],
-            "DC5-FINANCIAL": [
-                "",
-                "",
-                "none"
-            ],
-            "SALE INVENTORY": [
-                "",
-                "",
-                "none"
-            ],
-            "CONTACT IS SUNNY (HE IS THE SELLER)": [
-                "",
-                "",
-                "none"
-            ],
-            "ZZIP STOP, WONEWOC": [
-                "",
-                "",
-                "none"
-            ],
-            "300 CENTER ST": [
-                "",
-                "",
-                "none"
-            ],
-            "https://maps.app.goo.gl/qbVnN7tVAnoCsvfL9": [
-                "",
-                "",
+            "Sarah": [
+                "1)",
+                "@ Store, Equip",
                 "none"
             ]
         }
@@ -711,21 +731,21 @@
     {
         "date": "Fri, Aug 22",
         "meet_time": [],
-        "start_time": "Sarah",
+        "start_time": "6:30 AM START",
         "inv_type": [
-            ""
-        ],
-        "store_name": [
-            ""
-        ],
-        "address": [
-            "6:30 AM START"
-        ],
-        "link": [
             "MODAS-SCAN"
         ],
+        "store_name": [
+            "KELLEY #37, ROCKTON MOBIL"
+        ],
+        "address": [
+            "111 N BLACKHAWK BLVD"
+        ],
+        "link": [
+            "https://goo.gl/maps/8XLAYoWmhuu"
+        ],
         "store_note": [
-            "KELLEY #37, ROCKTON MOBIL <br><hr id=\"note_separator\">111 N BLACKHAWK BLVD <br><hr id=\"note_separator\">https://goo.gl/maps/8XLAYoWmhuu <br><hr id=\"note_separator\">Please be careful to scan only product barcodes, and not the shelf scan tags"
+            "Please be careful to scan only product barcodes, and not the shelf scan tags"
         ],
         "employee_list": {
             "Mike G": [
