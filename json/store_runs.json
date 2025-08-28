@@ -1469,33 +1469,38 @@
                 "@ Store",
                 "none"
             ],
-            "Lexi": [
+            "Katherine": [
                 "6)",
-                "@ Store",
+                "@ Store,\nAfter Aurora",
                 "none"
             ],
-            "Leyna": [
+            "Lexi": [
                 "7)",
                 "@ Store",
                 "none"
             ],
-            "Monica": [
+            "Leyna": [
                 "8)",
-                "@ Store",
+                "@ Store,\nAfter Aurora",
                 "none"
             ],
-            "Pamela": [
+            "Monica": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Paul": [
+            "Pamela": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "11)",
+                "@ Store",
+                "none"
+            ],
+            "Sonia": [
+                "12)",
                 "@ Store",
                 "none"
             ]
