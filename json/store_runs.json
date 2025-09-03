@@ -1215,12 +1215,12 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Brianna": [
+            "Lori": [
                 "2)",
                 "@ Store",
                 "none"
             ],
-            "Lori": [
+            "Katherine": [
                 "3)",
                 "@ Store",
                 "none"
@@ -1271,6 +1271,25 @@
                 "5)",
                 "",
                 "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Sep 11",
+        "meet_time": [],
+        "start_time": null,
+        "inv_type": [],
+        "store_name": [
+            "Office - Car/Office maintenance"
+        ],
+        "address": [],
+        "link": [],
+        "store_note": [],
+        "employee_list": {
+            "Brianna": [
+                "",
+                "",
+                "none"
             ]
         }
     },
@@ -1374,8 +1393,13 @@
                 "@ Store",
                 "none"
             ],
-            "Sonia": [
+            "Monica": [
                 "17)",
+                "@ Store",
+                "none"
+            ],
+            "Sonia": [
+                "18)",
                 "@ Store,\nAce Side",
                 "none"
             ]
