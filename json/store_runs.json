@@ -1127,7 +1127,7 @@
             ],
             "Ashley P": [
                 "3)",
-                "Driver, 1/2\nGray Van",
+                "Driver,\nGray Van",
                 "Rockford"
             ],
             "Joseph": [
@@ -1145,38 +1145,43 @@
                 "@ Store w/ Nate, \nDriver 1/2",
                 "none"
             ],
-            "Qiana": [
+            "Michael N": [
                 "7)",
-                "Driver, 1/2\nGray Van,\nSupv Rx",
+                "Driver, 1/2\nCamry 3",
+                "Rockford"
+            ],
+            "Qiana": [
+                "8)",
+                "Driver, 1/2\nCamry 3,\nSupv Rx",
                 "none"
             ],
             "Caitlin": [
-                "8)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Jerry D": [
-                "9)",
+                "10)",
                 "@ Store,\nRx",
                 "Milwaukee"
             ],
             "Lexi": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Pamela": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Paul": [
+            "Pamela": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Sonia": [
+            "Paul": [
                 "13)",
+                "@ Store",
+                "none"
+            ],
+            "Sonia": [
+                "14)",
                 "@ Store",
                 "none"
             ]
