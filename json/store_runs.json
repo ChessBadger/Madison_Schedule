@@ -481,7 +481,7 @@
         "employee_list": {
             "Nate": [
                 "1)",
-                "@ Store,\nDriver, 1/2\nOptima,\nEquip",
+                "@ Store, Driver,\nOptima,\nEquip",
                 "none"
             ],
             "Angela": [
@@ -526,7 +526,7 @@
             ],
             "Justin Lee": [
                 "10)",
-                "@ Store w/ Nate, Driver 1/2",
+                "@ Store",
                 "none"
             ],
             "Lori": [
