@@ -732,39 +732,39 @@
                 "Driver, 1/2\nSilver Van",
                 "Rockford"
             ],
-            "Joseph": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Josh S": [
-                "6)",
-                "",
-                "Rockford"
-            ],
-            "Justin Lee": [
-                "7)",
-                "Driver, 1/2\nOptima",
-                "none"
-            ],
-            "Michael N": [
-                "8)",
-                "",
-                "Rockford"
-            ],
-            "Qiana": [
-                "9)",
-                "Driver, 1/2\nSilver Van",
-                "none"
-            ],
             "Brianna": [
-                "10)",
+                "5)",
                 "@ Store\nAfter c-store",
                 "none"
             ],
             "Eva": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Joseph": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "8)",
+                "",
+                "Rockford"
+            ],
+            "Justin Lee": [
+                "9)",
+                "Driver, 1/2\nOptima",
+                "none"
+            ],
+            "Michael N": [
+                "10)",
+                "",
+                "Rockford"
+            ],
+            "Qiana": [
                 "11)",
-                "@ Store\nAfter c-store",
+                "Driver, 1/2\nSilver Van",
                 "none"
             ]
         }
@@ -792,11 +792,6 @@
             "Brianna": [
                 "1)",
                 "Driver,\nPrius, \nEquip",
-                "none"
-            ],
-            "Eva": [
-                "2)",
-                "Back w/ Groc crew",
                 "none"
             ]
         }
