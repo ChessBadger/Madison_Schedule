@@ -1618,6 +1618,33 @@
         }
     },
     {
+        "date": "Fri, Sep 19",
+        "meet_time": [],
+        "start_time": "8:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "YABBA DABBAS, MOLINE, IL"
+        ],
+        "address": [
+            "4416 AVENUE OF THE CITIES"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/QMV7Cg7RG2BzygPz5"
+        ],
+        "store_note": [
+            "*IL Meet is 6:00 am at IL office"
+        ],
+        "employee_list": {
+            "": [
+                "1)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
         "date": "Sat, Sep 20",
         "meet_time": [],
         "start_time": null,
