@@ -1418,29 +1418,29 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Ashley P": [
+            "Angela": [
                 "2)",
+                "w/ Nate for 1st site",
+                "none"
+            ],
+            "Ashley P": [
+                "3)",
                 "Driver, 1/2\nOptima",
                 "Rockford"
             ],
             "Eva": [
-                "3)",
+                "4)",
                 "",
                 "none"
             ],
             "Lori": [
-                "4)",
+                "5)",
                 "@ Store",
                 "none"
             ],
             "Nate": [
-                "5)",
-                "Driver, 1/2\nOptima\nSupv Viking OP",
-                "none"
-            ],
-            "Qiana": [
                 "6)",
-                "w/ Nate",
+                "Driver, 1/2\nOptima\nSupv Viking OP",
                 "none"
             ]
         }
@@ -1470,14 +1470,14 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Angela": [
+            "Joseph": [
                 "2)",
-                "Driver, 1/2\nCamry 3,\nRx",
+                "",
                 "none"
             ],
             "Justin Lee": [
                 "3)",
-                "Driver, 1/2\nCamry 3",
+                "Driver, 1/2\nCamry 3,\nRx",
                 "none"
             ],
             "Caitlin": [
@@ -1637,10 +1637,15 @@
             "*IL Meet is 6:00 am at IL office"
         ],
         "employee_list": {
-            "": [
+            "Qiana": [
                 "1)",
-                "",
+                "Driver,\nRed Camry, Equip",
                 "none"
+            ],
+            "Emily L": [
+                "2)",
+                "",
+                "Rockford"
             ]
         }
     },
