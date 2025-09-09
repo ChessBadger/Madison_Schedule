@@ -344,7 +344,8 @@
             "https://maps.app.goo.gl/d8KY7fwFQEoZdne67"
         ],
         "store_note": [
-            "*IL Meet is 4:45 am at IL office"
+            "*IL Meet is 4:45 am at IL office",
+            "*Ashley to drop off the Optima at Meineke upon arrival"
         ],
         "employee_list": {
             "Sarah": [
@@ -359,7 +360,7 @@
             ],
             "Ashley P": [
                 "3)",
-                "Driver,\nSilver Van",
+                "Driver,\nOptima",
                 "Rockford"
             ],
             "Josh S": [
@@ -391,7 +392,7 @@
         "employee_list": {
             "Nate": [
                 "1)",
-                "Driver, 1/2\nOptima, Equip",
+                "Driver, 1/2\nSilver Van, Equip",
                 "none"
             ],
             "Angela": [
@@ -406,7 +407,7 @@
             ],
             "Justin Lee": [
                 "4)",
-                "Driver, 1/2\nOptima",
+                "Driver, 1/2\nSilver Van",
                 "none"
             ]
         }
