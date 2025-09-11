@@ -656,7 +656,7 @@
             "DC5-FINANCIAL"
         ],
         "store_name": [
-            "SULLIVAN'S FOODS #295 +ACE, WINNEBAGO"
+            "SULLIVAN'S FOODS #295, WINNEBAGO"
         ],
         "address": [
             "703 N ELIDA STREET"
@@ -665,7 +665,8 @@
             "https://goo.gl/maps/XJm8iLALryeWSpAZ6"
         ],
         "store_note": [
-            "*No meet here for crew"
+            "*No meet here for crew",
+            "GROCERY SIDE ONLY - \nNO ACE COUNT"
         ],
         "employee_list": {
             "Brianna": [
@@ -673,48 +674,43 @@
                 "Equip",
                 "none"
             ],
-            "Angela": [
+            "Anisha": [
                 "2)",
                 "",
                 "none"
             ],
-            "Anisha": [
-                "3)",
-                "",
-                "none"
-            ],
             "Ashley P": [
-                "4)",
+                "3)",
                 "",
                 "Rockford"
             ],
             "Emily L": [
-                "5)",
+                "4)",
                 "",
                 "Rockford"
             ],
             "Eva": [
-                "6)",
+                "5)",
                 "",
                 "none"
             ],
             "Josh S": [
-                "7)",
+                "6)",
                 "",
                 "Rockford"
             ],
             "Justin Lee": [
-                "8)",
+                "7)",
                 "",
                 "none"
             ],
             "Nate": [
-                "9)",
+                "8)",
                 "Optima",
                 "none"
             ],
             "Qiana": [
-                "10)",
+                "9)",
                 "Camry 3",
                 "none"
             ]
