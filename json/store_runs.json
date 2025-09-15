@@ -430,32 +430,32 @@
                 "Driver,\nCamry 3",
                 "Rockford"
             ],
-            "DJ": [
+            "Caitlin": [
                 "5)",
                 "@ Store",
                 "none"
             ],
-            "Ian": [
+            "DJ": [
                 "6)",
                 "@ Store",
                 "none"
             ],
-            "Jerry D": [
+            "Ian": [
                 "7)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry D": [
+                "8)",
                 "@ Store",
                 "Milwaukee"
             ],
             "Katherine": [
-                "8)",
-                "@ Store",
-                "none"
-            ],
-            "Leyna": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Monica": [
+            "Leyna": [
                 "10)",
                 "@ Store",
                 "none"
@@ -1349,6 +1349,11 @@
             "*IL Meet is 5:45 am at IL office"
         ],
         "employee_list": {
+            "": [
+                "",
+                "",
+                "none"
+            ],
             "Nate": [
                 "1)",
                 "Driver, 1/2\nOptima, Equip",
