@@ -1842,8 +1842,7 @@
             "https://goo.gl/maps/DNgJfA4quxQ3MhAs5"
         ],
         "store_note": [
-            "*4:30 am IL office leave time",
-            "*Qiana to meet and ride w/ Sarah & Lori at WI Dells Walmart\n130 Commerce St, WI Dells"
+            "*4:30 am IL office leave time"
         ],
         "employee_list": {
             "Sarah": [
@@ -1856,7 +1855,7 @@
                 "",
                 "none"
             ],
-            "Qiana": [
+            "Palmer": [
                 "3)",
                 "Camry 3, bring Modas Equip & comp",
                 "none"
@@ -1895,7 +1894,7 @@
             ],
             "Joseph": [
                 "3)",
-                "Driver,\nRed Camry",
+                "Driver, 1/2\nRed Camry",
                 "none"
             ],
             "Josh S": [
@@ -1903,28 +1902,33 @@
                 "",
                 "Rockford"
             ],
-            "Jerry D": [
+            "Qiana": [
                 "5)",
+                "Driver, 1/2\nRed Camry",
+                "none"
+            ],
+            "Jerry D": [
+                "6)",
                 "@ Store",
                 "Milwaukee"
             ],
             "Katelyn": [
-                "6)",
+                "7)",
                 "@ Store,\n2nd week, work w/ Leyna",
                 "none"
             ],
             "Leyna": [
-                "7)",
+                "8)",
                 "@ Store,\nTrainer",
                 "none"
             ],
             "Pamela": [
-                "8)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Sonia": [
-                "9)",
+                "10)",
                 "@ Store",
                 "none"
             ]
