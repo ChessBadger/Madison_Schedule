@@ -2,13 +2,27 @@
     {
         "date": "Sun, Sep 14",
         "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [],
-        "address": [],
-        "link": [],
+        "start_time": "Festival Foods is going through the process of selling to new ownership.  Starting Thursday (9/18) there may be extra store personnel at the Festivals for the remainder of this round of inventories.  All processes are expected to remain the same, you may encounter a few extra recounts however due to the sale.  Thank you for all your hard work and for keeping our customers happy!",
+        "inv_type": [
+            ""
+        ],
+        "store_name": [
+            ""
+        ],
+        "address": [
+            ""
+        ],
+        "link": [
+            ""
+        ],
         "store_note": [],
-        "employee_list": {}
+        "employee_list": {
+            "": [
+                "",
+                "",
+                "none"
+            ]
+        }
     },
     {
         "date": "Mon, Sep 15",
@@ -858,13 +872,27 @@
     {
         "date": "Sun, Sep 21",
         "meet_time": [],
-        "start_time": null,
-        "inv_type": [],
-        "store_name": [],
-        "address": [],
-        "link": [],
+        "start_time": "Festival Foods is going through the process of selling to new ownership.  Starting Thursday (9/18) there may be extra store personnel at the Festivals for the remainder of this round of inventories.  All processes are expected to remain the same, you may encounter a few extra recounts however due to the sale.  Thank you for all your hard work and for keeping our customers happy!",
+        "inv_type": [
+            ""
+        ],
+        "store_name": [
+            ""
+        ],
+        "address": [
+            ""
+        ],
+        "link": [
+            ""
+        ],
         "store_note": [],
-        "employee_list": {}
+        "employee_list": {
+            "": [
+                "",
+                "",
+                "none"
+            ]
+        }
     },
     {
         "date": "Mon, Sep 22",
