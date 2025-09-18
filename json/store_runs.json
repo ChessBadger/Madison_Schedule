@@ -822,6 +822,11 @@
                 "11)",
                 "@ Store",
                 "none"
+            ],
+            "Nagui": [
+                "12)",
+                "@ Store",
+                "none"
             ]
         }
     },
@@ -836,13 +841,13 @@
             "CONTACT IS HAMAD"
         ],
         "address": [
-            "YABBA DABBAS, MOLINE, IL"
+            "HE IS BUYING THIS STORE TODAY (HAMAD)"
         ],
         "link": [
-            "4416 AVENUE OF THE CITIES"
+            "YABBA DABBAS, MOLINE, IL"
         ],
         "store_note": [
-            "https://maps.app.goo.gl/QMV7Cg7RG2BzygPz5",
+            "4416 AVENUE OF THE CITIES <br><hr id=\"note_separator\">https://maps.app.goo.gl/QMV7Cg7RG2BzygPz5",
             "*IL Meet is 6:00 am at IL office"
         ],
         "employee_list": {
