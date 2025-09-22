@@ -505,7 +505,8 @@
         ],
         "store_note": [
             "*IL Meet is 5:45 am at IL office",
-            "Covid tests should all be counted with a price. New vendor price is <br><hr id=\"note_separator\">in file.  If a site has old ones left will need to get a price on site."
+            "Covid tests should all be counted with a price. New vendor price is <br><hr id=\"note_separator\">in file.  If a site has old ones left will need to get a price on site.",
+            "*Nate - Drop off Optima after store at Safelite, and the service is already paid for*"
         ],
         "employee_list": {
             "Nate": [
@@ -837,12 +838,12 @@
         "employee_list": {
             "Nate": [
                 "1)",
-                "Driver, 1/2\nOptima, Equip",
+                "Driver, 1/2\nGray Van, Equip",
                 "none"
             ],
             "Ashley P": [
                 "2)",
-                "Driver, 1/2\nOptima,\nTrainer",
+                "Driver, 1/2\nGray Van,\nTrainer",
                 "Rockford"
             ],
             "Lori": [
@@ -1069,7 +1070,7 @@
             ],
             "Katelyn": [
                 "7)",
-                "@ Store,\n2nd week, work w/ Leyna",
+                "@ Store,\n2nd Festival (2nd week), work w/ Leyna",
                 "none"
             ],
             "Leyna": [
