@@ -712,23 +712,18 @@
                 "",
                 "Rockford"
             ],
-            "Joseph": [
+            "Laci": [
                 "3)",
                 "",
                 "none"
             ],
-            "Laci": [
-                "4)",
-                "",
-                "none"
-            ],
             "Spencer P": [
-                "5)",
+                "4)",
                 "",
                 "Rockford"
             ],
             "Tina E": [
-                "6)",
+                "5)",
                 "",
                 "Rockford"
             ]
@@ -997,9 +992,7 @@
             "https://goo.gl/maps/9f6ZvuRxzJ92",
             "https://goo.gl/maps/DNgJfA4quxQ3MhAs5"
         ],
-        "store_note": [
-            "*4:30 am IL office leave time"
-        ],
+        "store_note": [],
         "employee_list": {
             "Sarah": [
                 "1)",
@@ -1013,7 +1006,7 @@
             ],
             "Palmer": [
                 "3)",
-                "Bring Modas Equip & comp",
+                "@ Store, Bring Modas Equip & comp",
                 "none"
             ]
         }
