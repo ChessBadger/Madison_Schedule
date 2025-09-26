@@ -1773,12 +1773,22 @@
             ],
             "Michael N": [
                 "10)",
-                "Driver, 1/2\nSilver Van",
+                "Driver, 1/2\nSilver Van,\nTrainer",
                 "Rockford"
             ],
             "Qiana": [
                 "11)",
-                "Driver, 1/2\nRed Camry",
+                "Driver, 1/2\nRed Camry,\nTrainer",
+                "none"
+            ],
+            "Brianna E": [
+                "12)",
+                "@ Store,\n1st Day work w/ Qiana",
+                "none"
+            ],
+            "Sara S": [
+                "13)",
+                "@ Store, \n1st Day work w/ Michael",
                 "none"
             ]
         }
