@@ -1076,13 +1076,18 @@
                 "@ Store,\nTrainer",
                 "none"
             ],
-            "Pamela": [
+            "Nick": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Sonia": [
+            "Pamela": [
                 "11)",
+                "@ Store",
+                "none"
+            ],
+            "Sonia": [
+                "12)",
                 "@ Store",
                 "none"
             ]
