@@ -378,58 +378,27 @@
         "store_note": [
             "*IL Meet is 5:45 am at IL office",
             "*Sarah & Lori - meet at 7:30 am WI Dells Walmart",
-            "Moved to new location <br><hr id=\"note_separator\">Sarah <br><hr id=\"note_separator\">Ashley P <br><hr id=\"note_separator\">Eva <br><hr id=\"note_separator\">Lori",
-            "*IL Meet is 4:00 am at IL office"
+            "Moved to new location"
         ],
         "employee_list": {
-            "": [
-                "",
+            "Sarah": [
+                "1)",
+                "Driver, Equip",
+                "none"
+            ],
+            "Ashley P": [
+                "2)",
+                "Driver,\nRed Camry Bring 2 CK with you - in Rockford Office",
+                "Rockford"
+            ],
+            "Eva": [
+                "3)",
                 "",
                 "none"
             ],
-            "7:00 AM START": [
-                "",
-                "",
-                "none"
-            ],
-            "DC5-FINANCIAL": [
-                "",
-                "",
-                "none"
-            ],
-            "MAIN ST MOBIL MART, VIROQUA": [
-                "",
-                "",
-                "none"
-            ],
-            "726 N MAIN ST": [
-                "",
-                "",
-                "none"
-            ],
-            "https://maps.app.goo.gl/WjWfkbZWPYybFX1K6": [
-                "",
-                "",
-                "none"
-            ],
-            "APPROX 9:30/10:30 AM START": [
-                "",
-                "",
-                "none"
-            ],
-            "VERNON MEMORIAL RX, LA FARGE": [
-                "",
-                "",
-                "none"
-            ],
-            "206 N MILL ST": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/cSNQZeeujqT2": [
-                "",
-                "",
+            "Lori": [
+                "4)",
+                "w/ Sarah",
                 "none"
             ]
         }
@@ -437,21 +406,56 @@
     {
         "date": "Tue, Sep 30",
         "meet_time": [],
-        "start_time": "Nate",
+        "start_time": "7:00 AM START",
         "inv_type": [
-            "Justin Lee"
+            "DC5-FINANCIAL",
+            "DC5-FINANCIAL"
         ],
         "store_name": [
-            ""
+            "MAIN ST MOBIL MART, VIROQUA",
+            "VERNON MEMORIAL RX, LA FARGE"
         ],
         "address": [
-            ""
+            "726 N MAIN ST",
+            "206 N MILL ST"
         ],
         "link": [
-            "9:00 AM START"
+            "https://maps.app.goo.gl/WjWfkbZWPYybFX1K6",
+            "https://goo.gl/maps/cSNQZeeujqT2"
         ],
         "store_note": [
-            "DC5-FINANCIAL - AT COST <br><hr id=\"note_separator\">CITGO, SOMONAUK <br><hr id=\"note_separator\">150 E MARKET ST <br><hr id=\"note_separator\">https://maps.app.goo.gl/gQ3wbr7ML9W1WV938",
+            "*IL Meet is 4:00 am at IL office"
+        ],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "Driver, 1/2\nOptima, Equip",
+                "none"
+            ],
+            "Justin Lee": [
+                "2)",
+                "Driver, 1/2",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Sep 30",
+        "meet_time": [],
+        "start_time": "9:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL - AT COST"
+        ],
+        "store_name": [
+            "CITGO, SOMONAUK"
+        ],
+        "address": [
+            "150 E MARKET ST"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/gQ3wbr7ML9W1WV938"
+        ],
+        "store_note": [
             "*IL Meet is 7:30 am at IL office"
         ],
         "employee_list": {
