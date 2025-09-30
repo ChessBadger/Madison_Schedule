@@ -1051,42 +1051,17 @@
         ],
         "store_note": [
             "*IL Meet is 5:15 am at IL office",
-            "Make sure to use regular price. The digital price tags make it difficult to figure out actual <br><hr id=\"note_separator\">retail, we need to count everything at the sale price first and then recount with the \"save <br><hr id=\"note_separator\">x.xx\".  Manager here also doesn't look over report until the end"
+            "USE PRICE LISTED ON SHELF TAGS"
         ],
         "employee_list": {
-            "Bri": [
-                "1)",
-                "@ Store, Equip",
-                "none"
-            ],
-            "Anisha": [
-                "2)",
+            "x.xx\".  Manager here also doesn't look over report until the end": [
+                "",
                 "",
                 "none"
             ],
-            "Emily L": [
-                "3)",
+            "5:00 am meet for Sarah & Lori at Hwy N PnR": [
                 "",
-                "Rockford"
-            ],
-            "Josh S": [
-                "4)",
                 "",
-                "Rockford"
-            ],
-            "Justin Lee": [
-                "5)",
-                "Driver,\nRed Camry",
-                "none"
-            ],
-            "Lori": [
-                "6)",
-                "Driver 1/2",
-                "none"
-            ],
-            "Sarah": [
-                "7)",
-                "Driver 1/2",
                 "none"
             ]
         }
@@ -1094,26 +1069,52 @@
     {
         "date": "Mon, Oct 6",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Bri",
         "inv_type": [
-            "SCAN-ITEM LEVEL"
+            "Anisha"
         ],
         "store_name": [
-            "AURORA OUTPATIENT RX #1068, WATERFORD"
+            "Emily L"
         ],
         "address": [
-            "818 FORREST LANE, SUITE 101"
+            "Josh S"
         ],
         "link": [
-            "https://goo.gl/maps/34AqDr4Gxcn8xkqSA"
+            "Justin Lee"
         ],
         "store_note": [
+            "Lori <br><hr id=\"note_separator\">Sarah",
             "*4:45 am office leave time"
         ],
         "employee_list": {
-            "Nate": [
-                "1)",
-                "Optima, Equip",
+            "": [
+                "",
+                "",
+                "none"
+            ],
+            "6:00 AM START": [
+                "",
+                "",
+                "none"
+            ],
+            "SCAN-ITEM LEVEL": [
+                "",
+                "",
+                "none"
+            ],
+            "AURORA OUTPATIENT RX #1068, WATERFORD": [
+                "",
+                "",
+                "none"
+            ],
+            "818 FORREST LANE, SUITE 101": [
+                "",
+                "",
+                "none"
+            ],
+            "https://goo.gl/maps/34AqDr4Gxcn8xkqSA": [
+                "",
+                "",
                 "none"
             ]
         }
@@ -1121,20 +1122,21 @@
     {
         "date": "Mon, Oct 6",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Nate",
         "inv_type": [
-            "DC5-FINANCIAL"
+            ""
         ],
         "store_name": [
-            "DANIELS SENTRY #2883 +C-STORE, WALWORTH"
+            ""
         ],
         "address": [
-            "681 KENOSHA STREET"
+            "6:00 AM START"
         ],
         "link": [
-            "https://goo.gl/maps/HNNz6gdZ7vw"
+            "DC5-FINANCIAL"
         ],
         "store_note": [
+            "DANIELS SENTRY #2883 +C-STORE, WALWORTH <br><hr id=\"note_separator\">681 KENOSHA STREET <br><hr id=\"note_separator\">https://goo.gl/maps/HNNz6gdZ7vw",
             "*IL Meet is 5:00 am at IL office"
         ],
         "employee_list": {
