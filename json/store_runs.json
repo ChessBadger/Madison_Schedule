@@ -1163,13 +1163,8 @@
                 "@ Store,\nTrainer",
                 "none"
             ],
-            "Sara S": [
-                "8)",
-                "@ Store,\n1st financial,\nwork w/ Leyna",
-                "none"
-            ],
             "Sophia": [
-                "9)",
+                "8)",
                 "@ Store,\n4th week",
                 "none"
             ]
@@ -1256,7 +1251,7 @@
             ],
             "Anisha": [
                 "2)",
-                "Trainer",
+                "",
                 "none"
             ],
             "Ashley P": [
@@ -1299,13 +1294,8 @@
                 "@ Store",
                 "none"
             ],
-            "Sara S": [
-                "11)",
-                "@ Store,\n2nd week, work w/ Anisha",
-                "none"
-            ],
             "Sonia": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ]
@@ -1534,11 +1524,6 @@
             "Paul": [
                 "13)",
                 "@ Store, After Aurora",
-                "none"
-            ],
-            "Sara S": [
-                "14)",
-                "@ Store,\n2nd week, work w/ Leyna",
                 "none"
             ]
         }
