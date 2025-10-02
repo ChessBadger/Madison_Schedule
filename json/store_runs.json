@@ -777,43 +777,58 @@
                 "@ Store,\nTrainer",
                 "none"
             ],
-            "DJ": [
+            "Cynthia": [
                 "4)",
+                "@ Store",
+                "none"
+            ],
+            "DJ": [
+                "5)",
                 "@ Store, After Aurora",
                 "none"
             ],
             "Greg": [
-                "5)",
+                "6)",
                 "@ Store,\n2nd week, work w/ Carlie",
                 "none"
             ],
             "Jerry D": [
-                "6)",
+                "7)",
                 "@ Store",
                 "Milwaukee"
             ],
             "Katelyn": [
-                "7)",
+                "8)",
                 "@ Store,\n3rd week, work w/ Leyna",
                 "none"
             ],
+            "Kim": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
             "Leyna": [
-                "8)",
+                "10)",
                 "@ Store,\nTrainer",
                 "none"
             ],
             "Monica": [
-                "9)",
+                "11)",
                 "@ Store, After Aurora",
                 "none"
             ],
             "Pamela": [
-                "10)",
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Paul": [
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Sonia": [
-                "11)",
+                "14)",
                 "@ Store",
                 "none"
             ]
