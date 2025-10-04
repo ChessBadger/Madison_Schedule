@@ -1174,13 +1174,18 @@
                 "@ Store, After Aurora",
                 "none"
             ],
-            "Leyna": [
+            "Katherine": [
                 "7)",
+                "@ Store",
+                "none"
+            ],
+            "Leyna": [
+                "8)",
                 "@ Store,\nTrainer",
                 "none"
             ],
             "Sophia": [
-                "8)",
+                "9)",
                 "@ Store,\n4th week",
                 "none"
             ]
@@ -1522,24 +1527,34 @@
                 "@ Store, After Aurora",
                 "none"
             ],
-            "Lexi": [
+            "Katherine": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Leyna": [
+            "Lexi": [
                 "11)",
+                "@ Store",
+                "none"
+            ],
+            "Leyna": [
+                "12)",
                 "@ Store,\nTrainer",
                 "none"
             ],
             "Monica": [
-                "12)",
+                "13)",
                 "@ Store, After Aurora",
                 "none"
             ],
             "Paul": [
-                "13)",
+                "14)",
                 "@ Store, After Aurora",
+                "none"
+            ],
+            "Sue": [
+                "15)",
+                "@ Store",
                 "none"
             ]
         }
