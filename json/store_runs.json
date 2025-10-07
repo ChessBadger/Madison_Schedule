@@ -1249,78 +1249,68 @@
                 "@ Store, Optima, Equip",
                 "none"
             ],
-            "Anisha": [
-                "2)",
-                "",
-                "none"
-            ],
             "Ashley P": [
-                "3)",
+                "2)",
                 "Driver, \nRed Camry",
                 "Rockford"
             ],
             "Bri": [
-                "4)",
+                "3)",
                 "@ Store",
                 "none"
             ],
             "Elijah": [
-                "5)",
+                "4)",
                 "",
                 "none"
             ],
             "Eva": [
-                "6)",
+                "5)",
                 "",
                 "none"
             ],
-            "Josh S": [
-                "7)",
-                "",
-                "Rockford"
-            ],
             "Justin Lee": [
-                "8)",
+                "6)",
                 "Driver, 1/2\nCamry 3",
                 "none"
             ],
             "Michael N": [
-                "9)",
+                "7)",
                 "Driver, 1/2\nCamry 3,\nRx",
                 "Rockford"
             ],
             "Caitlin": [
-                "10)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Jerry D": [
-                "11)",
+                "9)",
                 "@ Store, Supv Rx",
                 "Milwaukee"
             ],
             "Katelyn": [
-                "12)",
+                "10)",
                 "@ Store,\nwork w/ Leyna",
                 "none"
             ],
             "Katherine": [
-                "13)",
+                "11)",
                 "@ Store,\nAfter Aurora",
                 "none"
             ],
             "Lexi": [
-                "14)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Leyna": [
-                "15)",
+                "13)",
                 "@ Store,\nTrainer",
                 "none"
             ],
             "Sue": [
-                "16)",
+                "14)",
                 "@ Store,\nAfter Aurora",
                 "none"
             ]
@@ -1434,30 +1424,77 @@
                 "Driver,\nSilver Van, Equip",
                 "none"
             ],
-            "Emily L": [
-                "2)",
-                "",
-                "Rockford"
-            ],
             "Joseph": [
-                "3)",
+                "2)",
                 "",
                 "none"
             ],
             "Lori": [
-                "4)",
+                "3)",
                 "@ Store",
                 "none"
             ],
             "Sarah": [
-                "5)",
+                "4)",
                 "@ Store",
                 "none"
             ],
             "Savannah": [
-                "6)",
+                "5)",
                 "@ Store",
                 "none"
+            ]
+        }
+    },
+    {
+        "date": "Wed, Oct 15",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "MODAS-SCAN"
+        ],
+        "store_name": [
+            "KELLEY #40, MARKETSIDE MOBIL, ROCKFORD"
+        ],
+        "address": [
+            "5810 E STATE ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/q7CN8T4aEcR2"
+        ],
+        "store_note": [
+            "Please be careful to scan only product barcodes, and not the shelf scan tags"
+        ],
+        "employee_list": {
+            "Mike G": [
+                "1)",
+                "Equip",
+                "Rockford"
+            ],
+            "Anisha": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Emily L": [
+                "3)",
+                "",
+                "Rockford"
+            ],
+            "Josh S": [
+                "4)",
+                "",
+                "Rockford"
+            ],
+            "Laci": [
+                "5)",
+                "",
+                "none"
+            ],
+            "Tina E": [
+                "6)",
+                "",
+                "Rockford"
             ]
         }
     },
