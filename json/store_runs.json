@@ -254,43 +254,48 @@
                 "Driver,\nSilver Van",
                 "Rockford"
             ],
-            "Josh S": [
+            "Elijah": [
                 "4)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "5)",
                 "",
                 "Rockford"
             ],
             "Lori": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Sarah": [
                 "6)",
                 "@ Store",
                 "none"
             ],
-            "Cynthia": [
+            "Sarah": [
                 "7)",
                 "@ Store",
                 "none"
             ],
-            "Jerry D": [
+            "Cynthia": [
                 "8)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry D": [
+                "9)",
                 "@ Store",
                 "Milwaukee"
             ],
             "Leyna": [
-                "9)",
+                "10)",
                 "@ Store,\nTrainer",
                 "none"
             ],
             "Pamela": [
-                "10)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Sophia": [
-                "11)",
+                "12)",
                 "@ Store,\nwork w/ Leyna",
                 "none"
             ]
@@ -427,58 +432,53 @@
                 "@ Store",
                 "none"
             ],
-            "Elijah": [
+            "Eva": [
                 "4)",
                 "",
                 "none"
             ],
-            "Eva": [
-                "5)",
-                "",
-                "none"
-            ],
             "Justin Lee": [
-                "6)",
+                "5)",
                 "Driver, 1/2\nCamry 3",
                 "none"
             ],
             "Michael N": [
-                "7)",
+                "6)",
                 "Driver, 1/2\nCamry 3,\nRx",
                 "Rockford"
             ],
             "Caitlin": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Jerry D": [
-                "9)",
+                "8)",
                 "@ Store, Supv Rx",
                 "Milwaukee"
             ],
             "Katelyn": [
-                "10)",
+                "9)",
                 "@ Store,\nwork w/ Leyna",
                 "none"
             ],
             "Katherine": [
-                "11)",
+                "10)",
                 "@ Store,\nAfter Aurora",
                 "none"
             ],
             "Lexi": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Leyna": [
-                "13)",
+                "12)",
                 "@ Store,\nTrainer",
                 "none"
             ],
             "Sue": [
-                "14)",
+                "13)",
                 "@ Store,\nAfter Aurora",
                 "none"
             ]
