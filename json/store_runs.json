@@ -910,7 +910,7 @@
         "employee_list": {
             "Qiana": [
                 "1)",
-                "@ Store,\nCamry 3, Equip",
+                "@ Store,\nGray Van, Equip",
                 "none"
             ],
             "Emily L": [
@@ -1575,38 +1575,43 @@
                 "Driver, 1/2\nOptima,\nTrainer",
                 "none"
             ],
-            "Caitlin": [
+            "Andrew": [
                 "11)",
-                "@ Store",
+                "@ Store,\n1st Day, work w/ Leyna",
                 "none"
             ],
-            "Carlie": [
+            "Caitlin": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Cynthia": [
+            "Carlie": [
                 "13)",
-                "@ Store",
+                "@ Store,\nTrainer",
                 "none"
             ],
-            "DJ": [
+            "Cynthia": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Leyna": [
+            "DJ": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Pamela": [
+            "Eric": [
                 "16)",
-                "@ Store",
+                "@ Store,\n1st Scan, work w/ Carlie",
+                "none"
+            ],
+            "Leyna": [
+                "17)",
+                "@ Store,\nTrainer",
                 "none"
             ],
             "Paul": [
-                "17)",
+                "18)",
                 "@ Store",
                 "none"
             ]
@@ -1707,8 +1712,13 @@
                 "@ Store",
                 "none"
             ],
-            "Sonia": [
+            "Pamela": [
                 "16)",
+                "@ Store",
+                "none"
+            ],
+            "Sonia": [
+                "17)",
                 "@ Store",
                 "none"
             ]
@@ -1837,23 +1847,28 @@
                 "Driver 1/2",
                 "none"
             ],
-            "Ian": [
+            "Andrew": [
                 "12)",
-                "@ Store",
+                "@ Store,\n2nd Day, work w/ Leyna",
                 "none"
             ],
-            "Katelyn": [
+            "Ian": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Leyna": [
+            "Katelyn": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Sophia": [
+            "Leyna": [
                 "15)",
+                "@ Store,\nTrainer",
+                "none"
+            ],
+            "Sophia": [
+                "16)",
                 "@ Store",
                 "none"
             ]
