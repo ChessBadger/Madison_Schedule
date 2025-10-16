@@ -920,7 +920,7 @@
             ],
             "Justin Lee": [
                 "3)",
-                "Driver,\nRed Camry",
+                "Driver,\nCamry 3\n(don't fill with fuel after)",
                 "none"
             ],
             "Lori": [
@@ -1030,7 +1030,9 @@
             "https://maps.app.goo.gl/PSdR7Y47sbaRqADs8",
             "https://maps.app.goo.gl/V2XbAwsF4cgwMQ2p9"
         ],
-        "store_note": [],
+        "store_note": [
+            "*Bri / Nate get Camry 3 over to Buttitas after the store please"
+        ],
         "employee_list": {
             "Bri": [
                 "1)",
@@ -1039,7 +1041,7 @@
             ],
             "Nate": [
                 "2)",
-                "",
+                "Use Camry 3",
                 "none"
             ]
         }
@@ -1218,7 +1220,7 @@
         "employee_list": {
             "Qiana": [
                 "1)",
-                "@ Store,\nCamry 3, Equip",
+                "@ Store,\nGray Van, Equip",
                 "none"
             ],
             "Anisha": [
@@ -1318,7 +1320,7 @@
         "employee_list": {
             "Qiana": [
                 "1)",
-                "@ Store,\nCamry 3, Equip",
+                "@ Store,\nRed Camry, Equip",
                 "none"
             ],
             "Anisha": [
@@ -1829,7 +1831,7 @@
             ],
             "Justin Lee": [
                 "8)",
-                "Driver, 1/2\nCamry 3",
+                "Driver, 1/2\nRed Camry",
                 "none"
             ],
             "Lori": [
@@ -1839,7 +1841,7 @@
             ],
             "Qiana": [
                 "10)",
-                "Driver, 1/2\nCamry 3,\nTrainer",
+                "Driver, 1/2\nRed Camry,\nTrainer",
                 "none"
             ],
             "Sarah": [
