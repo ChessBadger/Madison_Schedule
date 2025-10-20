@@ -1,6 +1,6 @@
 [
     {
-        "date": "Sun, Oct 19",
+        "date": "",
         "meet_time": [],
         "start_time": null,
         "inv_type": [],
@@ -11,7 +11,7 @@
         "employee_list": {}
     },
     {
-        "date": "Mon, Oct 20",
+        "date": "Sun, Dec 31",
         "meet_time": [],
         "start_time": "7:00 AM START",
         "inv_type": [
@@ -64,7 +64,7 @@
         }
     },
     {
-        "date": "Mon, Oct 20",
+        "date": "Sun, Dec 31",
         "meet_time": [],
         "start_time": "7:00 AM START",
         "inv_type": [
@@ -100,7 +100,7 @@
         }
     },
     {
-        "date": "Mon, Oct 20",
+        "date": "Sun, Dec 31",
         "meet_time": [],
         "start_time": "6:30 AM START",
         "inv_type": [
@@ -148,7 +148,7 @@
         }
     },
     {
-        "date": "Tue, Oct 21",
+        "date": "Mon, Jan 1",
         "meet_time": [],
         "start_time": "6:30 AM START",
         "inv_type": [
@@ -251,7 +251,7 @@
         }
     },
     {
-        "date": "Tue, Oct 21",
+        "date": "Mon, Jan 1",
         "meet_time": [],
         "start_time": "6:30 AM START",
         "inv_type": [
@@ -299,7 +299,7 @@
         }
     },
     {
-        "date": "Tue, Oct 21",
+        "date": "Mon, Jan 1",
         "meet_time": [],
         "start_time": "6:30 AM START",
         "inv_type": [
@@ -351,7 +351,7 @@
         }
     },
     {
-        "date": "Wed, Oct 22",
+        "date": "Tue, Jan 2",
         "meet_time": [],
         "start_time": "6:30 AMSTART",
         "inv_type": [
@@ -404,7 +404,7 @@
         }
     },
     {
-        "date": "Wed, Oct 22",
+        "date": "Tue, Jan 2",
         "meet_time": [],
         "start_time": "7:00 AM START",
         "inv_type": [
@@ -476,7 +476,7 @@
         }
     },
     {
-        "date": "Wed, Oct 22",
+        "date": "Tue, Jan 2",
         "meet_time": [],
         "start_time": "7:00 AM START",
         "inv_type": [
@@ -508,7 +508,7 @@
         }
     },
     {
-        "date": "Wed, Oct 22",
+        "date": "Tue, Jan 2",
         "meet_time": [],
         "start_time": "6:30 AM START",
         "inv_type": [
@@ -560,7 +560,7 @@
         }
     },
     {
-        "date": "Thu, Oct 23",
+        "date": "Wed, Jan 3",
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -673,7 +673,7 @@
         }
     },
     {
-        "date": "Thu, Oct 23",
+        "date": "Wed, Jan 3",
         "meet_time": [],
         "start_time": "6:30 AM START",
         "inv_type": [
@@ -780,7 +780,7 @@
         }
     },
     {
-        "date": "Thu, Oct 23",
+        "date": "Wed, Jan 3",
         "meet_time": [],
         "start_time": "6:30 AM START",
         "inv_type": [
@@ -827,7 +827,7 @@
         }
     },
     {
-        "date": "Fri, Oct 24",
+        "date": "Thu, Jan 4",
         "meet_time": [],
         "start_time": "6:00 AM START",
         "inv_type": [
@@ -930,7 +930,7 @@
         }
     },
     {
-        "date": "Sat, Oct 25",
+        "date": "Fri, Jan 5",
         "meet_time": [],
         "start_time": null,
         "inv_type": [],
