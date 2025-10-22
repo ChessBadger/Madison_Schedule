@@ -1194,58 +1194,63 @@
                 "@ Store",
                 "none"
             ],
-            "Cynthia": [
+            "Caitlin": [
                 "3)",
                 "@ Store",
                 "none"
             ],
-            "Dan": [
+            "Cynthia": [
                 "4)",
                 "@ Store",
                 "none"
             ],
-            "Jeremiah": [
+            "Dan": [
                 "5)",
                 "@ Store",
                 "none"
             ],
-            "Kim": [
+            "Jeremiah": [
                 "6)",
                 "@ Store",
                 "none"
             ],
-            "Kirsten": [
+            "Kim": [
                 "7)",
                 "@ Store",
                 "none"
             ],
-            "Madison": [
+            "Kirsten": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Mai": [
+            "Madison": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Monica": [
+            "Mai": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Nagui": [
+            "Monica": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Paul": [
+            "Nagui": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Terri": [
+            "Paul": [
                 "13)",
+                "@ Store",
+                "none"
+            ],
+            "Terri": [
+                "14)",
                 "@ Store",
                 "none"
             ]
@@ -1317,7 +1322,8 @@
             "https://goo.gl/maps/WgMCr1tJCE12"
         ],
         "store_note": [
-            "*IL Meet is 4:00 am at IL office"
+            "*IL Meet is 4:00 am at IL office",
+            "*Katherine will start at a c-store and will check in after she finishes"
         ],
         "employee_list": {
             "Ashley P": [
@@ -1345,14 +1351,14 @@
                 "@ Store,\nwork w/ Leyna",
                 "none"
             ],
-            "Caitlin": [
+            "Greg": [
                 "6)",
                 "@ Store",
                 "none"
             ],
-            "Greg": [
+            "Katherine": [
                 "7)",
-                "@ Store",
+                "@ Store, After cstore",
                 "none"
             ],
             "Leyna": [
