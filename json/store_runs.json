@@ -485,59 +485,54 @@
                 "Driver, 1/2\nSilver Van,\nSupv Rx",
                 "Rockford"
             ],
-            "Elijah": [
-                "3)",
-                "",
-                "none"
-            ],
             "Michael N": [
-                "4)",
+                "3)",
                 "",
                 "Rockford"
             ],
             "Nate": [
-                "5)",
+                "4)",
                 "Driver, 1/2\nSilver Van,\nRx",
                 "none"
             ],
             "Andrew": [
-                "6)",
+                "5)",
                 "@ Store,\nwork w/ Leyna",
                 "none"
             ],
             "Carlie": [
-                "7)",
+                "6)",
                 "@ Store,\nTrainer",
                 "none"
             ],
-            "Eric": [
-                "8)",
-                "@ Store,\nwork w/ Carlie",
-                "none"
-            ],
             "Greg": [
-                "9)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Katelyn": [
-                "10)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Leyna": [
-                "11)",
+                "9)",
                 "@ Store,\nTrainer",
                 "none"
             ],
             "Sonia": [
-                "12)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Sophia": [
-                "13)",
+                "11)",
                 "@ Store",
+                "none"
+            ],
+            "Zakiyah": [
+                "12)",
+                "@ Store,\nwork w/ Carlie",
                 "none"
             ]
         }
@@ -735,49 +730,49 @@
                 "Driver, 1/2\nRed Camry",
                 "Rockford"
             ],
-            "Emily L": [
+            "Elijah": [
                 "3)",
+                "",
+                "none"
+            ],
+            "Emily L": [
+                "4)",
                 "",
                 "Rockford"
             ],
             "Eva": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Joseph": [
                 "5)",
                 "",
                 "none"
             ],
-            "Michael N": [
+            "Joseph": [
                 "6)",
+                "",
+                "none"
+            ],
+            "Michael N": [
+                "7)",
                 "Driver, 1/2\nRed Camry",
                 "Rockford"
             ],
             "Nate": [
-                "7)",
-                "Driver, 1/2\nOptima",
-                "none"
-            ],
-            "Qiana": [
                 "8)",
                 "Driver, 1/2\nOptima",
                 "none"
             ],
-            "Carlie": [
+            "Qiana": [
                 "9)",
-                "@ Store,\nTrainer",
+                "Driver, 1/2\nOptima",
                 "none"
             ],
-            "Cynthia": [
+            "Carlie": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Eric": [
+            "Cynthia": [
                 "11)",
-                "@ Store,\nwork w/ Carlie",
+                "@ Store",
                 "none"
             ],
             "Pamela": [
@@ -1309,7 +1304,7 @@
             ],
             "Ashley P": [
                 "3)",
-                "Driver, 1/2\nRed Camry,\nTrainer",
+                "Driver, 1/2\nRed Camry",
                 "Rockford"
             ],
             "Elijah": [
@@ -1352,28 +1347,23 @@
                 "@ Store,\nwork w/ Qiana",
                 "none"
             ],
-            "Eric": [
-                "12)",
-                "@ Store,\nwork w/ Ashley",
-                "none"
-            ],
             "Jerry D": [
-                "13)",
+                "12)",
                 "@ Store",
                 "Milwaukee"
             ],
             "Leyna": [
-                "14)",
+                "13)",
                 "@ Store,\nTrainer",
                 "none"
             ],
             "Sonia": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Sue": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ]
@@ -1506,7 +1496,7 @@
             ],
             "Ashley P": [
                 "3)",
-                "Driver, 1/2\nSilver Van,\nTrainer",
+                "Driver, 1/2\nSilver Van",
                 "Rockford"
             ],
             "Elijah": [
@@ -1559,28 +1549,23 @@
                 "@ Store",
                 "none"
             ],
-            "Eric": [
-                "14)",
-                "@ Store,\nwork w/ Ashley",
-                "none"
-            ],
             "Greg": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Ian": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Jerry D": [
-                "17)",
+                "16)",
                 "@ Store",
                 "Milwaukee"
             ],
             "Sonia": [
-                "18)",
+                "17)",
                 "@ Store",
                 "none"
             ]
@@ -1798,18 +1783,13 @@
                 "Driver, 1/2\nCamry 3,\nTrainer",
                 "none"
             ],
-            "Eric": [
-                "5)",
-                "@ Store,\nwork w/ Justin",
-                "none"
-            ],
             "Ian": [
-                "6)",
+                "5)",
                 "@ Store",
                 "none"
             ],
             "Zakiyah": [
-                "7)",
+                "6)",
                 "@ Store,\nwork w/ Justin",
                 "none"
             ]
