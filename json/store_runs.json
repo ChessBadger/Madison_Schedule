@@ -625,13 +625,8 @@
                 "",
                 "Rockford"
             ],
-            "Laci": [
-                "5)",
-                "",
-                "none"
-            ],
             "Tina E": [
-                "6)",
+                "5)",
                 "",
                 "Rockford"
             ]
@@ -1601,38 +1596,43 @@
                 "@ Store",
                 "none"
             ],
-            "Lori": [
+            "Josie": [
                 "3)",
-                "@ Store",
+                "@ Store, Until 10",
                 "none"
             ],
-            "Jeremiah": [
+            "Lori": [
                 "4)",
                 "@ Store",
                 "none"
             ],
-            "Jerry S": [
+            "Jeremiah": [
                 "5)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry S": [
+                "6)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Kirsten": [
-                "6)",
-                "@ Store",
-                "none"
-            ],
-            "Mai": [
                 "7)",
                 "@ Store",
                 "none"
             ],
-            "Marcia": [
+            "Mai": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Taya": [
+            "Marcia": [
                 "9)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "10)",
                 "@ Store",
                 "none"
             ]
