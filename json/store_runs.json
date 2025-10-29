@@ -720,68 +720,73 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Ashley P": [
+            "Anisha": [
                 "2)",
-                "Driver, 1/2\nRed Camry",
+                "",
+                "none"
+            ],
+            "Ashley P": [
+                "3)",
+                "Driver, 1/2\nSilver Van",
                 "Rockford"
             ],
             "Elijah": [
-                "3)",
+                "4)",
                 "",
                 "none"
             ],
             "Emily L": [
-                "4)",
+                "5)",
                 "",
                 "Rockford"
             ],
             "Eva": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Joseph": [
                 "6)",
                 "",
                 "none"
             ],
-            "Michael N": [
+            "Joseph": [
                 "7)",
-                "Driver, 1/2\nRed Camry",
+                "",
+                "none"
+            ],
+            "Michael N": [
+                "8)",
+                "Driver, 1/2\nSilver Van",
                 "Rockford"
             ],
             "Nate": [
-                "8)",
-                "Driver, 1/2\nOptima",
-                "none"
-            ],
-            "Qiana": [
                 "9)",
                 "Driver, 1/2\nOptima",
                 "none"
             ],
-            "Carlie": [
+            "Qiana": [
                 "10)",
-                "@ Store",
+                "Driver, 1/2\nOptima",
                 "none"
             ],
-            "Cynthia": [
+            "Carlie": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Pamela": [
+            "Cynthia": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Paul": [
+            "Pamela": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Sue": [
+            "Paul": [
                 "14)",
+                "@ Store",
+                "none"
+            ],
+            "Sue": [
+                "15)",
                 "@ Store",
                 "none"
             ]
@@ -882,73 +887,78 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Ashley P": [
+            "Anisha": [
                 "2)",
-                "Driver, 1/2\nRed Camry",
-                "Rockford"
-            ],
-            "Elijah": [
-                "3)",
                 "",
                 "none"
             ],
-            "Eva": [
+            "Ashley P": [
+                "3)",
+                "Driver, 1/2\nSilver Van",
+                "Rockford"
+            ],
+            "Elijah": [
                 "4)",
                 "",
                 "none"
             ],
-            "Joseph": [
+            "Eva": [
                 "5)",
                 "",
                 "none"
             ],
-            "Josh S": [
+            "Joseph": [
                 "6)",
+                "",
+                "none"
+            ],
+            "Josh S": [
+                "7)",
                 "",
                 "Rockford"
             ],
             "Justin Lee": [
-                "7)",
-                "Driver, 1/2\nOptima",
-                "none"
-            ],
-            "Nate": [
                 "8)",
                 "Driver, 1/2\nOptima",
                 "none"
             ],
-            "Qiana": [
+            "Nate": [
                 "9)",
-                "Driver, 1/2\nRed Camry",
+                "Driver, 1/2\nOptima",
+                "none"
+            ],
+            "Qiana": [
+                "10)",
+                "Driver, 1/2\nSilver Van",
                 "none"
             ],
             "Caitlin": [
-                "10)",
-                "@ Store",
-                "none"
-            ],
-            "Cynthia": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Ian": [
+            "Cynthia": [
                 "12)",
+                "@ Store",
+                "none"
+            ],
+            "Ian": [
+                "13)",
                 "@ Store, After Aurora",
                 "none"
             ],
             "Jerry D": [
-                "13)",
+                "14)",
                 "@ Store",
                 "Milwaukee"
             ],
             "Katelyn": [
-                "14)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Pamela": [
-                "15)",
+                "16)",
                 "@ Store",
                 "none"
             ]
