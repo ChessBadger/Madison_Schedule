@@ -1264,18 +1264,13 @@
                 "",
                 "Rockford"
             ],
-            "Laci": [
-                "4)",
-                "",
-                "none"
-            ],
             "Michael N": [
-                "5)",
+                "4)",
                 "",
                 "Rockford"
             ],
             "Tina E": [
-                "6)",
+                "5)",
                 "",
                 "Rockford"
             ]
@@ -1455,21 +1450,31 @@
                 "5)",
                 "",
                 "none"
-            ],
-            "Laci": [
-                "6)",
+            ]
+        }
+    },
+    {
+        "date": "Wed, Nov 5",
+        "meet_time": [],
+        "start_time": "Mike G",
+        "inv_type": [
+            "Tina E"
+        ],
+        "store_name": [
+            ""
+        ],
+        "address": [
+            ""
+        ],
+        "link": [
+            ""
+        ],
+        "store_note": [],
+        "employee_list": {
+            "": [
+                "",
                 "",
                 "none"
-            ],
-            "Mike G": [
-                "7)",
-                "",
-                "Rockford"
-            ],
-            "Tina E": [
-                "8)",
-                "",
-                "Rockford"
             ]
         }
     },
@@ -1688,16 +1693,31 @@
                 "3)",
                 "Driver,\nRed Camry",
                 "Rockford"
-            ],
-            "Laci": [
-                "4)",
+            ]
+        }
+    },
+    {
+        "date": "Thu, Nov 6",
+        "meet_time": [],
+        "start_time": "Tina E",
+        "inv_type": [
+            ""
+        ],
+        "store_name": [
+            ""
+        ],
+        "address": [
+            ""
+        ],
+        "link": [
+            ""
+        ],
+        "store_note": [],
+        "employee_list": {
+            "": [
+                "",
                 "",
                 "none"
-            ],
-            "Tina E": [
-                "5)",
-                "@ Store",
-                "Rockford"
             ]
         }
     },
