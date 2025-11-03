@@ -538,68 +538,63 @@
                 "",
                 "none"
             ],
-            "Eva": [
-                "5)",
-                "",
-                "none"
-            ],
             "Joseph": [
-                "6)",
+                "5)",
                 "Rx",
                 "none"
             ],
             "Josh S": [
-                "7)",
+                "6)",
                 "shadow Michael",
                 "Rockford"
             ],
             "Justin Lee": [
-                "8)",
+                "7)",
                 "Driver, 1/2\nSilver Van",
                 "none"
             ],
             "Michael N": [
-                "9)",
+                "8)",
                 "Driver, 1/2\nCamry 3,\nTrainer",
                 "Rockford"
             ],
             "Qiana": [
-                "10)",
+                "9)",
                 "Driver, 1/2\nCamry 3,\nSupv Rx",
                 "none"
             ],
             "Caitlin": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Celina": [
-                "12)",
+                "11)",
                 "@ Store,\nwork w/ Michael",
                 "none"
             ],
             "Cynthia": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Greg": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Ian": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Jerry D": [
-                "16)",
+                "15)",
                 "@ Store",
                 "Milwaukee"
             ],
             "Sonia": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -712,31 +707,16 @@
                 "3)",
                 "Driver,\nRed Camry",
                 "Rockford"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Nov 6",
-        "meet_time": [],
-        "start_time": "Tina E",
-        "inv_type": [
-            ""
-        ],
-        "store_name": [
-            ""
-        ],
-        "address": [
-            ""
-        ],
-        "link": [
-            ""
-        ],
-        "store_note": [],
-        "employee_list": {
-            "": [
-                "",
+            ],
+            "Eva": [
+                "4)",
                 "",
                 "none"
+            ],
+            "Tina E": [
+                "5)",
+                "@ Store",
+                "Rockford"
             ]
         }
     },
