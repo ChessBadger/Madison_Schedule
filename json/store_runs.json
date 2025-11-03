@@ -469,31 +469,16 @@
                 "5)",
                 "",
                 "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Nov 5",
-        "meet_time": [],
-        "start_time": "Mike G",
-        "inv_type": [
-            "Tina E"
-        ],
-        "store_name": [
-            ""
-        ],
-        "address": [
-            ""
-        ],
-        "link": [
-            ""
-        ],
-        "store_note": [],
-        "employee_list": {
-            "": [
+            ],
+            "Mike G": [
+                "6)",
                 "",
+                "Rockford"
+            ],
+            "Tina E": [
+                "7)",
                 "",
-                "none"
+                "Rockford"
             ]
         }
     },
