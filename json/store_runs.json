@@ -802,22 +802,22 @@
                 "Driver, 1/2\nCamry 3, Equip",
                 "none"
             ],
-            "Eva": [
+            "Joseph": [
                 "2)",
                 "",
                 "none"
             ],
-            "Joseph": [
-                "3)",
-                "",
-                "none"
-            ],
             "Justin Lee": [
-                "4)",
+                "3)",
                 "Driver, 1/2\nCamry 3,\nTrainer",
                 "none"
             ],
             "Ian": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Monica": [
                 "5)",
                 "@ Store",
                 "none"
@@ -848,7 +848,7 @@
         "store_note": [
             "Area tickets are used here, Supv will need to arrive one hour early at 10:30 to post them",
             "Make sure to bring folders for both sites - *notes* - Items over $1,000 count as tenths - Count big dollar sections 1st for auditing. <br><hr id=\"note_separator\">Make sure to tag each location when completed. Try to start large Drawer sections early - they take a lot of time. <br><hr id=\"note_separator\">DC5-ITEM LEVEL <br><hr id=\"note_separator\">AURORA OUTPATIENT RX #1143 MENOMONEE FALLS <br><hr id=\"note_separator\">N93 W14575 WHITTAKER WAY <br><hr id=\"note_separator\">https://goo.gl/maps/AJgcVD6yx75Kq3yS6 <br><hr id=\"note_separator\">Need to go up a flight of stairs for this site <br><hr id=\"note_separator\">GIVE THEM COMP FILES INSTEAD OF PRINTOUTS AT END OF STORE - ALL 3 EXPORT FILES",
-            "*9:45 am IL office leave time"
+            "*IL Meet is 9:45 am at IL Office"
         ],
         "employee_list": {
             "Kim": [
@@ -856,37 +856,37 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Nate": [
+            "Eva": [
                 "2)",
-                "Optima",
+                "",
+                "none"
+            ],
+            "Nate": [
+                "3)",
+                "Driver,\nOptima",
                 "none"
             ],
             "Carlie": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
-            "Cynthia": [
                 "4)",
                 "@ Store",
                 "none"
             ],
-            "DJ": [
+            "Cynthia": [
                 "5)",
                 "@ Store",
                 "none"
             ],
-            "Lexi": [
+            "DJ": [
                 "6)",
                 "@ Store",
                 "none"
             ],
-            "Leyna": [
+            "Lexi": [
                 "7)",
                 "@ Store",
                 "none"
             ],
-            "Monica": [
+            "Leyna": [
                 "8)",
                 "@ Store",
                 "none"
