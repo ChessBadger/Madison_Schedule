@@ -1741,30 +1741,30 @@
                 "@ Store,\nOptima, Equip",
                 "none"
             ],
-            "Anisha": [
+            "Angela": [
                 "2)",
                 "",
                 "none"
             ],
-            "Elijah": [
+            "Anisha": [
                 "3)",
                 "",
                 "none"
             ],
-            "Eva": [
+            "Elijah": [
                 "4)",
+                "",
+                "none"
+            ],
+            "Eva": [
+                "5)",
                 "Rx",
                 "none"
             ],
             "Joseph": [
-                "5)",
+                "6)",
                 "Driver, 1/2\nSilver Van",
                 "none"
-            ],
-            "Josh S": [
-                "6)",
-                "",
-                "Rockford"
             ],
             "Justin Lee": [
                 "7)",
@@ -1861,18 +1861,13 @@
                 "@ Store, Equip",
                 "Rockford"
             ],
-            "Angela": [
-                "2)",
-                "Driver,\nRed Camry",
-                "none"
-            ],
             "Emily L": [
-                "3)",
-                "",
+                "2)",
+                "Red Camry, available",
                 "Rockford"
             ],
             "Tina E": [
-                "4)",
+                "3)",
                 "@ Store",
                 "Rockford"
             ]
