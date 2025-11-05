@@ -1155,109 +1155,6 @@
     {
         "date": "Tue, Nov 11",
         "meet_time": [],
-        "start_time": "6:00 AM START",
-        "inv_type": [
-            "SCAN-ITEM LEVEL"
-        ],
-        "store_name": [
-            "MARIANO'S #535 +RX, ORLAND PARK"
-        ],
-        "address": [
-            "9504 142ND ST"
-        ],
-        "link": [
-            "https://goo.gl/maps/x3S76RraqQ82"
-        ],
-        "store_note": [
-            "*IL Meet is 4:15 am at IL Office",
-            "SET UP ON REG #1 OR 2"
-        ],
-        "employee_list": {
-            "Nate": [
-                "1)",
-                "@ Store,\nOptima, Equip",
-                "none"
-            ],
-            "Angela": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Anisha": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Ashley P": [
-                "4)",
-                "Driver, 1/2\nSilver Van",
-                "Rockford"
-            ],
-            "Bri": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Elijah": [
-                "6)",
-                "",
-                "none"
-            ],
-            "Emily L": [
-                "7)",
-                "",
-                "Rockford"
-            ],
-            "Eva": [
-                "8)",
-                "",
-                "none"
-            ],
-            "Joseph": [
-                "9)",
-                "",
-                "none"
-            ],
-            "Justin Lee": [
-                "10)",
-                "Driver, 1/2\nSilver Van,\nSupv Rx",
-                "none"
-            ],
-            "Michael N": [
-                "11)",
-                "Driver, 1/2\nGray Van,\nRx",
-                "Rockford"
-            ],
-            "Qiana": [
-                "12)",
-                "Driver, 1/2\nGray Van",
-                "none"
-            ],
-            "Andrew": [
-                "13)",
-                "@ Store,\nwork w/ Leyna",
-                "none"
-            ],
-            "Leyna": [
-                "14)",
-                "@ Store,\nTrainer",
-                "none"
-            ],
-            "Sonia": [
-                "15)",
-                "@ Store",
-                "none"
-            ],
-            "Sue": [
-                "16)",
-                "@ Store",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Tue, Nov 11",
-        "meet_time": [],
         "start_time": "8:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL",
@@ -1285,6 +1182,211 @@
             "Lori": [
                 "2)",
                 "Driver 1/2  ",
+                "none"
+            ],
+            "Jerry S": [
+                "3)",
+                "@ Store",
+                "Fox Valley"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Nov 11",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "THIS IS HARRY'S BROTHER- IN-LAW (RAJA)'S STORE"
+        ],
+        "address": [
+            "HARRY'S GBS CORP (MOBIL), SOUTH BELOIT"
+        ],
+        "link": [
+            "810 BLACKHAWK BLVD"
+        ],
+        "store_note": [
+            "https://maps.app.goo.gl/DoCyfQNVq7GAaomeA",
+            "*Courtesy meet at 6:15 am"
+        ],
+        "employee_list": {
+            "Justin Lee": [
+                "1)",
+                "Optima, Equip",
+                "none"
+            ],
+            "Nate": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Nov 11",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "FOX BROS PIGGLY WIGGLY #088, SAUKVILLE"
+        ],
+        "address": [
+            "810 E GREEN BAY AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/eiMeyhHbpT82"
+        ],
+        "store_note": [
+            "*IL Meet is ?? am at IL Office"
+        ],
+        "employee_list": {
+            "DJ": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Ashley P": [
+                "2)",
+                "Driver, 1/2\nSilver Van",
+                "Rockford"
+            ],
+            "Qiana": [
+                "3)",
+                "Driver, 1/2\nSilver Van",
+                "none"
+            ],
+            "Carlie": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Celina": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Cynthia": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Ian": [
+                "7)",
+                "@ Store,\nAfter Aurora",
+                "none"
+            ],
+            "Jerry D": [
+                "8)",
+                "@ Store",
+                "Milwaukee"
+            ],
+            "Monica": [
+                "9)",
+                "@ Store,\nAfter Aurora",
+                "none"
+            ],
+            "Paul": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Sophia": [
+                "11)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Tue, Nov 11",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "FESTIVAL #2741, KIMBERLY - LIFO"
+        ],
+        "address": [
+            "800 EAST MAES AVE"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/kfzahrSKjQJjuiV29"
+        ],
+        "store_note": [],
+        "employee_list": {
+            "Jeremiah": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Bri": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Caitlin": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Kim": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Leyna": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Sonia": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Dan": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Kirsten": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Madison": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Mai": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Marcia": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Nagui": [
+                "12)",
+                "@ Store",
+                "none"
+            ],
+            "Taya": [
+                "13)",
+                "@ Store",
+                "none"
+            ],
+            "Terri": [
+                "14)",
+                "@ Store",
                 "none"
             ]
         }
@@ -1335,23 +1437,28 @@
                 "",
                 "none"
             ],
-            "Carlie": [
+            "Justin Lee": [
                 "6)",
+                "",
+                "none"
+            ],
+            "Nate": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Carlie": [
+                "8)",
                 "@ Store,\nTrainer",
                 "none"
             ],
-            "Cynthia": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
             "Monica": [
-                "8)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Zakiyah": [
-                "9)",
+                "10)",
                 "@ Store,\nwork w/ Carlie",
                 "none"
             ]
@@ -1405,39 +1512,6 @@
             "Qiana": [
                 "6)",
                 "Driver, 1/2\nCamry 3",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Wed, Nov 12",
-        "meet_time": [],
-        "start_time": "7:00 AM START",
-        "inv_type": [
-            "DC5-FINANCIAL"
-        ],
-        "store_name": [
-            "THIS IS HARRY'S BROTHER- IN-LAW (RAJA)'S STORE"
-        ],
-        "address": [
-            "HARRY'S GBS CORP (MOBIL), SOUTH BELOIT"
-        ],
-        "link": [
-            "810 BLACKHAWK BLVD"
-        ],
-        "store_note": [
-            "https://maps.app.goo.gl/DoCyfQNVq7GAaomeA",
-            "*Courtesy meet at 6:15 am"
-        ],
-        "employee_list": {
-            "Justin Lee": [
-                "1)",
-                "Optima, Equip",
-                "none"
-            ],
-            "Nate": [
-                "2)",
-                "",
                 "none"
             ]
         }
