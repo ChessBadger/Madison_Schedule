@@ -722,12 +722,12 @@
         "employee_list": {
             "Sarah": [
                 "1)",
-                "@ Store, Equip",
+                "@ Store, Equip, c-store after",
                 "none"
             ],
             "Lori": [
                 "2)",
-                "@ Store  ",
+                "@ Store, c-store after",
                 "none"
             ],
             "Annette": [
@@ -773,6 +773,38 @@
             "Terri": [
                 "11)",
                 "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Nov 13",
+        "meet_time": [],
+        "start_time": "APPROX 11:30 AM START",
+        "inv_type": [
+            "TO FOLLOW PIG MAYVILLE"
+        ],
+        "store_name": [
+            "SALE INVENTORY"
+        ],
+        "address": [
+            "CONTACT IS THE BUYER BASU"
+        ],
+        "link": [
+            "BP (JERRY'S AUTO), BEAVER DAM"
+        ],
+        "store_note": [
+            "700 N. SPRING ST <br><hr id=\"note_separator\">https://maps.app.goo.gl/DwVBnU9CPQKJwMky7"
+        ],
+        "employee_list": {
+            "Sarah": [
+                "1)",
+                "@ Store, Equip, after Pig",
+                "none"
+            ],
+            "Lori": [
+                "2)",
+                "@ Store, after Pig  ",
                 "none"
             ]
         }
