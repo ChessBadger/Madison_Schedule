@@ -725,48 +725,53 @@
                 "@ Store, Equip, c-store after",
                 "none"
             ],
-            "Lori": [
+            "Josie": [
                 "2)",
+                "@ Store, Until 10:45",
+                "none"
+            ],
+            "Lori": [
+                "3)",
                 "@ Store, c-store after",
                 "none"
             ],
             "Annette": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
-            "Dan": [
                 "4)",
                 "@ Store",
                 "none"
             ],
-            "Katie": [
+            "Dan": [
                 "5)",
                 "@ Store",
                 "none"
             ],
-            "Madison": [
+            "Katie": [
                 "6)",
                 "@ Store",
                 "none"
             ],
-            "Michelle": [
+            "Madison": [
                 "7)",
                 "@ Store",
                 "none"
             ],
-            "Nagui": [
+            "Michelle": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Taya": [
+            "Nagui": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Terri": [
+            "Taya": [
                 "10)",
+                "@ Store",
+                "none"
+            ],
+            "Terri": [
+                "11)",
                 "@ Store",
                 "none"
             ]
