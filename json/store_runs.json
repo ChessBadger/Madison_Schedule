@@ -1072,13 +1072,8 @@
                 "@ Store",
                 "none"
             ],
-            "Paul": [
-                "9)",
-                "@ Store",
-                "none"
-            ],
             "Sonia": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ]
@@ -1137,7 +1132,8 @@
             "https://maps.app.goo.gl/htW2soNPiSg6SjtM8"
         ],
         "store_note": [
-            "*IL Meet is 4:45 am at IL Office"
+            "*IL Meet is 4:45 am at IL Office",
+            "This store uses same POS as Dhillons"
         ],
         "employee_list": {
             "Qiana": [
