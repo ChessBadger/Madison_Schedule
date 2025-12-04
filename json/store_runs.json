@@ -1471,7 +1471,7 @@
             ],
             "Leyna": [
                 "9)",
-                "@ Store",
+                "@ Store,\nTrainer",
                 "none"
             ],
             "Madison": [
@@ -1479,28 +1479,33 @@
                 "@ Store",
                 "none"
             ],
-            "Pamela": [
+            "Mariah": [
                 "11)",
-                "@ Store",
+                "@ Store,\n2nd Store, work w/ Leyna",
                 "none"
             ],
-            "Sonia": [
+            "Pamela": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Sophia": [
+            "Sonia": [
                 "13)",
                 "@ Store",
                 "none"
             ],
-            "Taya": [
+            "Sophia": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Zakiyah": [
+            "Taya": [
                 "15)",
+                "@ Store",
+                "none"
+            ],
+            "Zakiyah": [
+                "16)",
                 "@ Store",
                 "none"
             ]
