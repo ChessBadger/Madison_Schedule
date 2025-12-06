@@ -1013,34 +1013,34 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Anisha": [
-                "2)",
-                "",
-                "none"
-            ],
             "Ashley P": [
-                "3)",
+                "2)",
                 "Driver, 1/2\nSilver Van",
                 "Rockford"
             ],
             "Elijah": [
-                "4)",
+                "3)",
                 "",
                 "none"
             ],
             "Joseph": [
-                "5)",
+                "4)",
                 "",
                 "none"
             ],
             "Justin Lee": [
-                "6)",
+                "5)",
                 "Driver, 1/2\nSilver Van",
                 "none"
             ],
             "Lori": [
-                "7)",
+                "6)",
                 "@ Store",
+                "none"
+            ],
+            "Qiana": [
+                "7)",
+                "",
                 "none"
             ]
         }
@@ -1070,23 +1070,18 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Qiana": [
-                "2)",
-                "Driver,\nCamry 3,\nTrainer",
-                "none"
-            ],
             "Greg": [
-                "3)",
+                "2)",
                 "@ Store,\n1st c-store",
                 "none"
             ],
             "Ian": [
-                "4)",
+                "3)",
                 "@ Store",
                 "none"
             ],
             "Paul": [
-                "5)",
+                "4)",
                 "@ Store",
                 "none"
             ]
@@ -1181,38 +1176,33 @@
                 "@ Store, 1/2\nOptima, Equip",
                 "none"
             ],
-            "Angela": [
-                "2)",
-                "",
-                "none"
-            ],
             "Bri": [
-                "3)",
+                "2)",
                 "@ Store",
                 "none"
             ],
             "Elijah": [
-                "4)",
+                "3)",
                 "",
                 "none"
             ],
             "Emily L": [
-                "5)",
+                "4)",
                 "",
                 "Rockford"
             ],
             "Michael N": [
-                "6)",
+                "5)",
                 "Driver, 1/2\nGray Van",
                 "Rockford"
             ],
             "Nate": [
-                "7)",
+                "6)",
                 "@ Store, 1/2\nOptima",
                 "none"
             ],
             "Qiana": [
-                "8)",
+                "7)",
                 "Driver, 1/2\nGray Van",
                 "none"
             ]
@@ -1243,7 +1233,7 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Anisha": [
+            "Angela": [
                 "2)",
                 "",
                 "none"
@@ -1295,7 +1285,7 @@
                 "@ Store,\nRed Camry, Equip",
                 "Rockford"
             ],
-            "Anisha": [
+            "Angela": [
                 "2)",
                 "",
                 "none"
@@ -1348,28 +1338,23 @@
                 "@ Store,\nCamry 3, Equip",
                 "none"
             ],
-            "Angela": [
-                "2)",
-                "Driver, 1/2\nGray Van",
-                "none"
-            ],
             "Emily L": [
-                "3)",
+                "2)",
                 "",
                 "Rockford"
             ],
             "Michael N": [
-                "4)",
-                "Driver, 1/2\nGray Van",
+                "3)",
+                "Driver,\nGray Van",
                 "Rockford"
             ],
             "Sarah": [
-                "5)",
+                "4)",
                 "@ Store",
                 "none"
             ],
             "Savannah": [
-                "6)",
+                "5)",
                 "@ Store",
                 "none"
             ]
@@ -1536,35 +1521,40 @@
                 "@ Store,\nRed Camry, Equip",
                 "none"
             ],
-            "Angela": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Anisha": [
-                "3)",
-                "",
-                "none"
-            ],
             "Ashley P": [
-                "4)",
+                "2)",
                 "Driver,\nSilver Van",
                 "Rockford"
             ],
             "Eva": [
-                "5)",
+                "3)",
                 "",
                 "none"
             ],
             "Joseph": [
-                "6)",
+                "4)",
                 "",
                 "none"
             ],
             "Michael N": [
-                "7)",
+                "5)",
                 "",
                 "Rockford"
+            ],
+            "Jerry D": [
+                "6)",
+                "@ Store",
+                "Milwaukee"
+            ],
+            "Leyna": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Paul": [
+                "8)",
+                "@ Store",
+                "none"
             ]
         }
     },
@@ -1628,23 +1618,28 @@
                 "Camry 3 available, Equip",
                 "none"
             ],
-            "Emily L": [
+            "Angela": [
                 "2)",
+                "",
+                "none"
+            ],
+            "Emily L": [
+                "3)",
                 "",
                 "Rockford"
             ],
             "Laci": [
-                "3)",
-                "",
-                "none"
-            ],
-            "Nate": [
                 "4)",
                 "",
                 "none"
             ],
-            "Tina E": [
+            "Nate": [
                 "5)",
+                "",
+                "none"
+            ],
+            "Tina E": [
+                "6)",
                 "",
                 "Rockford"
             ]
@@ -1674,85 +1669,55 @@
                 "1)",
                 "Equip",
                 "none"
-            ],
-            "Anisha": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Ashley P": [
-                "3)",
-                "",
-                "Rockford"
-            ],
-            "Elijah": [
-                "4)",
-                "",
-                "none"
-            ],
-            "Justin Lee": [
-                "5)",
-                "",
-                "none"
-            ],
-            "Nate": [
-                "6)",
-                "Bring Optima",
-                "none"
-            ],
-            "Qiana": [
-                "7)",
-                "",
-                "none"
             ]
         }
     },
     {
         "date": "Fri, Dec 12",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Ashley P",
         "inv_type": [
-            "DC5-FINANCIAL"
+            "Elijah"
         ],
         "store_name": [
-            "2 SISTERS PIGGLY WIGGLY #266, MARKESAN"
+            "Justin Lee"
         ],
         "address": [
-            "450 N MARGARET ST"
+            "Nate"
         ],
         "link": [
-            "https://goo.gl/maps/nVgmJAwKdEjhqQAt6"
+            "Qiana"
         ],
         "store_note": [],
         "employee_list": {
-            "Sarah": [
-                "1)",
-                "@ Store, Equip",
+            "": [
+                "",
+                "",
                 "none"
             ],
-            "Lori": [
-                "2)",
-                "@ Store",
+            "6:00 AM START": [
+                "",
+                "",
                 "none"
             ],
-            "Dan": [
-                "3)",
-                "@ Store",
+            "DC5-FINANCIAL": [
+                "",
+                "",
                 "none"
             ],
-            "Jeremiah": [
-                "4)",
-                "@ Store",
+            "2 SISTERS PIGGLY WIGGLY #266, MARKESAN": [
+                "",
+                "",
                 "none"
             ],
-            "Madison": [
-                "5)",
-                "@ Store",
+            "450 N MARGARET ST": [
+                "",
+                "",
                 "none"
             ],
-            "Trevor": [
-                "6)",
-                "@ Store",
+            "https://goo.gl/maps/nVgmJAwKdEjhqQAt6": [
+                "",
+                "",
                 "none"
             ]
         }
@@ -1760,57 +1725,84 @@
     {
         "date": "Fri, Dec 12",
         "meet_time": [],
-        "start_time": "6:30 AM START",
+        "start_time": "Sarah",
         "inv_type": [
-            "MODAS-SCAN"
+            "Lori"
         ],
         "store_name": [
-            "KELLEY #22, N MAIN MOBIL, ROCKFORD"
+            "Dan"
         ],
         "address": [
-            "3338 N MAIN ST"
+            "Jeremiah"
         ],
         "link": [
-            "https://goo.gl/maps/PPgMB73RP522"
+            "Madison"
         ],
         "store_note": [
-            "Please be careful to scan only product barcodes, and not the shelf scan tags"
+            "Trevor"
         ],
         "employee_list": {
-            "Mike G": [
-                "1)",
-                "Equip",
-                "Rockford"
-            ],
-            "Angela": [
-                "2)",
+            "": [
+                "",
                 "",
                 "none"
             ],
-            "Emily L": [
-                "3)",
+            "6:30 AM START": [
                 "",
-                "Rockford"
-            ],
-            "Eva": [
-                "4)",
                 "",
                 "none"
             ],
-            "Joseph": [
-                "5)",
+            "MODAS-SCAN": [
+                "",
                 "",
                 "none"
             ],
-            "Laci": [
-                "6)",
+            "KELLEY #22, N MAIN MOBIL, ROCKFORD": [
+                "",
                 "",
                 "none"
             ],
-            "Tina E": [
-                "7)",
+            "3338 N MAIN ST": [
                 "",
-                "Rockford"
+                "",
+                "none"
+            ],
+            "https://goo.gl/maps/PPgMB73RP522": [
+                "",
+                "",
+                "none"
+            ],
+            "Please be careful to scan only product barcodes, and not the shelf scan tags": [
+                "",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Dec 12",
+        "meet_time": [],
+        "start_time": "Mike G",
+        "inv_type": [
+            "Angela"
+        ],
+        "store_name": [
+            "Emily L"
+        ],
+        "address": [
+            "Eva"
+        ],
+        "link": [
+            "Joseph"
+        ],
+        "store_note": [
+            "Laci <br><hr id=\"note_separator\">Tina E"
+        ],
+        "employee_list": {
+            "": [
+                "",
+                "",
+                "none"
             ]
         }
     },
