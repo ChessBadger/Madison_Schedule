@@ -1669,55 +1669,90 @@
                 "1)",
                 "Equip",
                 "none"
+            ],
+            "Ashley P": [
+                "2)",
+                "",
+                "Rockford"
+            ],
+            "Elijah": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Justin Lee": [
+                "4)",
+                "",
+                "none"
+            ],
+            "Nate": [
+                "5)",
+                "Bring Optima",
+                "none"
+            ],
+            "Qiana": [
+                "6)",
+                "",
+                "none"
+            ],
+            "Greg": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Sonia": [
+                "8)",
+                "@ Store",
+                "none"
             ]
         }
     },
     {
         "date": "Fri, Dec 12",
         "meet_time": [],
-        "start_time": "Ashley P",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "Elijah"
+            "DC5-FINANCIAL"
         ],
         "store_name": [
-            "Justin Lee"
+            "2 SISTERS PIGGLY WIGGLY #266, MARKESAN"
         ],
         "address": [
-            "Nate"
+            "450 N MARGARET ST"
         ],
         "link": [
-            "Qiana"
+            "https://goo.gl/maps/nVgmJAwKdEjhqQAt6"
         ],
         "store_note": [],
         "employee_list": {
-            "": [
-                "",
-                "",
+            "Sarah": [
+                "1)",
+                "@ Store, Equip",
                 "none"
             ],
-            "6:00 AM START": [
-                "",
-                "",
+            "Lori": [
+                "2)",
+                "@ Store",
                 "none"
             ],
-            "DC5-FINANCIAL": [
-                "",
-                "",
+            "Dan": [
+                "3)",
+                "@ Store",
                 "none"
             ],
-            "2 SISTERS PIGGLY WIGGLY #266, MARKESAN": [
-                "",
-                "",
+            "Jeremiah": [
+                "4)",
+                "@ Store",
                 "none"
             ],
-            "450 N MARGARET ST": [
-                "",
-                "",
+            "Madison": [
+                "5)",
+                "@ Store",
                 "none"
             ],
-            "https://goo.gl/maps/nVgmJAwKdEjhqQAt6": [
-                "",
-                "",
+            "Trevor": [
+                "6)",
+                "@ Store",
                 "none"
             ]
         }
@@ -1725,84 +1760,57 @@
     {
         "date": "Fri, Dec 12",
         "meet_time": [],
-        "start_time": "Sarah",
+        "start_time": "6:30 AM START",
         "inv_type": [
-            "Lori"
+            "MODAS-SCAN"
         ],
         "store_name": [
-            "Dan"
+            "KELLEY #22, N MAIN MOBIL, ROCKFORD"
         ],
         "address": [
-            "Jeremiah"
+            "3338 N MAIN ST"
         ],
         "link": [
-            "Madison"
+            "https://goo.gl/maps/PPgMB73RP522"
         ],
         "store_note": [
-            "Trevor"
+            "Please be careful to scan only product barcodes, and not the shelf scan tags"
         ],
         "employee_list": {
-            "": [
-                "",
+            "Mike G": [
+                "1)",
+                "Equip",
+                "Rockford"
+            ],
+            "Angela": [
+                "2)",
                 "",
                 "none"
             ],
-            "6:30 AM START": [
+            "Emily L": [
+                "3)",
                 "",
+                "Rockford"
+            ],
+            "Eva": [
+                "4)",
                 "",
                 "none"
             ],
-            "MODAS-SCAN": [
-                "",
-                "",
-                "none"
-            ],
-            "KELLEY #22, N MAIN MOBIL, ROCKFORD": [
-                "",
+            "Joseph": [
+                "5)",
                 "",
                 "none"
             ],
-            "3338 N MAIN ST": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/PPgMB73RP522": [
-                "",
+            "Laci": [
+                "6)",
                 "",
                 "none"
             ],
-            "Please be careful to scan only product barcodes, and not the shelf scan tags": [
+            "Tina E": [
+                "7)",
                 "",
-                "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Dec 12",
-        "meet_time": [],
-        "start_time": "Mike G",
-        "inv_type": [
-            "Angela"
-        ],
-        "store_name": [
-            "Emily L"
-        ],
-        "address": [
-            "Eva"
-        ],
-        "link": [
-            "Joseph"
-        ],
-        "store_note": [
-            "Laci <br><hr id=\"note_separator\">Tina E"
-        ],
-        "employee_list": {
-            "": [
-                "",
-                "",
-                "none"
+                "Rockford"
             ]
         }
     },
