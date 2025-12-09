@@ -390,7 +390,7 @@
     {
         "date": "Wed, Dec 10",
         "meet_time": [],
-        "start_time": "7:00 AM START",
+        "start_time": "8:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL",
             "DC5-FINANCIAL"
@@ -458,7 +458,7 @@
             ],
             "Cynthia": [
                 "4)",
-                "@ Store,\nRx",
+                "@ Store",
                 "none"
             ],
             "Dan": [
@@ -466,58 +466,53 @@
                 "@ Store",
                 "none"
             ],
-            "DJ": [
+            "Jerry D": [
                 "6)",
                 "@ Store",
-                "none"
-            ],
-            "Jerry D": [
-                "7)",
-                "@ Store,\nSupv Rx",
                 "Milwaukee"
             ],
             "Kirsten": [
-                "8)",
+                "7)",
                 "@ Store",
                 "none"
             ],
             "Leyna": [
-                "9)",
+                "8)",
                 "@ Store,\nTrainer",
                 "none"
             ],
             "Madison": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Mariah": [
-                "11)",
+                "10)",
                 "@ Store,\n2nd Store, work w/ Leyna",
                 "none"
             ],
             "Paul": [
-                "12)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Sonia": [
-                "13)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Sophia": [
-                "14)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Taya": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Zakiyah": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ]
