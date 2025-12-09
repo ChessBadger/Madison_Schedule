@@ -429,7 +429,7 @@
             "SCAN-ITEM LEVEL"
         ],
         "store_name": [
-            "METRO #890 +RX, MEQUON"
+            "METRO #890, MEQUON (NO RX COUNT PER KROGER)"
         ],
         "address": [
             "11558 N PORT WASHINGTON"
@@ -471,63 +471,53 @@
                 "@ Store",
                 "none"
             ],
-            "Greg": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
             "Jerry D": [
-                "8)",
+                "7)",
                 "@ Store,\nSupv Rx",
                 "Milwaukee"
             ],
             "Kirsten": [
-                "9)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Leyna": [
-                "10)",
+                "9)",
                 "@ Store,\nTrainer",
                 "none"
             ],
             "Madison": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Mariah": [
-                "12)",
+                "11)",
                 "@ Store,\n2nd Store, work w/ Leyna",
                 "none"
             ],
-            "Pamela": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
             "Paul": [
-                "14)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Sonia": [
-                "15)",
+                "13)",
                 "@ Store",
                 "none"
             ],
             "Sophia": [
-                "16)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Taya": [
-                "17)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Zakiyah": [
-                "18)",
+                "16)",
                 "@ Store",
                 "none"
             ]
@@ -578,10 +568,10 @@
                 "",
                 "Rockford"
             ],
-            "Jerry D": [
+            "Greg": [
                 "6)",
                 "@ Store",
-                "Milwaukee"
+                "none"
             ],
             "Leyna": [
                 "7)",
