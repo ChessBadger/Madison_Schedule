@@ -1382,26 +1382,39 @@
     {
         "date": "Wed, Dec 17",
         "meet_time": [],
-        "start_time": "7:00 AM START",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            "DC5-FINANCIAL"
+            "MODAS-SCAN"
         ],
         "store_name": [
-            "DELAVAN LIQUOR & SMOKE"
+            "DHILLON'S BP, NEOSHO"
         ],
         "address": [
-            "832 E GENEVA ST"
+            "446 S SCHUYER ST"
         ],
         "link": [
-            "https://maps.app.goo.gl/XqTsBwWX6hXAciqP7"
+            "https://goo.gl/maps/cqKUT41W2wM2"
         ],
-        "store_note": [
-            "*6:00 am IL office leave time"
-        ],
+        "store_note": [],
         "employee_list": {
-            "Bri": [
+            "DJ": [
                 "1)",
                 "@ Store, Equip",
+                "none"
+            ],
+            "Bri": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Kirsten": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Paul": [
+                "4)",
+                "@ Store",
                 "none"
             ]
         }
