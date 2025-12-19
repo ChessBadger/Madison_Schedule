@@ -1134,37 +1134,32 @@
         "employee_list": {
             "Qiana": [
                 "1)",
-                "Driver,\nCamry 3,\nEquip",
-                "none"
-            ],
-            "Angela": [
-                "2)",
-                "",
-                "none"
-            ],
-            "Anisha": [
-                "3)",
-                "",
+                "Driver, 1/2\nCamry 3,\nEquip",
                 "none"
             ],
             "Ashley P": [
-                "4)",
-                "Driver,\nSilver Van",
+                "2)",
+                "Driver, 1/2\nCamry 3,\nEquip",
                 "Rockford"
             ],
-            "Elijah": [
+            "Celina": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry D": [
+                "4)",
+                "@ Store",
+                "Milwaukee"
+            ],
+            "Mariah": [
                 "5)",
-                "",
+                "@ Store",
                 "none"
             ],
-            "Eva": [
+            "Zakiyah": [
                 "6)",
-                "",
-                "none"
-            ],
-            "Joseph": [
-                "7)",
-                "",
+                "@ Store",
                 "none"
             ]
         }
@@ -1191,56 +1186,61 @@
         "employee_list": {
             "Nate": [
                 "1)",
-                "Driver, 1/2\nOptima, Equip",
+                "Driver,\nOptima, Equip",
+                "none"
+            ],
+            "Angela": [
+                "2)",
+                "Driver, 1/2\nSilver Van",
+                "none"
+            ],
+            "Anisha": [
+                "3)",
+                "",
+                "none"
+            ],
+            "Elijah": [
+                "4)",
+                "",
                 "none"
             ],
             "Emily L": [
-                "2)",
+                "5)",
                 "",
                 "Rockford"
             ],
-            "Justin Lee": [
-                "3)",
-                "Driver, 1/2\nOptima",
+            "Eva": [
+                "6)",
+                "",
                 "none"
             ],
-            "Celina": [
-                "4)",
-                "@ Store",
+            "Joseph": [
+                "7)",
+                "",
+                "none"
+            ],
+            "Justin Lee": [
+                "8)",
+                "Driver, 1/2\nSilver Van",
                 "none"
             ],
             "Greg": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
-            "Jerry D": [
-                "6)",
-                "@ Store",
-                "Milwaukee"
-            ],
-            "Leyna": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Mariah": [
-                "8)",
-                "@ Store",
-                "none"
-            ],
-            "Sonia": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Trevor": [
+            "Leyna": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Zakiyah": [
+            "Sonia": [
                 "11)",
+                "@ Store",
+                "none"
+            ],
+            "Trevor": [
+                "12)",
                 "@ Store",
                 "none"
             ]
