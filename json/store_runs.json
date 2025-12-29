@@ -532,12 +532,12 @@
         "employee_list": {
             "Justin Lee": [
                 "1)",
-                "Driver, 1/2\nCamry 3,\nEquip",
+                "Driver, 1/2\nGray Van,\nEquip",
                 "none"
             ],
             "Qiana": [
                 "2)",
-                "Driver, 1/2\nCamry 3",
+                "Driver, 1/2\nGray Van",
                 "none"
             ]
         }
@@ -663,7 +663,7 @@
             ],
             "Angela": [
                 "2)",
-                "Driver,\nCamry 3",
+                "Driver,\nGray Van",
                 "none"
             ],
             "Eva": [
