@@ -395,10 +395,10 @@
             "Anisha"
         ],
         "store_name": [
-            "Elijah"
+            "Emily L"
         ],
         "address": [
-            "Joseph"
+            "Elijah"
         ],
         "link": [
             "Michael N"
@@ -1600,6 +1600,58 @@
                 "5)",
                 "@ Store",
                 "Rockford"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jan 9",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "MONTERREY MARKET, MILWAUKEE-MAIN ST"
+        ],
+        "address": [
+            "7025 W MAIN ST"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/d9EfKz4wGsrRi6kr7"
+        ],
+        "store_note": [
+            "*NEW LOCATION"
+        ],
+        "employee_list": {
+            "Kim": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Bri": [
+                "2)",
+                "@ Store",
+                "none"
+            ],
+            "Carlie": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Mariah": [
+                "4)",
+                "@ Store, work w/ Carlie",
+                "none"
+            ],
+            "Paul": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Zakiyah": [
+                "6)",
+                "@ Store",
+                "none"
             ]
         }
     },
