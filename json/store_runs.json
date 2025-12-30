@@ -1600,31 +1600,32 @@
                 "",
                 "Rockford"
             ],
-            "Tina E": [
+            "Eva": [
                 "5)",
                 "",
-                "Rockford"
+                "none"
             ]
         }
     },
     {
         "date": "Fri, Jan 9",
         "meet_time": [],
-        "start_time": "6:00 AM START",
+        "start_time": "Tina E",
         "inv_type": [
-            "DC5-FINANCIAL"
+            ""
         ],
         "store_name": [
-            "MONTERREY MARKET, MILWAUKEE-MAIN ST"
+            ""
         ],
         "address": [
-            "7025 W MAIN ST"
+            "6:00 AM START"
         ],
         "link": [
-            "https://maps.app.goo.gl/d9EfKz4wGsrRi6kr7"
+            "DC5-FINANCIAL"
         ],
         "store_note": [
-            "*NEW LOCATION"
+            "*NEW LOCATION",
+            "MONTERREY MARKET, MILWAUKEE-MAIN ST <br><hr id=\"note_separator\">7025 W MAIN ST <br><hr id=\"note_separator\">https://maps.app.goo.gl/d9EfKz4wGsrRi6kr7"
         ],
         "employee_list": {
             "Kim": [
