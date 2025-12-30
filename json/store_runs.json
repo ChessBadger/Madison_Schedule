@@ -1568,17 +1568,16 @@
             "MODAS"
         ],
         "store_name": [
-            "KELLEY #42, PECATONICA"
+            "KELLEY #38, APPLEWOOD MOBIL, LOVES PARK"
         ],
         "address": [
-            "102 9TH ST"
+            "5542 E RIVERSIDE BLVD"
         ],
         "link": [
-            "https://goo.gl/maps/AJpYhUMPHam"
+            "https://maps.app.goo.gl/cGFkuuquikuyXnEQ9"
         ],
         "store_note": [
-            "Please be careful to scan only product barcodes, and not the shelf scan tags",
-            "*IL Meet is 6:00 am at IL office"
+            "Please be careful to scan only product barcodes, and not the shelf scan tags"
         ],
         "employee_list": {
             "Mike G": [
@@ -1588,12 +1587,12 @@
             ],
             "Angela": [
                 "2)",
-                "Driver,\nRed Camry",
+                "",
                 "none"
             ],
             "Ashley P": [
                 "3)",
-                "@ Store",
+                "",
                 "Rockford"
             ],
             "Emily L": [
@@ -1603,7 +1602,7 @@
             ],
             "Tina E": [
                 "5)",
-                "@ Store",
+                "",
                 "Rockford"
             ]
         }
