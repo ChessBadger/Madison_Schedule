@@ -1661,6 +1661,39 @@
         }
     },
     {
+        "date": "Fri, Jan 9",
+        "meet_time": [],
+        "start_time": "7:00 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "CITGO, MADISON - SHERMAN AVE"
+        ],
+        "address": [
+            "1010 N SHERMAN AVE"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/PmMKFwQoznakKKSf7"
+        ],
+        "store_note": [
+            "*IL Meet is 5:45 am at IL office",
+            "Lakhbir buying this store.  Do NOT need to collect"
+        ],
+        "employee_list": {
+            "": [
+                "1)",
+                "",
+                "none"
+            ],
+            "Justin Lee": [
+                "2)",
+                "",
+                "none"
+            ]
+        }
+    },
+    {
         "date": "Sat, Jan 10",
         "meet_time": [],
         "start_time": null,
