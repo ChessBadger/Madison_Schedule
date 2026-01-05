@@ -257,9 +257,9 @@
                 "Driver,\nRed Camry",
                 "Rockford"
             ],
-            "Lori": [
+            "Nate": [
                 "4)",
-                "@ Store",
+                "",
                 "none"
             ]
         }
@@ -300,15 +300,15 @@
                 "",
                 "none"
             ],
-            "Michael N": [
+            "Josie": [
                 "4)",
-                "Driver, 1/2\nOptima",
-                "Rockford"
-            ],
-            "Nate": [
-                "5)",
-                "Driver, 1/2\nOptima",
+                "",
                 "none"
+            ],
+            "Michael N": [
+                "5)",
+                "Driver, \nOptima",
+                "Rockford"
             ],
             "Savannah": [
                 "6)",
@@ -1257,18 +1257,13 @@
                 "@ Store",
                 "none"
             ],
-            "Sonia": [
+            "Sue": [
                 "16)",
                 "@ Store",
                 "none"
             ],
-            "Sue": [
-                "17)",
-                "@ Store",
-                "none"
-            ],
             "Zakiyah": [
-                "18)",
+                "17)",
                 "@ Store,\nUntil noon",
                 "none"
             ]
@@ -1499,43 +1494,38 @@
                 "@ Store,\nSupv Rx",
                 "Milwaukee"
             ],
-            "Lexi": [
+            "Leyna": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Leyna": [
+            "Mariah": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Mariah": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
             "Matthew": [
-                "14)",
+                "13)",
                 "@ Store,\nwork w/ Carlie",
                 "none"
             ],
             "Monica": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Paul": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Sonia": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ],
             "Zakiyah": [
-                "18)",
+                "17)",
                 "@ Store",
                 "none"
             ]
@@ -1898,53 +1888,48 @@
                 "@ Store,\nTrainer",
                 "none"
             ],
-            "Greg": [
+            "Jeremiah": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Jeremiah": [
+            "Kim": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Kim": [
+            "Kirsten": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Kirsten": [
+            "Mai": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Mai": [
+            "Mariah": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Mariah": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
             "Matthew": [
-                "14)",
+                "13)",
                 "@ Store,\nwork w/ Carlie",
                 "none"
             ],
             "Paul": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ],
             "Sonia": [
-                "16)",
+                "15)",
                 "@ Store",
                 "none"
             ],
             "Zakiyah": [
-                "17)",
+                "16)",
                 "@ Store",
                 "none"
             ]
