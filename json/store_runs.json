@@ -738,47 +738,56 @@
                 "@ Store, Equip",
                 "Rockford"
             ],
-            "Angela": [
+            "Anisha": [
                 "2)",
                 "",
                 "none"
             ],
-            "Ashley P": [
+            "Angela": [
                 "3)",
                 "",
-                "Rockford"
+                "none"
             ],
-            "Emily L": [
+            "Ashley P": [
                 "4)",
                 "",
                 "Rockford"
             ],
-            "Eva": [
+            "Emily L": [
                 "5)",
                 "",
+                "Rockford"
+            ],
+            "Eva": [
+                "6)",
+                "",
                 "none"
+            ],
+            "Tina E": [
+                "7)",
+                "",
+                "Rockford"
             ]
         }
     },
     {
         "date": "Fri, Jan 9",
         "meet_time": [],
-        "start_time": "Tina E",
+        "start_time": "6:00 AM START",
         "inv_type": [
-            ""
-        ],
-        "store_name": [
-            ""
-        ],
-        "address": [
-            "6:00 AM START"
-        ],
-        "link": [
             "DC5-FINANCIAL"
         ],
+        "store_name": [
+            "MONTERREY MARKET, MILWAUKEE-MAIN ST"
+        ],
+        "address": [
+            "7025 W MAIN ST"
+        ],
+        "link": [
+            "https://maps.app.goo.gl/d9EfKz4wGsrRi6kr7"
+        ],
         "store_note": [
-            "*NEW LOCATION",
-            "MONTERREY MARKET, MILWAUKEE-MAIN ST <br><hr id=\"note_separator\">7025 W MAIN ST <br><hr id=\"note_separator\">https://maps.app.goo.gl/d9EfKz4wGsrRi6kr7"
+            "*NEW LOCATION"
         ],
         "employee_list": {
             "Kim": [
@@ -1446,7 +1455,7 @@
             ],
             "Ashley P": [
                 "2)",
-                "Driver,\nSilver Van,\nRx",
+                "Driver,\nSilver Van,\nSupv Rx",
                 "Rockford"
             ],
             "Bri": [
@@ -1486,7 +1495,7 @@
             ],
             "Jerry D": [
                 "10)",
-                "@ Store,\nSupv Rx",
+                "@ Store,\nRx\nuntil 11:30",
                 "Milwaukee"
             ],
             "Leyna": [
