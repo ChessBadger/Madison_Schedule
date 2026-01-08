@@ -1500,12 +1500,12 @@
             ],
             "Leyna": [
                 "11)",
-                "@ Store",
+                "@ Store,\nTrainer",
                 "none"
             ],
             "Mariah": [
                 "12)",
-                "@ Store",
+                "@ Store,\nwork w/ Leyna",
                 "none"
             ],
             "Matthew": [
@@ -1884,7 +1884,7 @@
             ],
             "Nate": [
                 "6)",
-                "Driver, 1/2\nSilver Van",
+                "Driver, 1/2\nSilver Van,\nTrainer",
                 "none"
             ],
             "Carlie": [
@@ -1914,7 +1914,7 @@
             ],
             "Mariah": [
                 "12)",
-                "@ Store",
+                "@ Store,\nwork w/ \nNate",
                 "none"
             ],
             "Matthew": [
