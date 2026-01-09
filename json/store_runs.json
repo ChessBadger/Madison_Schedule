@@ -1851,7 +1851,7 @@
             "SCAN-ITEM LEVEL"
         ],
         "store_name": [
-            "PICK #417 +RX, WEST BEND - WASHINGTON"
+            "PICK #417, WEST BEND - WASHINGTON (NO RX COUNT)"
         ],
         "address": [
             "2518 W WASHINGTON STREET"
@@ -1870,7 +1870,7 @@
             ],
             "Ashley P": [
                 "2)",
-                "Driver, 1/2\nSilver Van,\nSupv Rx",
+                "Driver, 1/2\nSilver Van",
                 "Rockford"
             ],
             "Elijah": [
@@ -1885,7 +1885,7 @@
             ],
             "Joseph": [
                 "5)",
-                "Rx",
+                "",
                 "none"
             ],
             "Nate": [
