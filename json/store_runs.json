@@ -505,6 +505,11 @@
                 "3)",
                 "Driver, 1/2\nOptima",
                 "none"
+            ],
+            "Michael N": [
+                "4)",
+                "",
+                "Rockford"
             ]
         }
     },
@@ -531,7 +536,7 @@
         "employee_list": {
             "Qiana": [
                 "1)",
-                "@ Store,\nCamry 3, Equip",
+                "Driver,\nCamry 3, Equip",
                 "none"
             ],
             "Eva": [
@@ -544,18 +549,13 @@
                 "@ Store, Until Noon",
                 "none"
             ],
-            "Michael N": [
-                "4)",
-                "Driver,\nRed Camry",
-                "Rockford"
-            ],
             "Sarah": [
-                "5)",
+                "4)",
                 "@ Store",
                 "none"
             ],
             "Savannah": [
-                "6)",
+                "5)",
                 "@ Store",
                 "none"
             ]
