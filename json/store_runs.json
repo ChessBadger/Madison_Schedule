@@ -1098,31 +1098,21 @@
                 "1)",
                 "Equip",
                 "Rockford"
-            ]
-        }
-    },
-    {
-        "date": "Fri, Jan 16",
-        "meet_time": [],
-        "start_time": "Emily L",
-        "inv_type": [
-            "Spencer P"
-        ],
-        "store_name": [
-            "Tina E"
-        ],
-        "address": [
-            ""
-        ],
-        "link": [
-            ""
-        ],
-        "store_note": [],
-        "employee_list": {
-            "": [
+            ],
+            "Emily L": [
+                "2)",
+                "Driver,\nGray Van",
+                "Rockford"
+            ],
+            "Spencer P": [
+                "3)",
                 "",
-                "",
-                "none"
+                "Rockford"
+            ],
+            "Tina E": [
+                "4)",
+                "@ Store",
+                "Rockford"
             ]
         }
     },
