@@ -541,7 +541,7 @@
     {
         "date": "Wed, Jan 21",
         "meet_time": [],
-        "start_time": "6:30 AMSTART",
+        "start_time": "7:30 AM START",
         "inv_type": [
             "DC5-ITEM LEVEL"
         ],
@@ -555,7 +555,7 @@
             "https://goo.gl/maps/btWWBCtemW22"
         ],
         "store_note": [
-            "*IL Meet is 5:00 am at IL Office",
+            "*IL Meet is 6:00 am at IL Office",
             "Please be careful to scan only product barcodes, and not the shelf scan tags"
         ],
         "employee_list": {
