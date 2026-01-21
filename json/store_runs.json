@@ -853,23 +853,28 @@
                 "@ Store",
                 "none"
             ],
-            "Paul": [
+            "Missy": [
                 "10)",
+                "@ Store,\nwork w/ Leyna",
+                "none"
+            ],
+            "Paul": [
+                "11)",
                 "@ Store,\nuntil 12:00",
                 "none"
             ],
             "Sonia": [
-                "11)",
+                "12)",
                 "@ Store",
                 "none"
             ],
             "Sue": [
-                "12)",
+                "13)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Zakiyah": [
-                "13)",
+                "14)",
                 "@ Store",
                 "none"
             ]
