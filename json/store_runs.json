@@ -776,19 +776,101 @@
                 "Driver, \nSilver Van",
                 "Rockford"
             ],
-            "Bri": [
-                "5)",
-                "@ Store",
-                "none"
-            ],
             "Eva": [
-                "6)",
+                "5)",
                 "",
                 "none"
             ],
             "Joseph": [
-                "7)",
+                "6)",
                 "",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Thu, Jan 22",
+        "meet_time": [],
+        "start_time": "6:00 AM START",
+        "inv_type": [
+            "SCAN-ITEM LEVEL"
+        ],
+        "store_name": [
+            "PICK #847 +FC-RX, WEST ALLIS - MARKET SQ"
+        ],
+        "address": [
+            "6760 W NATIONAL AVE"
+        ],
+        "link": [
+            "https://goo.gl/maps/G4vnZ7jFLF1ooLXD8"
+        ],
+        "store_note": [
+            "SET UP ON REG #6; FUEL CENTER USUALLY DBS, BUT ASK"
+        ],
+        "employee_list": {
+            "Bri": [
+                "1)",
+                "@ Store, Equip",
+                "none"
+            ],
+            "Andrew": [
+                "2)",
+                "@ Store",
+                "none"
+            ],
+            "Carlie": [
+                "3)",
+                "@ Store,\nuntil 11:15",
+                "none"
+            ],
+            "Celina": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Cynthia": [
+                "5)",
+                "@ Store",
+                "none"
+            ],
+            "Greg": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry D": [
+                "7)",
+                "@ Store,\nSupv Rx",
+                "Milwaukee"
+            ],
+            "Leyna": [
+                "8)",
+                "@ Store,\nTrainer",
+                "none"
+            ],
+            "Mariah": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Paul": [
+                "10)",
+                "@ Store,\nuntil 12:00",
+                "none"
+            ],
+            "Sonia": [
+                "11)",
+                "@ Store",
+                "none"
+            ],
+            "Sue": [
+                "12)",
+                "@ Store,\nRx",
+                "none"
+            ],
+            "Zakiyah": [
+                "13)",
+                "@ Store",
                 "none"
             ]
         }
@@ -916,23 +998,28 @@
                 "@ Store",
                 "none"
             ],
-            "Leyna": [
+            "Kim": [
                 "12)",
+                "@ Store",
+                "none"
+            ],
+            "Leyna": [
+                "13)",
                 "@ Store,\nTrainer",
                 "none"
             ],
             "Mariah": [
-                "13)",
+                "14)",
                 "@ Store,\nwork w/ Justin",
                 "none"
             ],
             "Matthew": [
-                "14)",
+                "15)",
                 "@ Store,\nwork w/ Leyna",
                 "none"
             ],
             "Paul": [
-                "15)",
+                "16)",
                 "@ Store",
                 "none"
             ]
