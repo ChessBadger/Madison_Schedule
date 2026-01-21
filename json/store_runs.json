@@ -1247,7 +1247,7 @@
             "https://goo.gl/maps/fDZakniRj1n"
         ],
         "store_note": [
-            "DM IS JEFF"
+            "DM IS JEFF <br><hr id=\"note_separator\">Please be careful to scan only product barcodes, and not the shelf scan tags"
         ],
         "employee_list": {
             "Qiana": [
@@ -1294,6 +1294,7 @@
             "https://goo.gl/maps/J3eqmpHTTNT2"
         ],
         "store_note": [
+            "Please be careful to scan only product barcodes, and not the shelf scan tags",
             "*IL Meet is 5:30 am at IL Office"
         ],
         "employee_list": {
@@ -1542,7 +1543,9 @@
         "link": [
             "https://goo.gl/maps/4SWJvN8ZsuH2"
         ],
-        "store_note": [],
+        "store_note": [
+            "Please be careful to scan only product barcodes, and not the shelf scan tags"
+        ],
         "employee_list": {
             "Mike G": [
                 "1)",
