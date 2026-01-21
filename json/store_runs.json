@@ -516,23 +516,28 @@
                 "Driver, 1/2\nOptima",
                 "none"
             ],
-            "Celina": [
+            "Carlie": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Jerry D": [
+            "Celina": [
                 "9)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry D": [
+                "10)",
                 "@ Store",
                 "Milwaukee"
             ],
             "Matthew": [
-                "10)",
+                "11)",
                 "@ Store,\nwork w/ Michael",
                 "none"
             ],
             "Sue": [
-                "11)",
+                "12)",
                 "@ Store",
                 "none"
             ]
@@ -785,11 +790,6 @@
                 "7)",
                 "",
                 "none"
-            ],
-            "Justin Lee": [
-                "8)",
-                "Driver, 1/2\nSilver Van",
-                "none"
             ]
         }
     },
@@ -873,7 +873,7 @@
             ],
             "Ashley P": [
                 "3)",
-                "Driver,\nSilver Van,\nSupv Rx",
+                "Driver, 1/2\nSilver Van,\nSupv Rx",
                 "Rockford"
             ],
             "Elijah": [
@@ -893,52 +893,47 @@
             ],
             "Justin Lee": [
                 "7)",
-                "Driver, 1/2\nOptima,\nTrainer",
-                "none"
-            ],
-            "Nate": [
-                "8)",
-                "Driver, 1/2\nOptima",
+                "Driver, 1/2\nSilver Van,\nTrainer",
                 "none"
             ],
             "Anamaria": [
-                "9)",
+                "8)",
                 "@ Store",
                 "none"
             ],
             "Andrew": [
-                "10)",
+                "9)",
                 "@ Store",
                 "none"
             ],
             "Greg": [
-                "11)",
+                "10)",
                 "@ Store",
                 "none"
             ],
             "Ian": [
-                "12)",
-                "@ Store",
-                "none"
-            ],
-            "Katherine": [
-                "13)",
+                "11)",
                 "@ Store",
                 "none"
             ],
             "Leyna": [
-                "14)",
+                "12)",
                 "@ Store,\nTrainer",
                 "none"
             ],
             "Mariah": [
-                "15)",
+                "13)",
                 "@ Store,\nwork w/ Justin",
                 "none"
             ],
             "Matthew": [
-                "16)",
+                "14)",
                 "@ Store,\nwork w/ Leyna",
+                "none"
+            ],
+            "Paul": [
+                "15)",
+                "@ Store",
                 "none"
             ]
         }
@@ -991,6 +986,79 @@
             ],
             "Savannah": [
                 "6)",
+                "@ Store",
+                "none"
+            ]
+        }
+    },
+    {
+        "date": "Fri, Jan 23",
+        "meet_time": [],
+        "start_time": "6:30 AM START",
+        "inv_type": [
+            "DC5-FINANCIAL"
+        ],
+        "store_name": [
+            "FESTIVAL #2709, FORT ATKINSON - LIFO"
+        ],
+        "address": [
+            "328 WASHINGTON ST"
+        ],
+        "link": [
+            "https://goo.gl/maps/E1u3J2TBaJA2"
+        ],
+        "store_note": [
+            "PARTIAL RESET-REMAPPED",
+            "*5:00 am IL office leave time"
+        ],
+        "employee_list": {
+            "Nate": [
+                "1)",
+                "@ Store, Optima, Equip",
+                "none"
+            ],
+            "Celina": [
+                "2)",
+                "@ Store",
+                "none"
+            ],
+            "Cynthia": [
+                "3)",
+                "@ Store",
+                "none"
+            ],
+            "Dan": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry D": [
+                "5)",
+                "@ Store",
+                "Milwaukee"
+            ],
+            "Katherine": [
+                "6)",
+                "@ Store",
+                "none"
+            ],
+            "Madison": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Monica": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Sonia": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Zakiyah": [
+                "10)",
                 "@ Store",
                 "none"
             ]
