@@ -759,28 +759,23 @@
                 "@ Store",
                 "none"
             ],
-            "Monica": [
+            "Paul": [
                 "11)",
                 "@ Store",
                 "none"
             ],
-            "Paul": [
+            "Sonia": [
                 "12)",
                 "@ Store",
                 "none"
             ],
-            "Sonia": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
             "Sue": [
-                "14)",
+                "13)",
                 "@ Store,\nRx",
                 "none"
             ],
             "Zakiyah": [
-                "15)",
+                "14)",
                 "@ Store",
                 "none"
             ]
@@ -814,7 +809,7 @@
             ],
             "Angela": [
                 "2)",
-                "",
+                "Trainer",
                 "none"
             ],
             "Ashley P": [
@@ -857,43 +852,48 @@
                 "Driver 1/2,\nSupv Rx",
                 "none"
             ],
-            "Ian": [
+            "Charletta": [
                 "11)",
+                "@ Store,\n2nd day,\nwork w/ Angela",
+                "none"
+            ],
+            "Ian": [
+                "12)",
                 "@ Store,\nAfter c-store",
                 "none"
             ],
             "Jerry S": [
-                "12)",
+                "13)",
                 "@ Store",
                 "Fox Valley"
             ],
             "Kirsten": [
-                "13)",
-                "@ Store",
-                "none"
-            ],
-            "Mai": [
                 "14)",
                 "@ Store",
                 "none"
             ],
-            "Marcia": [
+            "Mai": [
                 "15)",
                 "@ Store",
                 "none"
             ],
-            "Mariah": [
+            "Marcia": [
                 "16)",
                 "@ Store",
                 "none"
             ],
-            "Missy": [
+            "Mariah": [
                 "17)",
+                "@ Store",
+                "none"
+            ],
+            "Missy": [
+                "18)",
                 "@ Store,\n3rd day,\nwork w/ Nate",
                 "none"
             ],
             "Paul": [
-                "18)",
+                "19)",
                 "@ Store,\nAfter c-store",
                 "none"
             ]
