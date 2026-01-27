@@ -849,7 +849,7 @@
             ],
             "Nate": [
                 "9)",
-                "Driver, 1/2\nSilver Van",
+                "Driver, 1/2\nSilver Van,\nTrainer",
                 "none"
             ],
             "Sarah": [
@@ -887,8 +887,13 @@
                 "@ Store",
                 "none"
             ],
-            "Paul": [
+            "Missy": [
                 "17)",
+                "@ Store,\n3rd day,\nwork w/ Nate",
+                "none"
+            ],
+            "Paul": [
+                "18)",
                 "@ Store,\nAfter c-store",
                 "none"
             ]
@@ -1294,7 +1299,7 @@
             ],
             "Nate": [
                 "10)",
-                "Driver 1/2,\nOptima",
+                "Driver 1/2,\nOptima,\nTrainer",
                 "none"
             ],
             "Sarah": [
@@ -1322,8 +1327,13 @@
                 "@ Store",
                 "none"
             ],
-            "Paul": [
+            "Missy": [
                 "16)",
+                "@ Store,\nwork w/ Nate",
+                "none"
+            ],
+            "Paul": [
+                "17)",
                 "@ Store,\nAfter Aurora",
                 "none"
             ]
@@ -1547,7 +1557,7 @@
             ],
             "Michael N": [
                 "9)",
-                "Driver, 1/2\nCamry 3",
+                "Driver, 1/2\nCamry 3,\nTrainer",
                 "Rockford"
             ],
             "Qiana": [
@@ -1577,7 +1587,7 @@
             ],
             "Missy": [
                 "15)",
-                "@ Store",
+                "@ Store,\nwork w/ Michael",
                 "none"
             ]
         }
