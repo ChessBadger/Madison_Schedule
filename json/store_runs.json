@@ -257,10 +257,10 @@
             "Please be careful to scan only product barcodes, and not the shelf scan tags <br><hr id=\"note_separator\">Nate / Qiana - Gray van to Buttita after the Kelley"
         ],
         "employee_list": {
-            "Mike G": [
+            "Qiana": [
                 "1)",
-                "Equip",
-                "Rockford"
+                "*Gray Van after*\nEquip",
+                "none"
             ],
             "Anisha": [
                 "2)",
@@ -297,13 +297,8 @@
                 "*Gray Van after*",
                 "none"
             ],
-            "Qiana": [
-                "9)",
-                "*Gray Van after*",
-                "none"
-            ],
             "Tina E": [
-                "10)",
+                "9)",
                 "",
                 "Rockford"
             ]
