@@ -563,90 +563,133 @@
                 "1)",
                 "@ Store,\nEquip",
                 "none"
+            ],
+            "Angela": [
+                "2)",
+                "",
+                "none"
+            ],
+            "Justin Lee": [
+                "3)",
+                "Driver,\nGray Van",
+                "none"
+            ],
+            "Ian": [
+                "4)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry D": [
+                "5)",
+                "@ Store",
+                "Milwaukee"
+            ],
+            "Josie": [
+                "6)",
+                "@ Store, Until 10",
+                "none"
+            ],
+            "Katherine": [
+                "7)",
+                "@ Store",
+                "none"
+            ],
+            "Kim": [
+                "8)",
+                "@ Store",
+                "none"
+            ],
+            "Leyna": [
+                "9)",
+                "@ Store",
+                "none"
+            ],
+            "Monica": [
+                "10)",
+                "@ Store",
+                "none"
+            ],
+            "Sarah": [
+                "11)",
+                "@ Store  ",
+                "none"
+            ],
+            "Savannah": [
+                "12)",
+                "@ Store  ",
+                "none"
+            ],
+            "Sonia": [
+                "13)",
+                "@ Store",
+                "none"
             ]
         }
     },
     {
         "date": "Thu, Feb 19",
         "meet_time": [],
-        "start_time": "Justin Lee",
+        "start_time": "6:30 AM START",
         "inv_type": [
-            "Ian"
+            "MODAS-SCAN"
         ],
         "store_name": [
-            "Jerry D"
+            "KELLEY #36, LOVES PARK MOBIL"
         ],
         "address": [
-            "Josie"
+            "6224 N 2ND ST"
         ],
         "link": [
-            "Katherine"
+            "https://goo.gl/maps/baMuHHcvqPF2"
         ],
         "store_note": [
-            "Kim <br><hr id=\"note_separator\">Leyna <br><hr id=\"note_separator\">Monica <br><hr id=\"note_separator\">Sarah <br><hr id=\"note_separator\">Savannah <br><hr id=\"note_separator\">Sonia"
+            "Please be careful to scan only product barcodes, and not the shelf scan tags"
         ],
         "employee_list": {
-            "": [
-                "",
+            "Mike G": [
+                "1)",
+                "Equip",
+                "Rockford"
+            ],
+            "Amy": [
+                "2)",
                 "",
                 "none"
             ],
-            "6:30 AM START": [
-                "",
-                "",
-                "none"
-            ],
-            "MODAS-SCAN": [
-                "",
+            "Anisha": [
+                "3)",
                 "",
                 "none"
             ],
-            "KELLEY #36, LOVES PARK MOBIL": [
+            "Emily L": [
+                "4)",
                 "",
+                "Rockford"
+            ],
+            "Eva": [
+                "5)",
                 "",
                 "none"
             ],
-            "6224 N 2ND ST": [
-                "",
-                "",
-                "none"
-            ],
-            "https://goo.gl/maps/baMuHHcvqPF2": [
-                "",
+            "Laci": [
+                "6)",
                 "",
                 "none"
             ],
-            "Please be careful to scan only product barcodes, and not the shelf scan tags": [
+            "Michael N": [
+                "7)",
                 "",
+                "Rockford"
+            ],
+            "Spencer P": [
+                "8)",
                 "",
-                "none"
-            ]
-        }
-    },
-    {
-        "date": "Thu, Feb 19",
-        "meet_time": [],
-        "start_time": "Mike G",
-        "inv_type": [
-            "Amy"
-        ],
-        "store_name": [
-            "Anisha"
-        ],
-        "address": [
-            "Emily L"
-        ],
-        "link": [
-            "Eva"
-        ],
-        "store_note": [
-            "Laci <br><hr id=\"note_separator\">Michael N <br><hr id=\"note_separator\">Spencer P <br><hr id=\"note_separator\">Tina E"
-        ],
-        "employee_list": {
-            "": [
+                "Rockford"
+            ],
+            "Tina E": [
+                "9)",
                 "",
-                "",
-                "none"
+                "Rockford"
             ]
         }
     },
