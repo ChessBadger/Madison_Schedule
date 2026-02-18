@@ -569,58 +569,63 @@
                 "",
                 "none"
             ],
-            "Justin Lee": [
+            "Josie": [
                 "3)",
-                "Driver,\nGray Van",
+                "@ Store, until 10:00",
                 "none"
             ],
-            "Ian": [
+            "Justin Lee": [
                 "4)",
+                "Driver, 1/2\nGray Van",
+                "none"
+            ],
+            "Michael N": [
+                "5)",
+                "Driver, 1/2\nGray Van",
+                "Rockford"
+            ],
+            "Ian": [
+                "6)",
                 "@ Store",
                 "none"
             ],
             "Jerry D": [
-                "5)",
+                "7)",
                 "@ Store",
                 "Milwaukee"
             ],
-            "Josie": [
-                "6)",
-                "@ Store, Until 10",
-                "none"
-            ],
             "Katherine": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Kim": [
                 "8)",
                 "@ Store",
                 "none"
             ],
-            "Leyna": [
+            "Kim": [
                 "9)",
                 "@ Store",
                 "none"
             ],
-            "Monica": [
+            "Leyna": [
                 "10)",
                 "@ Store",
                 "none"
             ],
-            "Sarah": [
+            "Monica": [
                 "11)",
-                "@ Store  ",
+                "@ Store",
                 "none"
             ],
-            "Savannah": [
+            "Sarah": [
                 "12)",
                 "@ Store  ",
                 "none"
             ],
-            "Sonia": [
+            "Savannah": [
                 "13)",
+                "@ Store  ",
+                "none"
+            ],
+            "Sonia": [
+                "14)",
                 "@ Store",
                 "none"
             ]
@@ -676,18 +681,13 @@
                 "",
                 "none"
             ],
-            "Michael N": [
+            "Spencer P": [
                 "7)",
                 "",
                 "Rockford"
             ],
-            "Spencer P": [
-                "8)",
-                "",
-                "Rockford"
-            ],
             "Tina E": [
-                "9)",
+                "8)",
                 "",
                 "Rockford"
             ]
@@ -822,6 +822,11 @@
             "Qiana": [
                 "5)",
                 "Driver, 1/2\nCamry 3",
+                "none"
+            ],
+            "Josie": [
+                "6)",
+                "@ Store",
                 "none"
             ]
         }
