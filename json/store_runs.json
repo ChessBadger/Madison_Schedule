@@ -35,10 +35,10 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Ashley P": [
+            "Angela": [
                 "2)",
                 "Driver, 1/2\nRed Camry,\nTrainer",
-                "Rockford"
+                "none"
             ],
             "Bri": [
                 "3)",
@@ -57,7 +57,7 @@
             ],
             "Charletta": [
                 "6)",
-                "@ Store,\nwork w/ Ashley",
+                "@ Store,\nwork w/ Angela",
                 "none"
             ],
             "Greg": [
@@ -103,23 +103,18 @@
                 "@ Store,\nCamry 3, Equip",
                 "none"
             ],
-            "Angela": [
+            "Eva": [
                 "2)",
                 "",
                 "none"
             ],
-            "Eva": [
-                "3)",
-                "",
-                "none"
-            ],
             "Spencer P": [
-                "4)",
+                "3)",
                 "",
                 "Rockford"
             ],
             "Justin Lee": [
-                "5)",
+                "4)",
                 "Driver,\nGray Van",
                 "none"
             ]
