@@ -482,11 +482,6 @@
                 "13)",
                 "@ Store",
                 "Milwaukee"
-            ],
-            "Sue": [
-                "14)",
-                "@ Store",
-                "none"
             ]
         }
     },
@@ -777,7 +772,7 @@
     {
         "date": "Fri, Feb 27",
         "meet_time": [],
-        "start_time": "7:00 AM START",
+        "start_time": "6:00 AM START",
         "inv_type": [
             "DC5-FINANCIAL"
         ],
