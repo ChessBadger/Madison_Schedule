@@ -235,35 +235,35 @@
             ],
             "Bri": [
                 "2)",
-                "@ Store",
+                "w/ Nate",
+                "none"
+            ],
+            "Nate": [
+                "3)",
+                "w/ Bri",
                 "none"
             ],
             "Celina": [
-                "3)",
-                "@ Store",
-                "none"
-            ],
-            "Cynthia": [
                 "4)",
                 "@ Store",
                 "none"
             ],
-            "Greg": [
+            "Cynthia": [
                 "5)",
                 "@ Store",
                 "none"
             ],
-            "Jerry D": [
+            "Greg": [
                 "6)",
+                "@ Store",
+                "none"
+            ],
+            "Jerry D": [
+                "7)",
                 "@ Store",
                 "Milwaukee"
             ],
             "Matthew": [
-                "7)",
-                "@ Store",
-                "none"
-            ],
-            "Monica": [
                 "8)",
                 "@ Store",
                 "none"
@@ -304,7 +304,7 @@
             "https://goo.gl/maps/TSgMUriHbJPX9hGE7"
         ],
         "store_note": [
-            "*IL Meet is 3:45 am at IL Office"
+            "*IL leave time is 3:45 am from \nIL Office"
         ],
         "employee_list": {
             "Katherine": [
@@ -314,12 +314,7 @@
             ],
             "Justin Lee": [
                 "2)",
-                "Driver, 1/2\nOptima",
-                "none"
-            ],
-            "Nate": [
-                "3)",
-                "Driver, 1/2\nOptima",
+                "Driver,\nSilver Van",
                 "none"
             ]
         }
@@ -347,7 +342,7 @@
                 "@ Store, Equip",
                 "none"
             ],
-            "Lori": [
+            "Michelle": [
                 "2)",
                 "@ Store",
                 "none"
