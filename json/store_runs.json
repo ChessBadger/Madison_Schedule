@@ -503,7 +503,7 @@
             ],
             "Amy": [
                 "2)",
-                "",
+                "@ Store",
                 "none"
             ],
             "Emily L": [
@@ -1355,7 +1355,9 @@
         "link": [
             "https://goo.gl/maps/4PUH7pFz6i52"
         ],
-        "store_note": [],
+        "store_note": [
+            "Jerry D may be available after his Aurora site.  He will call to see if he's needed"
+        ],
         "employee_list": {
             "Bri": [
                 "1)",
@@ -1439,33 +1441,28 @@
                 "Equip",
                 "Rockford"
             ],
-            "Amy": [
+            "Angela": [
                 "2)",
                 "",
                 "none"
             ],
-            "Angela": [
-                "3)",
-                "",
-                "none"
-            ],
             "Emily L": [
-                "4)",
+                "3)",
                 "",
                 "Rockford"
             ],
             "Laci": [
-                "5)",
+                "4)",
                 "",
                 "none"
             ],
             "Spencer P": [
-                "6)",
+                "5)",
                 "",
                 "Rockford"
             ],
             "Tina E": [
-                "7)",
+                "6)",
                 "",
                 "Rockford"
             ]
